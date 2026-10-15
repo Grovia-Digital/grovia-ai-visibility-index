@@ -1,0 +1,91 @@
+measurement_id;pulse;block;date;time_cest;prompt_id;language;platform;model;run;location_vpn;grovia_named;grovia_cited;grovia_rank;providers_named_count;providers_named;tools_named;map;paid_placement
+P2-D01-CHA-1;P2;A;08.10.2026;08:43;D01;DE;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;6;"Loud & Lexis; Engine Native; SearchGPTAgentur; Individual consultant (name removed); maximal.digital; Kotsur GEO";;no;no
+P2-D01-GEM-1;P2;A;08.10.2026;08:43;D01;DE;Gemini;not recorded;1;VPN Frankfurt;no;no;;4;"Aufgesang; Evergreen Media; geoagentur.de; SEO Revolution";;no;no
+P2-D01-PER-1;P2;A;08.10.2026;08:43;D01;DE;Perplexity;not recorded;1;VPN Frankfurt;no;yes;;6;"STARK; SEO Agents; Claneo; suxeedo; Peak Ace; Engine Native";;no;no
+P2-D02-CHA-1;P2;A;08.10.2026;08:45;D02;DE;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;0;;;no;no
+P2-D02-GEM-1;P2;A;08.10.2026;08:45;D02;DE;Gemini;not recorded;1;VPN Frankfurt;no;no;;0;;;no;no
+P2-D02-PER-1;P2;A;08.10.2026;08:45;D02;DE;Perplexity;not recorded;1;VPN Frankfurt;no;no;;6;"Evergreen Media; Moccu; RED RAM MEDIA; AI Pirates; Suchhelden; Atrava";;no;no
+P2-D07-CHA-1;P2;A;08.10.2026;08:49;D07;DE;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;8;"Evergreen Media; seoberlin; Engine Native; Die KI SEO Agentur; LILOX; Gipfelstolz; adojo / GEO Agentur Leipzig; ki-suche-agentur.de";;no;no
+P2-D07-GEM-1;P2;A;08.10.2026;08:49;D07;DE;Gemini;not recorded;1;VPN Frankfurt;no;no;;0;;;no;no
+P2-D07-PER-1;P2;A;08.10.2026;08:49;D07;DE;Perplexity;not recorded;1;VPN Frankfurt;no;no;;3;"Evergreen Media; Gerlach Media; webneo";;no;no
+P2-D09-CHA-1;P2;A;08.10.2026;08:51;D09;DE;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;7;"GEO Agentur München; Company Boost; Specht GmbH; Aufgesang; Engine Native; geoagentur.de; Loud & Lexis";;yes;no
+P2-D09-GEM-1;P2;A;08.10.2026;08:51;D09;DE;Gemini;not recorded;1;VPN Frankfurt;no;no;;6;"geoagentur.de; Claneo; seowerk; Suchhelden; famefact; Wordsmattr";;no;no
+P2-D09-PER-1;P2;A;08.10.2026;08:51;D09;DE;Perplexity;not recorded;1;VPN Frankfurt;no;no;;5;"Claneo; geoagentur.de; conversionmedia; Suchhelden; SMART LEMON";;no;no
+P2-D12-CHA-1;P2;A;08.10.2026;08:53;D12;DE;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;5;"Loud & Lexis; REACHX; getSichtbar; Engine Native; LILOX";;no;no
+P2-D12-GEM-1;P2;A;08.10.2026;08:53;D12;DE;Gemini;not recorded;1;VPN Frankfurt;no;no;;7;"geoagentur.de; Aufgesang; Suchhelden; Claneo; Löwenstark; TRYSEO; famefact";;no;no
+P2-D12-PER-1;P2;A;08.10.2026;08:53;D12;DE;Perplexity;not recorded;1;VPN Frankfurt;yes;yes;2;2;"Suchhelden; Agentur Emilian";;no;no
+P2-D13-CHA-1;P2;A;08.10.2026;08:55;D13;DE;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;7;"eology; Aufgesang; Claneo; AN Digital; Evergreen Media; Wordsmattr; Engine Native";;no;no
+P2-D13-GEM-1;P2;A;08.10.2026;08:55;D13;DE;Gemini;not recorded;1;VPN Frankfurt;no;no;;4;"LILOX; Die KI SEO Agentur; Bavaria AI; Invictus Lead Generation";;no;no
+P2-D13-PER-1;P2;A;08.10.2026;08:55;D13;DE;Perplexity;not recorded;1;VPN Frankfurt;no;no;;3;"duwerk; LILOX; Vindbar";;no;no
+P2-E01-CHA-1;P2;A;08.10.2026;09:10;E01;EN;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;5;"PromptMarketing; Engine Native; Percepture; geoagentur.de; Botfusions";;no;no
+P2-E01-GEM-1;P2;A;08.10.2026;09:10;E01;EN;Gemini;not recorded;1;VPN Frankfurt;no;no;;7;"Contensify; Embarque; Stratabeat; Omnius; Directive; Spicy Margarita; Passionfruit";;no;no
+P2-E01-PER-1;P2;A;08.10.2026;09:10;E01;EN;Perplexity;not recorded;1;VPN Frankfurt;no;no;;4;"AIclicks; Zen Media; Qoulomb; Channel V Media";;no;no
+P2-E02-CHA-1;P2;A;08.10.2026;09:12;E02;EN;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;0;;;no;no
+P2-E02-GEM-1;P2;A;08.10.2026;09:12;E02;EN;Gemini;not recorded;1;VPN Frankfurt;no;no;;0;;;no;no
+P2-E02-PER-1;P2;A;08.10.2026;09:12;E02;EN;Perplexity;not recorded;1;VPN Frankfurt;no;no;;4;"Foundation; Sosemo; VisibilityPro; Channel V Media";;no;no
+P2-E05-CHA-1;P2;A;08.10.2026;09:14;E05;EN;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;7;"Loud & Lexis; Mekaa; RocketGEO.ai; hurra.com; TopStuttgart; LILOX; Astral";;no;no
+P2-E05-GEM-1;P2;A;08.10.2026;09:14;E05;EN;Gemini;not recorded;1;VPN Frankfurt;no;no;;7;"NoGood; Graphite; iPullRank; Embarque; DerivateX; SlicedBrand; Omnius";;no;no
+P2-E05-PER-1;P2;A;08.10.2026;09:14;E05;EN;Perplexity;not recorded;1;VPN Frankfurt;no;no;;7;"iPullRank; Graphite; NoGood; Embarque; Kalicube; Omniscient Digital; Siege Media";;no;no
+P2-E14-CHA-1;P2;A;08.10.2026;09:16;E14;EN;ChatGPT;not recorded;1;VPN Frankfurt;no;no;;8;"iPullRank; Siege Media; getSichtbar; Loud & Lexis; additiv; Scalableloops; Omniscient Digital; Directive";;no;no
+P2-E14-GEM-1;P2;A;08.10.2026;09:16;E14;EN;Gemini;not recorded;1;VPN Frankfurt;no;no;;5;"Zupo; iPullRank; Hamster Garage; Bastion; Siege Media";"Marg; Brandi AI; Evertune AI";no;no
+P2-E14-PER-1;P2;A;08.10.2026;09:16;E14;EN;Perplexity;not recorded;1;VPN Frankfurt;no;no;;3;"Cassie Clark Marketing; Slate; Cintra";;no;no
+P2-D01-CHA-2;P2;A;08.10.2026;12:53;D01;DE;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;8;"Loud & Lexis; REACHX; CITEWERK; STARK; SearchGPTAgentur; Engine Native; Trofy; ClientFlow24";;no;no
+P2-D01-GEM-2;P2;A;08.10.2026;12:53;D01;DE;Gemini;not recorded;2;VPN Frankfurt;no;no;;9;"geoagentur.de; HECHT INS GEFECHT; TRYSEO; viergrad; Suchhelden; schmidtmedia; Claneo; Aufgesang; famefact";;no;no
+P2-D01-PER-2;P2;A;08.10.2026;12:53;D01;DE;Perplexity;not recorded;2;VPN Frankfurt;no;yes;;5;"STARK; ProPerforma; Claneo; famefact; KI GROWTH";;no;no
+P2-D02-CHA-2;P2;A;08.10.2026;12:55;D02;DE;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;0;;;no;no
+P2-D02-GEM-2;P2;A;08.10.2026;12:55;D02;DE;Gemini;not recorded;2;VPN Frankfurt;no;no;;0;;;no;no
+P2-D02-PER-2;P2;A;08.10.2026;12:55;D02;DE;Perplexity;not recorded;2;VPN Frankfurt;no;no;;6;"Evergreen Media; Moccu; eology; buzzwoo; AI Pirates; baseplus";;no;no
+P2-D07-CHA-2;P2;A;08.10.2026;12:57;D07;DE;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;10;"Engine Native; Loud & Lexis; Sichtlabs; NeuRank; LILOX; REACHX; INSIDE AI; FYNEST; AN Digital; Aufgesang";;no;no
+P2-D07-GEM-2;P2;A;08.10.2026;12:57;D07;DE;Gemini;not recorded;2;VPN Frankfurt;no;no;;0;;;no;no
+P2-D07-PER-2;P2;A;08.10.2026;12:57;D07;DE;Perplexity;not recorded;2;VPN Frankfurt;no;no;;2;"Evergreen Media; Blackbit";;no;no
+P2-D09-CHA-2;P2;A;08.10.2026;12:58;D09;DE;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;5;"GEO Agentur München; geoagentur.de; GEO-Agentur Hamburg; GEO-Agentur Dortmund; GEO-Agentur Düsseldorf";;yes;no
+P2-D09-GEM-2;P2;A;08.10.2026;12:58;D09;DE;Gemini;not recorded;2;VPN Frankfurt;no;no;;6;"geoagentur.de; Claneo; Suchhelden; seowerk; famefact; Löwenstark";;no;no
+P2-D09-PER-2;P2;A;08.10.2026;12:58;D09;DE;Perplexity;not recorded;2;VPN Frankfurt;no;no;;5;"geoagentur.de; Claneo; DREIKON; SUMAX; Engine Native";;no;no
+P2-D12-CHA-2;P2;A;08.10.2026;13:00;D12;DE;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;3;"Loud & Lexis; Engine Native; ki-suche-agentur.de";;yes;no
+P2-D12-GEM-2;P2;A;08.10.2026;13:00;D12;DE;Gemini;not recorded;2;VPN Frankfurt;no;no;;0;;;no;no
+P2-D12-PER-2;P2;A;08.10.2026;13:00;D12;DE;Perplexity;not recorded;2;VPN Frankfurt;no;yes;;2;"Suchhelden; SUMAX";;no;no
+P2-D13-CHA-2;P2;A;08.10.2026;13:02;D13;DE;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;7;"Engine Native; KIGEO; Aufgesang; Claneo; maxonline; decipher.; GeoRanks";;no;no
+P2-D13-GEM-2;P2;A;08.10.2026;13:02;D13;DE;Gemini;not recorded;2;VPN Frankfurt;no;no;;5;"Evergreen Media; LILOX; seowerk; LANURI; ClientFlow24";;no;no
+P2-D13-PER-2;P2;A;08.10.2026;13:02;D13;DE;Perplexity;not recorded;2;VPN Frankfurt;no;no;;4;"Claneo; Nordfabrik; Break; Suchhelden";;no;no
+P2-E01-CHA-2;P2;A;08.10.2026;13:03;E01;EN;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;6;"REACHX; SEOTRUST; TopStuttgart; Engine Native; GEO Agentur Berlin; SearchGPTAgentur";;yes;no
+P2-E01-GEM-2;P2;A;08.10.2026;13:03;E01;EN;Gemini;not recorded;2;VPN Frankfurt;no;no;;7;"Pixelmojo; Webiske; Contensify; Arobis AI; Profectus; First Page Sage; Siege Media";;no;no
+P2-E01-PER-2;P2;A;08.10.2026;13:03;E01;EN;Perplexity;not recorded;2;VPN Frankfurt;no;no;;3;"Zen Media; Arobis AI; Channel V Media";;no;no
+P2-E02-CHA-2;P2;A;08.10.2026;13:05;E02;EN;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;0;;;no;no
+P2-E02-GEM-2;P2;A;08.10.2026;13:05;E02;EN;Gemini;not recorded;2;VPN Frankfurt;no;no;;4;"Contensify; Embarque; RankPivot; Zavops";"Marg; Brandi AI; Evertune";no;no
+P2-E02-PER-2;P2;A;08.10.2026;13:05;E02;EN;Perplexity;not recorded;2;VPN Frankfurt;no;no;;4;"The Hoffman Agency; The SEO Works; Go Up; Concurate";;no;no
+P2-E05-CHA-2;P2;A;08.10.2026;13:06;E05;EN;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;7;"Loud & Lexis; Claneo; Evergreen Media; hurra.com; Mekaa; RocketGEO.ai; Astral";;no;no
+P2-E05-GEM-2;P2;A;08.10.2026;13:06;E05;EN;Gemini;not recorded;2;VPN Frankfurt;no;no;;10;"CiteWorks Studio; GenOptima; DerivateX; Graphite; iPullRank; Go Fish Digital; NoGood; First Page Sage; Crackle PR; SlicedBrand";;no;no
+P2-E05-PER-2;P2;A;08.10.2026;13:06;E05;EN;Perplexity;not recorded;2;VPN Frankfurt;no;no;;3;"iPullRank; Graphite; NoGood";;no;no
+P2-E14-CHA-2;P2;A;08.10.2026;13:07;E14;EN;ChatGPT;not recorded;2;VPN Frankfurt;no;no;;5;"REACHX; additiv; iPullRank; Omniscient Digital; geoagentur.de";;no;no
+P2-E14-GEM-2;P2;A;08.10.2026;13:07;E14;EN;Gemini;not recorded;2;VPN Frankfurt;no;no;;7;"AEO Engine; GenOptima; Hamster Garage; Bastion; Siege Media; iPullRank; Zupo";"Marg; Brandi AI; Profound; Evertune AI";no;no
+P2-E14-PER-2;P2;A;08.10.2026;13:07;E14;EN;Perplexity;not recorded;2;VPN Frankfurt;no;no;;2;"Seer Interactive; iPullRank";;no;no
+P2-D01-CHA-3;P2;A;08.10.2026;16:31;D01;DE;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;7;"Engine Native; Loud & Lexis; ADGEO; SearchGPTAgentur; GEO Agentur Berlin; Pulsmedia; Specht GmbH";;no;no
+P2-D01-GEM-3;P2;A;08.10.2026;16:31;D01;DE;Gemini;not recorded;3;VPN Frankfurt;no;no;;7;"Aufgesang; HECHT INS GEFECHT; Evergreen Media; construktiv; Suchhelden; Claneo; RheinMainTech";;no;no
+P2-D01-PER-3;P2;A;08.10.2026;16:31;D01;DE;Perplexity;not recorded;3;VPN Frankfurt;no;yes;;5;"Aufgesang; Claneo; SEO Agents; Digitaholics; Engine Native";;no;no
+P2-D02-CHA-3;P2;A;08.10.2026;16:33;D02;DE;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;0;;;no;no
+P2-D02-GEM-3;P2;A;08.10.2026;16:33;D02;DE;Gemini;not recorded;3;VPN Frankfurt;no;no;;0;;;no;no
+P2-D02-PER-3;P2;A;08.10.2026;16:33;D02;DE;Perplexity;not recorded;3;VPN Frankfurt;no;no;;5;"Evergreen Media; Moccu; buzzwoo; AI Pirates; baseplus";;no;no
+P2-D07-CHA-3;P2;A;08.10.2026;16:35;D07;DE;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;8;"Engine Native; GeoRanks; LILOX; Individual consultant (name removed); Aufgesang; Claneo; maxonline; Everfound";;no;no
+P2-D07-GEM-3;P2;A;08.10.2026;16:35;D07;DE;Gemini;not recorded;3;VPN Frankfurt;no;no;;0;;;no;no
+P2-D07-PER-3;P2;A;08.10.2026;16:35;D07;DE;Perplexity;not recorded;3;VPN Frankfurt;no;no;;0;;;no;no
+P2-D09-CHA-3;P2;A;08.10.2026;16:36;D09;DE;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;4;"Loud & Lexis; Engine Native; geoagentur.de; ADGEO";;yes;no
+P2-D09-GEM-3;P2;A;08.10.2026;16:36;D09;DE;Gemini;not recorded;3;VPN Frankfurt;no;no;;6;"geoagentur.de; Claneo; seowerk; Suchhelden; Radyant; famefact";;no;no
+P2-D09-PER-3;P2;A;08.10.2026;16:36;D09;DE;Perplexity;not recorded;3;VPN Frankfurt;no;no;;5;"geoagentur.de; Claneo; DREIKON; SUMAX; Engine Native";;no;no
+P2-D12-CHA-3;P2;A;08.10.2026;16:37;D12;DE;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;4;"Loud & Lexis; SEOTRUST; Engine Native; Think11";;yes;no
+P2-D12-GEM-3;P2;A;08.10.2026;16:37;D12;DE;Gemini;not recorded;3;VPN Frankfurt;no;no;;0;;;no;no
+P2-D12-PER-3;P2;A;08.10.2026;16:37;D12;DE;Perplexity;not recorded;3;VPN Frankfurt;yes;yes;2;2;"Agentur Emilian; deineseite.at";;no;no
+P2-D13-CHA-3;P2;A;08.10.2026;16:38;D13;DE;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;5;"Engine Native; Frascati; ProPerforma; Specht GmbH; Siegers Media";;no;no
+P2-D13-GEM-3;P2;A;08.10.2026;16:38;D13;DE;Gemini;not recorded;3;VPN Frankfurt;no;no;;7;"Claneo; LILOX; AI Pirates; geoagentur.de; Suchhelden; Aufgesang; u+i interact";;no;no
+P2-D13-PER-3;P2;A;08.10.2026;16:38;D13;DE;Perplexity;not recorded;3;VPN Frankfurt;no;no;;3;"Claneo; Evergreen Media; onlineKarma";;no;no
+P2-E01-CHA-3;P2;A;08.10.2026;16:40;E01;EN;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;5;"PromptMarketing; Radyant; DeNitro; TopStuttgart; Engine Native";;no;no
+P2-E01-GEM-3;P2;A;08.10.2026;16:40;E01;EN;Gemini;not recorded;3;VPN Frankfurt;no;no;;6;"Pixelmojo; iPullRank; Contensify; Embarque; Directive; Stratabeat";;no;no
+P2-E01-PER-3;P2;A;08.10.2026;16:40;E01;EN;Perplexity;not recorded;3;VPN Frankfurt;no;no;;4;"AIclicks; Qoulomb; Break The Web; Channel V Media";;no;no
+P2-E02-CHA-3;P2;A;08.10.2026;16:41;E02;EN;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;5;"Loud & Lexis; additiv; tikitaka; TopStuttgart; RocketGEO.ai";;no;no
+P2-E02-GEM-3;P2;A;08.10.2026;16:41;E02;EN;Gemini;not recorded;3;VPN Frankfurt;no;no;;1;Four Dots;;no;no
+P2-E02-PER-3;P2;A;08.10.2026;16:41;E02;EN;Perplexity;not recorded;3;VPN Frankfurt;no;no;;4;"VisibilityPro; BE VISIBLE; Zupo; RankPivot";;no;no
+P2-E05-CHA-3;P2;A;08.10.2026;16:42;E05;EN;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;7;"Claneo; Loud & Lexis; RocketGEO.ai; hurra.com; LILOX; TopStuttgart; HECHT INS GEFECHT";;no;no
+P2-E05-GEM-3;P2;A;08.10.2026;16:42;E05;EN;Gemini;not recorded;3;VPN Frankfurt;no;no;;10;"NoGood; iPullRank; Graphite; DerivateX; Embarque; SlicedBrand; SHIFT Communications; Contently; Omnius; Contensify";;no;no
+P2-E05-PER-3;P2;A;08.10.2026;16:42;E05;EN;Perplexity;not recorded;3;VPN Frankfurt;no;no;;3;"iPullRank; NoGood; Omnius";;no;no
+P2-E14-CHA-3;P2;A;08.10.2026;16:45;E14;EN;ChatGPT;not recorded;3;VPN Frankfurt;no;no;;8;"iPullRank; Siege Media; NoGood; additiv; DeNitro; mindmelt; First Page Sage; Omniscient Digital";;no;no
+P2-E14-GEM-3;P2;A;08.10.2026;16:45;E14;EN;Gemini;not recorded;3;VPN Frankfurt;no;no;;7;"DerivateX; AEO Engine; Stratabeat; Omniscient Digital; Siege Media; Directive; iPullRank";"Marg; Brandi AI";no;no
+P2-E14-PER-3;P2;A;08.10.2026;16:45;E14;EN;Perplexity;not recorded;3;VPN Frankfurt;no;no;;3;"Seer Interactive; Embarque; Optimist";;no;no

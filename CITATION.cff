@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "AI Visibility Index: which agencies do ChatGPT, Perplexity and Gemini recommend?"
+abstract: >-
+  Open measurement of how ChatGPT, Perplexity and Gemini answer buying questions
+  about agencies for AI search visibility (GEO) in German and English. Baseline of
+  525 measurements (September 2026) and bi-weekly pulse measurements, with named
+  providers and cited sources.
+authors:
+  - name: "Grovia Digital (Grovia Management Consultancy L.L.C)"
+    website: "https://www.grovia-digital.com/"
+  - family-names: "Knodel"
+    given-names: "Alexander"
+  - family-names: "Knodel"
+    given-names: "Kristina"
+license: CC-BY-4.0
+url: "https://www.grovia-digital.com/en/geo-visibility-index/"
+date-released: "2026-09-10"
+version: "2026-10-08"
+keywords:
+  - generative engine optimization
+  - GEO
+  - AI search visibility
+  - ChatGPT
+  - Perplexity
+  - Gemini
+  - LLM brand mentions
+  - dataset
