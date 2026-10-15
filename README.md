@@ -1,5 +1,8 @@
 # AI Visibility Index: which agencies do ChatGPT, Perplexity and Gemini recommend?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23385485.svg)](https://doi.org/10.5281/zenodo.23385485)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 Open dataset by [Grovia Digital](https://www.grovia-digital.com/en/) (Dubai). We ask
 ChatGPT, Perplexity and Gemini the questions buyers ask when they look for an agency
 for AI search visibility (generative engine optimization, GEO), in German and English,
@@ -66,8 +69,10 @@ Licence: [CC BY 4.0](LICENSE). You may use, share and adapt the data, including
 commercially, with attribution:
 
 > Grovia Digital (Grovia Management Consultancy L.L.C), AI Visibility Index, 2026.
-> https://www.grovia-digital.com/en/geo-visibility-index/
+> Zenodo. https://doi.org/10.5281/zenodo.23385485
 
+The DOI above always resolves to the latest version. Each release has its own
+version DOI on Zenodo (version 2026-10-08: https://doi.org/10.5281/zenodo.23385486).
 A machine-readable citation is in `CITATION.cff` (GitHub shows it as "Cite this
 repository").
 

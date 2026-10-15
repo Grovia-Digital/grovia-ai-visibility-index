@@ -1,0 +1,27 @@
+{
+  "upload_type": "dataset",
+  "title": "AI Visibility Index: which agencies do ChatGPT, Perplexity and Gemini recommend?",
+  "description": "Open measurement of how ChatGPT, Perplexity and Gemini answer buying questions about agencies for AI search visibility (GEO) in German and English. Baseline of 525 measurements (September 2026) and bi-weekly pulse measurements, with named providers and cited sources. Live index with measurement diary: https://www.grovia-digital.com/en/geo-visibility-index/",
+  "creators": [
+    {"name": "Grovia Digital (Grovia Management Consultancy L.L.C)"},
+    {"name": "Knodel, Alexander", "affiliation": "Grovia Management Consultancy L.L.C"},
+    {"name": "Knodel, Kristina", "affiliation": "Grovia Management Consultancy L.L.C"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "generative engine optimization",
+    "GEO",
+    "AI search visibility",
+    "ChatGPT",
+    "Perplexity",
+    "Gemini",
+    "LLM brand mentions",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://www.grovia-digital.com/en/geo-visibility-index/", "relation": "isDocumentedBy", "resource_type": "publication-other", "scheme": "url"},
+    {"identifier": "https://www.grovia-digital.com/en/case-studies/grovia-named-by-perplexity/", "relation": "isReferencedBy", "resource_type": "publication-other", "scheme": "url"}
+  ]
+}
