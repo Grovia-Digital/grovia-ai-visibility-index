@@ -23,6 +23,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.23385486"
     description: "Version 2026-10-08"
+  - type: doi
+    value: "10.5281/zenodo.23567898"
+    description: "Version 2026-10-22"
 repository-code: "https://github.com/Grovia-Digital/grovia-ai-visibility-index"
 url: "https://www.grovia-digital.com/en/geo-visibility-index/"
 date-released: "2026-09-10"
