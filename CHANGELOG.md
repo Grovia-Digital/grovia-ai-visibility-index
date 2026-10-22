@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-10-22 · Pulse P3 (22 Oct)
+
+- Block A (10 prompts on ChatGPT, Perplexity and Gemini) and block B (4 GCC prompts on
+  ChatGPT and Perplexity), 3 runs, 114 measurements. Same conditions and counting rules as
+  P1 and P2. Runs: 05:27–05:50, 10:39–11:22, 14:39–14:57 CEST.
+- Grovia Digital named in 6 of 114 measurements, all on ChatGPT and all in block B: E16 in
+  runs 1–3 (rank 2, 4, 3), E12 in runs 2 and 3 (rank 2, 2), E20 in run 3 (rank 4). These are
+  the first ChatGPT mentions of Grovia Digital in the dataset. Block A: 0 of 90. Perplexity
+  in block B: 0 of 12.
+- Cited as a source in 9: the six ChatGPT answers above (source chip or link), D12 on
+  Perplexity in runs 1 and 3 (answer text), E20 on Perplexity in run 2 (source list only).
+- All six ChatGPT answers quote a programme price of AED 7,500 and then AED 10,000 per
+  month. Grovia Digital changed its published price to AED 7,700 and AED 10,100 on
+  3 Oct 2026, so the answers reflect an older state of a source.
+- ChatGPT showed the usage-limit notice of a free account ("files, images and data analysis
+  unavailable until …") from P3-D12-CHA-1 in run 1 and during all of run 3. Whether a
+  different model answered cannot be determined from the interface. Run 2 ran without the
+  notice and contains two of the six mentions.
+- Sources file: Perplexity only (763 rows). ChatGPT and Gemini sources are not recorded
+  per URL.
+- One answer showed a paid placement below the answer (P3-E01-CHA-1); it is not counted as
+  a provider mention.
+- Spelling variants merged in P3: "High Street" as "High Street Agency", "Kreativ&Söhne" as
+  "Kreativ&Soehne". P1 and P2 files are unchanged.
+
 ## 2026-10-08 · Pulses P1 (24 Sep) and P2 (8 Oct)
 
 - Pulse = 3 runs of a fixed subset of the baseline prompts on ChatGPT, Perplexity, Gemini,

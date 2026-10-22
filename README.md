@@ -17,13 +17,17 @@ The same method runs every two weeks. Each measurement is published here.
 | Baseline | 2–9 Sep 2026 | 35 prompts, 3 platforms, 5 runs | 525 |
 | Pulse P1 | 24 Sep 2026 | 10 prompts (block A) + 4 GCC prompts (block B), 3 runs | 114 |
 | Pulse P2 | 8 Oct 2026 | 10 prompts (block A), 3 runs | 90 |
+| Pulse P3 | 22 Oct 2026 | 10 prompts (block A) + 4 GCC prompts (block B, ChatGPT and Perplexity), 3 runs | 114 |
 
 Baseline in numbers: 596 firms and 97 software tools named, 3,335 source rows from
 1,044 domains. The most-named provider reached 2.2 % of all mentions.
 
 Grovia Digital measures itself with the same method: 0 mentions in the 525 baseline
-answers; in Pulse P2, Perplexity named Grovia Digital on one buyer question in 2 of 3
-runs. ChatGPT and Gemini did not name it (0 of 60).
+answers. In Pulse P2 (8 Oct 2026), Perplexity named Grovia Digital on one buyer question
+in 2 of 3 runs. In Pulse P3 (22 Oct 2026), ChatGPT named it in 6 of 12 measurements on
+the GCC prompts (block B), on "ai visibility agency uae" in 3 of 3 runs. In P3 block A
+(90 measurements) and on Perplexity in block B (12) it was not named. Gemini has not
+named it in any measurement so far.
 
 ## Files
 
@@ -43,8 +47,8 @@ All files are UTF-8, semicolon-separated.
 
 | File | Content |
 |---|---|
-| `..._P1_measurements.csv`, `..._P2_measurements.csv` | same columns as the baseline plus `pulse`, `block`, `grovia_rank`, `map`, `paid_placement` |
-| `..._P1_sources.csv`, `..._P2_sources.csv` | cited sources per measurement |
+| `..._P1_measurements.csv`, `..._P2_measurements.csv`, `..._P3_measurements.csv` | same columns as the baseline plus `pulse`, `block`, `grovia_rank`, `map`, `paid_placement` |
+| `..._P1_sources.csv`, `..._P2_sources.csv`, `..._P3_sources.csv` | cited sources per measurement (P2 and P3: Perplexity only) |
 
 ## Method
 
@@ -72,7 +76,8 @@ commercially, with attribution:
 > Zenodo. https://doi.org/10.5281/zenodo.23385485
 
 The DOI above always resolves to the latest version. Each release has its own
-version DOI on Zenodo (version 2026-10-08: https://doi.org/10.5281/zenodo.23385486).
+version DOI on Zenodo (version 2026-10-08: https://doi.org/10.5281/zenodo.23385486;
+later versions are listed on the Zenodo record).
 A machine-readable citation is in `CITATION.cff` (GitHub shows it as "Cite this
 repository").
 
