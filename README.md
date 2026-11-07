@@ -80,7 +80,8 @@ commercially, with attribution:
 
 The DOI above always resolves to the latest version. Each release has its own
 version DOI on Zenodo (version 2026-10-08: https://doi.org/10.5281/zenodo.23385486,
-version 2026-10-22: https://doi.org/10.5281/zenodo.23567898).
+version 2026-10-22: https://doi.org/10.5281/zenodo.23567898,
+version 2026-11-05: https://doi.org/10.5281/zenodo.24031116).
 A machine-readable citation is in `CITATION.cff` (GitHub shows it as "Cite this
 repository").
 
