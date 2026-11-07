@@ -18,6 +18,7 @@ The same method runs every two weeks. Each measurement is published here.
 | Pulse P1 | 24 Sep 2026 | 10 prompts (block A) + 4 GCC prompts (block B), 3 runs | 114 |
 | Pulse P2 | 8 Oct 2026 | 10 prompts (block A), 3 runs | 90 |
 | Pulse P3 | 22 Oct 2026 | 10 prompts (block A) + 4 GCC prompts (block B, ChatGPT and Perplexity), 3 runs | 114 |
+| Pulse P4 | 5 Nov 2026 | 10 prompts (block A), 3 runs | 90 |
 
 Baseline in numbers: 596 firms and 97 software tools named, 3,335 source rows from
 1,044 domains. The most-named provider reached 2.2 % of all mentions.
@@ -26,8 +27,9 @@ Grovia Digital measures itself with the same method: 0 mentions in the 525 basel
 answers. In Pulse P2 (8 Oct 2026), Perplexity named Grovia Digital on one buyer question
 in 2 of 3 runs. In Pulse P3 (22 Oct 2026), ChatGPT named it in 6 of 12 measurements on
 the GCC prompts (block B), on "ai visibility agency uae" in 3 of 3 runs. In P3 block A
-(90 measurements) and on Perplexity in block B (12) it was not named. Gemini has not
-named it in any measurement so far.
+(90 measurements) and on Perplexity in block B (12) it was not named. In Pulse P4 (5 Nov
+2026), Perplexity named Grovia Digital first on E01 in run 1 (1 of 90 measurements) and cited
+a Grovia page in 5 answers, all on Perplexity. Gemini has not named it in any measurement so far.
 
 ## Files
 
@@ -47,14 +49,15 @@ All files are UTF-8, semicolon-separated.
 
 | File | Content |
 |---|---|
-| `..._P1_measurements.csv`, `..._P2_measurements.csv`, `..._P3_measurements.csv` | same columns as the baseline plus `pulse`, `block`, `grovia_rank`, `map`, `paid_placement` |
-| `..._P1_sources.csv`, `..._P2_sources.csv`, `..._P3_sources.csv` | cited sources per measurement (P2 and P3: Perplexity only) |
+| `..._P1_measurements.csv` to `..._P4_measurements.csv` | same columns as the baseline plus `pulse`, `block`, `grovia_rank`, `map`, `paid_placement` |
+| `..._P1_sources.csv` to `..._P4_sources.csv` | cited sources per measurement (P2 to P4: Perplexity only) |
 
 ## Method
 
 - Frozen prompt set, exact wording, new empty chat per measurement, web search on,
   memory and personalisation off.
-- VPN exit Frankfurt. Times in CEST.
+- VPN exit Frankfurt. Times in CEST; from P4 (5 Nov 2026) in CET, winter time. The column
+  keeps the name `time_cest` so the schema stays the same across files.
 - A provider counts once per answer. Spelling variants of the same provider are
   merged. Names of individual persons are replaced by "Individual consultant (name
   removed)". Software tools are counted separately from agencies.

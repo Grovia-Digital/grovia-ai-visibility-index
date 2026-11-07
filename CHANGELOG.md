@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-11-05 · Pulse P4 (5 Nov)
+
+- Block A only (10 prompts on ChatGPT, Perplexity and Gemini), 3 runs, 90 measurements. Same
+  conditions and counting rules as P1 to P3. Runs: 05:51–06:08, 09:52–10:04, 14:48–15:07 CET.
+  Times are in winter time from this pulse on; the column keeps the name `time_cest`.
+- Grovia Digital named in 1 of 90 measurements: E01 on Perplexity in run 1, rank 1. The answer
+  cites a Grovia answer page that went live on 29 Oct 2026. Runs 2 and 3 of E01 did not name it.
+- Cited as a source in 5 measurements, all on Perplexity: E01 run 1 (answer text), D02 run 3
+  (answer text), D01 run 1, E14 run 2 and D12 run 3 (source list only). ChatGPT and Gemini:
+  0 mentions, 0 recorded citations.
+- 398 provider mentions from 147 providers. Most named: Claneo (29), Suchhelden (16),
+  Evergreen Media (14).
+- Sources file: Perplexity only (548 rows). ChatGPT showed source chips in part of the
+  answers, but only the first domain per chip is visible, so they are not recorded per URL.
+- Column `model`: noted once per run, not checked per answer. Perplexity ran on its "best"
+  setting, which shows no model name.
+- Spelling variants merged in P4: "Nessmann (geo-agentur.eu)", "Nessmann (Contentbaer)" and
+  "Nessmann" as "Contentbaer"; "Hecht ins Gefecht" as "HECHT INS GEFECHT"; "seokratie" as
+  "Seokratie". "Peec" is counted as a software tool. P1 to P3 files are unchanged.
+- No paid placement appeared in P4.
+
 ## 2026-10-22 · Pulse P3 (22 Oct)
 
 - Block A (10 prompts on ChatGPT, Perplexity and Gemini) and block B (4 GCC prompts on
