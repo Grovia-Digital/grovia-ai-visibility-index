@@ -1,0 +1,1419 @@
+measurement_id;platform;prompt_id;domain;url;source_type;position
+P5-D01-CHA-1;ChatGPT;D01;optinest.de;;Comparison list;1
+P5-D01-CHA-1;ChatGPT;D01;presseportal.de;;Press release portal;2
+P5-D01-CHA-1;ChatGPT;D01;in-sync.io;;Comparison list;3
+P5-D01-CHA-1;ChatGPT;D01;optimerch.de;;Company website;4
+P5-D01-CHA-1;ChatGPT;D01;neovendo.de;;Company website;5
+P5-D01-CHA-1;ChatGPT;D01;presseportal.de;;Press release portal;6
+P5-D01-CHA-1;ChatGPT;D01;in-sync.io;;Comparison list;7
+P5-D01-CHA-1;ChatGPT;D01;optis.digital;;Comparison list;8
+P5-D01-CHA-1;ChatGPT;D01;optis.digital;;Comparison list;9
+P5-D01-CHA-1;ChatGPT;D01;optinest.de;;Comparison list;10
+P5-D01-CHA-1;ChatGPT;D01;optinest.de;;Comparison list;11
+P5-D01-CHA-1;ChatGPT;D01;coseom.com;;Comparison list;12
+P5-D01-CHA-1;ChatGPT;D01;onecommerce.de;;Comparison list;13
+P5-D01-CHA-1;ChatGPT;D01;geoagentur.net;;Comparison list;14
+P5-D01-CHA-1;ChatGPT;D01;neovendo.de;;Company website;15
+P5-D01-CHA-1;ChatGPT;D01;stateinteractive.de;;Company website;16
+P5-D01-CHA-1;ChatGPT;D01;geoagentur.net;;Company website;17
+P5-D01-CHA-1;ChatGPT;D01;maxjanson.de;;Company website;18
+P5-D01-CHA-1;ChatGPT;D01;optimerch.de;;Company website;19
+P5-D01-GEM-1;Gemini;D01;performanceliebe.de;;Company website;1
+P5-D01-GEM-1;Gemini;D01;ihlenfeldt.de;;Company website;2
+P5-D01-GEM-1;Gemini;D01;semtrix.de;;Company website;3
+P5-D01-GEM-1;Gemini;D01;think11.de;;Company website;4
+P5-D01-GEM-1;Gemini;D01;evergreen.media;;Company website;5
+P5-D01-GEM-1;Gemini;D01;wohlstandsmarketing.de;;Company website;6
+P5-D01-PER-1;Perplexity;D01;geoagentur.de;https://geoagentur.de/;Company website;1
+P5-D01-PER-1;Perplexity;D01;jsh.marketing;https://jsh.marketing/geo-agentur/;Company website;2
+P5-D01-PER-1;Perplexity;D01;sichtbarerwerden.de;https://sichtbarerwerden.de/geo-agentur/;Company website;3
+P5-D01-PER-1;Perplexity;D01;ventas-webdesign.de;https://www.ventas-webdesign.de/geo-agentur;Company website;4
+P5-D01-PER-1;Perplexity;D01;jha-marketing.de;https://jha-marketing.de/geo-agentur/;Company website;5
+P5-D01-PER-1;Perplexity;D01;agentur-emilian.de;https://www.agentur-emilian.de/geo-agentur/;Company website;6
+P5-D01-PER-1;Perplexity;D01;tryseo.de;https://www.tryseo.de/ai-overview-beratung-betreuung/;Company website;7
+P5-D01-PER-1;Perplexity;D01;aufgesang.de;https://www.aufgesang.de/seo/digital-authority-management/;Company website;8
+P5-D01-PER-1;Perplexity;D01;suchhelden.de;https://www.suchhelden.de/beste-geo-agenturen-deutschlands.php;Comparison list;9
+P5-D01-PER-1;Perplexity;D01;ki-berater-finden.de;https://ki-berater-finden.de/kategorien/ki-agenturen;Agency directory;10
+P5-D01-PER-1;Perplexity;D01;openpr.de;https://www.openpr.de/news/1330540/Navigate-AG-bietet-umfassende-Website-Checks-und-Monitoring-fuer-mehr-Sicherheit-Performance-und-Sichtbarkeit.html;Press release portal;11
+P5-D01-PER-1;Perplexity;D01;ki-helden.net;https://www.ki-helden.net/;Company website;12
+P5-D01-PER-1;Perplexity;D01;openpr.de;https://www.openpr.de/news/1330383/Master-of-Scaling-wird-Dachmarke-Berliner-Performance-Agentur-stellt-sich-breiter-auf.html;Press release portal;13
+P5-D01-PER-1;Perplexity;D01;grovia-digital.com;https://www.grovia-digital.com/antworten/ki-assistenten-agentur-laufende-betreuung/;Company website;14
+P5-D01-PER-1;Perplexity;D01;wordsmattr.io;https://wordsmattr.io/geo-agentur-guide-2026/;Comparison list;15
+P5-D01-PER-1;Perplexity;D01;geoagentur.de;https://geoagentur.de/ratgeber/beste-geo-agentur/;Comparison list;16
+P5-D01-PER-1;Perplexity;D01;geo-agentur-frankfurt-am-main.de;https://geo-agentur-frankfurt-am-main.de/;Company website;17
+P5-D01-PER-1;Perplexity;D01;seo-revolution.com;https://seo-revolution.com/leistung/generative-engine-optimization/;Company website;18
+P5-D01-PER-1;Perplexity;D01;neurank.de;https://neurank.de/geo-optimierung-agentur/;Company website;19
+P5-D01-PER-1;Perplexity;D01;seowerk.de;https://www.seowerk.de/chatgpt-ads-agentur/;Company website;20
+P5-D01-PER-1;Perplexity;D01;farbentour.de;https://www.farbentour.de/geo-agentur/;Company website;21
+P5-D01-PER-1;Perplexity;D01;hafenschnack.com;https://hafenschnack.com/leistungen/geo-agentur/;Company website;22
+P5-D01-PER-1;Perplexity;D01;trofy.de;https://trofy.de/geo-agentur/;Company website;23
+P5-D01-PER-1;Perplexity;D01;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;24
+P5-D02-GEM-1;Gemini;D02;optimerch.de;;Company website;1
+P5-D02-GEM-1;Gemini;D02;abakus-internet-marketing.de;;Company website;2
+P5-D02-GEM-1;Gemini;D02;seokratie.de;;Company website;3
+P5-D02-GEM-1;Gemini;D02;mxp.de;;Company website;4
+P5-D02-GEM-1;Gemini;D02;sichtbarerwerden.de;;Company website;5
+P5-D02-PER-1;Perplexity;D02;semtrix.de;https://www.semtrix.de/geo-agentur/;Company website;1
+P5-D02-PER-1;Perplexity;D02;fle-media.de;https://www.fle-media.de/ki-optimierung-frankfurt/;Company website;2
+P5-D02-PER-1;Perplexity;D02;pulsmedia-group.com;https://pulsmedia-group.com/llmo-und-geo-agentur-frankfurt/;Company website;3
+P5-D02-PER-1;Perplexity;D02;elio-systems.com;https://www.elio-systems.com/geo-agentur;Company website;4
+P5-D02-PER-1;Perplexity;D02;evergreen.media;https://www.evergreen.media/generative-engine-optimization/;Company website;5
+P5-D02-PER-1;Perplexity;D02;open.de;https://open.de/geo-agentur/;Company website;6
+P5-D02-PER-1;Perplexity;D02;duwerk.de;https://www.duwerk.de/geo-agentur;Company website;7
+P5-D02-PER-1;Perplexity;D02;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;8
+P5-D02-PER-1;Perplexity;D02;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/chat-gpt-ads.html;Press release portal;9
+P5-D02-PER-1;Perplexity;D02;sichtbarkeitswerk.com;https://sichtbarkeitswerk.com/;Company website;10
+P5-D02-PER-1;Perplexity;D02;suchhelden.de;https://www.suchhelden.de/ki-seo-agentur.php;Company website;11
+P5-D02-PER-1;Perplexity;D02;dirim-media.de;https://dirim-media.de/geo-agentur-ki-optimierung;Company website;12
+P5-D02-PER-1;Perplexity;D02;seo-retter.de;https://seo-retter.de/geo-agentur/;Company website;13
+P5-D02-PER-1;Perplexity;D02;geo-agentur-frankfurt-am-main.de;https://geo-agentur-frankfurt-am-main.de/;Company website;14
+P5-D02-PER-1;Perplexity;D02;formwandler-interactive.com;https://www.formwandler-interactive.com/geo-agentur-frankfurt-ki-seo/;Company website;15
+P5-D02-PER-1;Perplexity;D02;geoagentur.de;https://geoagentur.de/;Company website;16
+P5-D02-PER-1;Perplexity;D02;geoagenturen.de;https://www.geoagenturen.de/frankfurt;Agency directory;17
+P5-D02-PER-1;Perplexity;D02;geo-agentur.eu;https://geo-agentur.eu/;Company website;18
+P5-D02-PER-1;Perplexity;D02;seoagenturfrankfurt.com;https://seoagenturfrankfurt.com/;Company website;19
+P5-D02-PER-1;Perplexity;D02;growsta.de;https://growsta.de/geo-agentur-frankfurt/;Company website;20
+P5-D02-PER-1;Perplexity;D02;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;21
+P5-D07-CHA-1;ChatGPT;D07;conplore.com;;Comparison list;1
+P5-D07-CHA-1;ChatGPT;D07;nxdigital.de;;Comparison list;2
+P5-D07-CHA-1;ChatGPT;D07;geoagenturen.de;;Comparison list;3
+P5-D07-CHA-1;ChatGPT;D07;marktforschung.de;;Comparison list;4
+P5-D07-CHA-1;ChatGPT;D07;saaswelt.de;;Comparison list;5
+P5-D07-CHA-1;ChatGPT;D07;askylabs.com;;Comparison list;6
+P5-D07-CHA-1;ChatGPT;D07;rivly.de;;Comparison list;7
+P5-D07-CHA-1;ChatGPT;D07;anewera.ch;;Comparison list;8
+P5-D07-CHA-1;ChatGPT;D07;clutch.co;;Agency directory;9
+P5-D07-CHA-1;ChatGPT;D07;vindbar.de;;Comparison list;10
+P5-D07-CHA-1;ChatGPT;D07;skale.so;;Comparison list;11
+P5-D07-CHA-1;ChatGPT;D07;nxdigital.de;;Comparison list;12
+P5-D07-CHA-1;ChatGPT;D07;marktplatz-mittelstand.de;;Comparison list;13
+P5-D07-CHA-1;ChatGPT;D07;thedigitalelevator.com;;Comparison list;14
+P5-D07-CHA-1;ChatGPT;D07;conplore.com;;Comparison list;15
+P5-D07-CHA-1;ChatGPT;D07;startuplove.de;;Comparison list;16
+P5-D07-CHA-1;ChatGPT;D07;askylabs.com;;Comparison list;17
+P5-D07-CHA-1;ChatGPT;D07;geoagenturen.de;;Comparison list;18
+P5-D07-CHA-1;ChatGPT;D07;rivly.de;;Comparison list;19
+P5-D07-CHA-1;ChatGPT;D07;saaswelt.de;;Comparison list;20
+P5-D07-CHA-1;ChatGPT;D07;gofishdigital.com;;Comparison list;21
+P5-D07-CHA-1;ChatGPT;D07;drweb.de;;Comparison list;22
+P5-D07-CHA-1;ChatGPT;D07;effizienzinstitut.de;;Comparison list;23
+P5-D07-CHA-1;ChatGPT;D07;marktforschung.de;;Comparison list;24
+P5-D07-CHA-1;ChatGPT;D07;dotwired.de;;Comparison list;25
+P5-D07-CHA-1;ChatGPT;D07;saynine.ai;;Comparison list;26
+P5-D07-CHA-1;ChatGPT;D07;silicon.de;;Comparison list;27
+P5-D07-CHA-1;ChatGPT;D07;rankshift.ai;;Comparison list;28
+P5-D07-CHA-1;ChatGPT;D07;bluelinks.agency;;Comparison list;29
+P5-D07-CHA-1;ChatGPT;D07;wellows.com;;Comparison list;30
+P5-D07-CHA-1;ChatGPT;D07;vitasoft.co;;Comparison list;31
+P5-D07-CHA-1;ChatGPT;D07;anewera.ch;;Comparison list;32
+P5-D07-CHA-1;ChatGPT;D07;kiwerkzeuge.com;;Agency directory;33
+P5-D07-CHA-1;ChatGPT;D07;geoagencies.com;;Agency directory;34
+P5-D07-CHA-1;ChatGPT;D07;umbrex.com;;Agency directory;35
+P5-D07-CHA-1;ChatGPT;D07;diegeoagentur.de;;Company website;36
+P5-D07-CHA-1;ChatGPT;D07;doodleweb.io;;Company website;37
+P5-D07-GEM-1;Gemini;D07;heyfinders.com;;Company website;1
+P5-D07-GEM-1;Gemini;D07;conplore.com;;Comparison list;2
+P5-D07-GEM-1;Gemini;D07;suchhelden.de;;Company website;3
+P5-D07-GEM-1;Gemini;D07;scaile.tech;;Company website;4
+P5-D07-GEM-1;Gemini;D07;seranking.com;;Company website;5
+P5-D07-PER-1;Perplexity;D07;scaile.tech;https://scaile.tech/de/blog/vendor-choice/alternatives/dept-alternativen;Comparison list;1
+P5-D07-PER-1;Perplexity;D07;conplore.com;https://conplore.com/geo-agenturen-in-der-dach-region-2026-wer-hilft-marken-in-der-ki-suche-sichtbar-zu-werden/;Comparison list;2
+P5-D07-PER-1;Perplexity;D07;alexandrya.ai;https://alexandrya.ai/de/blog/beste-ki-sichtbarkeits-tools;Comparison list;3
+P5-D07-PER-1;Perplexity;D07;dageno.ai;https://www.dageno.ai/de/blog/leading-ai-visibility-optimization-tool;Comparison list;4
+P5-D07-PER-1;Perplexity;D07;convertlyze.com;https://www.convertlyze.com/content-hub/ki-sichtbarkeit-tools-vergleich;Comparison list;5
+P5-D07-PER-1;Perplexity;D07;scaile.tech;https://scaile.tech/de/blog/vendor-choice/alternatives;Comparison list;6
+P5-D07-PER-1;Perplexity;D07;seranking.com;https://seranking.com/de/blog/seo-ki-tools/;Comparison list;7
+P5-D07-PER-1;Perplexity;D07;rankmio.de;https://rankmio.de/insights/seo-tools-vergleich;Comparison list;8
+P5-D07-PER-1;Perplexity;D07;cleverkitools.com;https://cleverkitools.com/ki-tools/seo-und-sichtbarkeit/;Comparison list;9
+P5-D07-PER-1;Perplexity;D07;tryprefer.com;https://tryprefer.com/de/best/ai-seo-tools/;Comparison list;10
+P5-D09-GEM-1;Gemini;D09;qilano.de;;Company website;1
+P5-D09-GEM-1;Gemini;D09;claneo.com;;Company website;2
+P5-D09-GEM-1;Gemini;D09;suchhelden.de;;Company website;3
+P5-D09-GEM-1;Gemini;D09;seowerk.de;;Company website;4
+P5-D09-PER-1;Perplexity;D09;geoagentur.de;https://geoagentur.de/;Company website;1
+P5-D09-PER-1;Perplexity;D09;claneo.com;https://www.claneo.com/en/geo-llmo-agency/;Company website;2
+P5-D09-PER-1;Perplexity;D09;geo-agentur.eu;https://geo-agentur.eu/;Company website;3
+P5-D09-PER-1;Perplexity;D09;geo-spezialisten.de;https://geo-spezialisten.de/;Company website;4
+P5-D09-PER-1;Perplexity;D09;claneo.com;https://www.claneo.com/de/branchen/b2b/;Company website;5
+P5-D09-PER-1;Perplexity;D09;geoagentur.de;https://geoagentur.de/ratgeber/beste-geo-agentur/;Comparison list;6
+P5-D09-PER-1;Perplexity;D09;geovo.de;https://geovo.de/geo-agentur-deutschland/;Company website;7
+P5-D09-PER-1;Perplexity;D09;claneo.com;https://www.claneo.com/de/geo-llmo-agentur/;Company website;8
+P5-D09-PER-1;Perplexity;D09;claneo.com;https://www.claneo.com/de/ki-seo-loesungen/;Company website;9
+P5-D09-PER-1;Perplexity;D09;geoagenturen.de;https://www.geoagenturen.de/;Agency directory;10
+P5-D12-CHA-1;ChatGPT;D12;reachx.de;;Company website;1
+P5-D12-CHA-1;ChatGPT;D12;optinest.de;;Comparison list;2
+P5-D12-CHA-1;ChatGPT;D12;vindbar.de;;Comparison list;3
+P5-D12-CHA-1;ChatGPT;D12;drweb.de;;Comparison list;4
+P5-D12-CHA-1;ChatGPT;D12;diegeoagentur.de;;Company website;5
+P5-D12-CHA-1;ChatGPT;D12;vindbar.de;;Comparison list;6
+P5-D12-CHA-1;ChatGPT;D12;optinest.de;;Comparison list;7
+P5-D12-CHA-1;ChatGPT;D12;drweb.de;;Comparison list;8
+P5-D12-CHA-1;ChatGPT;D12;staging.drweb.de;;Comparison list;9
+P5-D12-CHA-1;ChatGPT;D12;consense-communications.de;;Company website;10
+P5-D12-CHA-1;ChatGPT;D12;diegeoagentur.de;;Company website;11
+P5-D12-CHA-1;ChatGPT;D12;mediatouch.digital;;Company website;12
+P5-D12-CHA-1;ChatGPT;D12;sumax.de;;Company website;13
+P5-D12-CHA-1;ChatGPT;D12;geoagenturen.de;;Agency directory;14
+P5-D12-CHA-1;ChatGPT;D12;geoagenturen.de;;Agency directory;15
+P5-D12-CHA-1;ChatGPT;D12;reachx.de;;Company website;16
+P5-D12-CHA-1;ChatGPT;D12;reachx.de;;Company website;17
+P5-D12-CHA-1;ChatGPT;D12;reachx.de;;Company website;18
+P5-D12-CHA-1;ChatGPT;D12;reachx.de;;Company website;19
+P5-D12-CHA-1;ChatGPT;D12;eom.de;;Company website;20
+P5-D12-CHA-1;ChatGPT;D12;linkedin.com;;Trade media;21
+P5-D12-CHA-1;ChatGPT;D12;omt.de;;Agency directory;22
+P5-D12-CHA-1;ChatGPT;D12;find-and-update.company-information.service.gov.uk;;Other;23
+P5-D12-CHA-1;ChatGPT;D12;impact.com;;Agency directory;24
+P5-D12-CHA-1;ChatGPT;D12;expertlocal.de;;Agency directory;25
+P5-D12-CHA-1;ChatGPT;D12;onlinemarketing.de;;Agency directory;26
+P5-D12-CHA-1;ChatGPT;D12;linkedin.com;;Trade media;27
+P5-D12-CHA-1;ChatGPT;D12;werkenntdenbesten.de;;Review site;28
+P5-D12-GEM-1;Gemini;D12;conversionmedia.de;;Company website;1
+P5-D12-GEM-1;Gemini;D12;omr.com;;Agency directory;2
+P5-D12-GEM-1;Gemini;D12;evergreen.media;;Company website;3
+P5-D12-GEM-1;Gemini;D12;seranking.com;;Company website;4
+P5-D12-GEM-1;Gemini;D12;claneo.com;;Company website;5
+P5-D12-PER-1;Perplexity;D12;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/llmo-agentur.html;Press release portal;1
+P5-D12-PER-1;Perplexity;D12;duna.digital;https://duna.digital/services/ki-seo/;Company website;2
+P5-D12-PER-1;Perplexity;D12;taismo.de;https://taismo.de/ki-seo-agentur/;Company website;3
+P5-D12-PER-1;Perplexity;D12;grovia-digital.com;https://www.grovia-digital.com/antworten/agentur-marke-nicht-in-ki-assistenten/;Company website;4
+P5-D12-PER-1;Perplexity;D12;martin-maack.de;https://www.martin-maack.de/leistungen/seo/ai-seo-strategie;Company website;5
+P5-D12-PER-1;Perplexity;D12;suchhelden.de;https://www.suchhelden.de/ki-seo-agentur.php;Company website;6
+P5-D12-PER-1;Perplexity;D12;herold.at;https://www.herold.at/ratgeber/ki-sichtbarkeit/agentur-fuer-sichtbarkeit-in-ki/;Trade media;7
+P5-D12-PER-1;Perplexity;D12;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;8
+P5-D12-PER-1;Perplexity;D12;derprozessmeister.de;https://www.derprozessmeister.de/blog/ki-agentur-die-richtige-agentur-finden;Company website;9
+P5-D12-PER-1;Perplexity;D12;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;10
+P5-D13-CHA-1;ChatGPT;D13;optinest.de;;Comparison list;1
+P5-D13-CHA-1;ChatGPT;D13;ki-gefunden-werden.de;;Comparison list;2
+P5-D13-CHA-1;ChatGPT;D13;geotoolbox.ai;;Comparison list;3
+P5-D13-CHA-1;ChatGPT;D13;content-engineer.ch;;Comparison list;4
+P5-D13-CHA-1;ChatGPT;D13;rivly.de;;Comparison list;5
+P5-D13-CHA-1;ChatGPT;D13;webglazer.com;;Comparison list;6
+P5-D13-CHA-1;ChatGPT;D13;geotoolbox.ai;;Comparison list;7
+P5-D13-CHA-1;ChatGPT;D13;ki-gefunden-werden.de;;Comparison list;8
+P5-D13-CHA-1;ChatGPT;D13;webglazer.com;;Comparison list;9
+P5-D13-CHA-1;ChatGPT;D13;content-engineer.ch;;Comparison list;10
+P5-D13-CHA-1;ChatGPT;D13;conplore.com;;Comparison list;11
+P5-D13-CHA-1;ChatGPT;D13;optinest.de;;Comparison list;12
+P5-D13-CHA-1;ChatGPT;D13;geogen.io;;Company website;13
+P5-D13-CHA-1;ChatGPT;D13;media-guides.de;;Comparison list;14
+P5-D13-CHA-1;ChatGPT;D13;rivly.de;;Comparison list;15
+P5-D13-CHA-1;ChatGPT;D13;saaswelt.de;;Comparison list;16
+P5-D13-CHA-1;ChatGPT;D13;drweb.de;;Comparison list;17
+P5-D13-CHA-1;ChatGPT;D13;staging.drweb.de;;Comparison list;18
+P5-D13-CHA-1;ChatGPT;D13;taismo.de;;Comparison list;19
+P5-D13-CHA-1;ChatGPT;D13;effizienzinstitut.de;;Comparison list;20
+P5-D13-GEM-1;Gemini;D13;modular-ops.de;;Company website;1
+P5-D13-GEM-1;Gemini;D13;avorice.de;;Company website;2
+P5-D13-GEM-1;Gemini;D13;evergreen.media;;Company website;3
+P5-D13-GEM-1;Gemini;D13;lilox.io;;Company website;4
+P5-D13-GEM-1;Gemini;D13;ozdreamwalk.de;;Company website;5
+P5-D13-GEM-1;Gemini;D13;convertlyze.com;;Comparison list;6
+P5-D13-GEM-1;Gemini;D13;snutig.de;;Company website;7
+P5-D13-PER-1;Perplexity;D13;kiagentenberatung.de;https://www.kiagentenberatung.de/blog/agentur-fuer-ki-sichtbarkeit-vergleich;Comparison list;1
+P5-D13-PER-1;Perplexity;D13;grovia-digital.com;https://www.grovia-digital.com/blog/agenturen-ki-sichtbarkeit-dach-vergleich/;Comparison list;2
+P5-D13-PER-1;Perplexity;D13;rivly.de;https://rivly.de/blog/ki-sichtbarkeit-anbieter-tools/;Comparison list;3
+P5-D13-PER-1;Perplexity;D13;media-guides.de;https://media-guides.de/beste-geo-agenturen-dach-2026/;Comparison list;4
+P5-D13-PER-1;Perplexity;D13;rankprompt.de;https://rankprompt.de/blog/beste-geo-tools-2026;Comparison list;5
+P5-D13-PER-1;Perplexity;D13;alexandrya.ai;https://alexandrya.ai/de/blog/beste-ki-sichtbarkeits-tools;Comparison list;6
+P5-D13-PER-1;Perplexity;D13;scaile.tech;https://scaile.tech/de;Company website;7
+P5-D13-PER-1;Perplexity;D13;citavo.app;https://www.citavo.app/studien/ki-sichtbarkeit-dach-2026;Trade media;8
+P5-D13-PER-1;Perplexity;D13;effizienzinstitut.de;https://effizienzinstitut.de/geo-agentur-dach-vergleich-2026/;Comparison list;9
+P5-D13-PER-1;Perplexity;D13;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;10
+P5-E01-CHA-1;ChatGPT;E01;shoptank.io;;Comparison list;1
+P5-E01-CHA-1;ChatGPT;E01;taismo.de;;Comparison list;2
+P5-E01-CHA-1;ChatGPT;E01;sumax.de;;Company website;3
+P5-E01-CHA-1;ChatGPT;E01;thedigitalelevator.com;;Comparison list;4
+P5-E01-CHA-1;ChatGPT;E01;citeme.io;;Comparison list;5
+P5-E01-CHA-1;ChatGPT;E01;thedigitalelevator.com;;Comparison list;6
+P5-E01-CHA-1;ChatGPT;E01;aeogeolabs.com;;Comparison list;7
+P5-E01-CHA-1;ChatGPT;E01;in-sync.io;;Comparison list;8
+P5-E01-CHA-1;ChatGPT;E01;theagentoperators.com;;Comparison list;9
+P5-E01-CHA-1;ChatGPT;E01;taismo.de;;Comparison list;10
+P5-E01-CHA-1;ChatGPT;E01;growffic.com;;Comparison list;11
+P5-E01-CHA-1;ChatGPT;E01;canlah.ai;;Comparison list;12
+P5-E01-CHA-1;ChatGPT;E01;009.agency;;Company website;13
+P5-E01-CHA-1;ChatGPT;E01;ranktracker.com;;Comparison list;14
+P5-E01-CHA-1;ChatGPT;E01;consense-communications.de;;Company website;15
+P5-E01-CHA-1;ChatGPT;E01;rankshift.ai;;Comparison list;16
+P5-E01-CHA-1;ChatGPT;E01;mondis.de;;Company website;17
+P5-E01-CHA-1;ChatGPT;E01;shoptank.io;;Comparison list;18
+P5-E01-CHA-1;ChatGPT;E01;geoagencies.com;;Agency directory;19
+P5-E01-CHA-1;ChatGPT;E01;diegeoagentur.de;;Company website;20
+P5-E01-CHA-1;ChatGPT;E01;ki-beratung-deutschland.de;;Company website;21
+P5-E01-CHA-1;ChatGPT;E01;sumax.de;;Company website;22
+P5-E01-CHA-1;ChatGPT;E01;geoagenturen.de;;Agency directory;23
+P5-E01-CHA-1;ChatGPT;E01;additiv.de;;Company website;24
+P5-E01-CHA-1;ChatGPT;E01;decipher.agency;;Company website;25
+P5-E01-GEM-1;Gemini;E01;linkedist.com;;Company website;1
+P5-E01-GEM-1;Gemini;E01;drewgarrett.org;;Trade media;2
+P5-E01-GEM-1;Gemini;E01;seo-stuff.com;;Trade media;3
+P5-E01-GEM-1;Gemini;E01;innfactory.ai;;Company website;4
+P5-E02-PER-1;Perplexity;E02;seotrust.de;https://www.seotrust.de/ki-agentur/geo-agentur/;Company website;1
+P5-E02-PER-1;Perplexity;E02;frankfurt-tipp.de;https://www.frankfurt-tipp.de/ffm-aktuell/s/ugc/geo-agentur-in-frankfurt-5-anbieter-im-ueberblick-2026.html;Comparison list;2
+P5-E02-PER-1;Perplexity;E02;mindmelt.de;https://www.mindmelt.de/webdesign-frankfurt/generative-engine-optimization/;Company website;3
+P5-E02-PER-1;Perplexity;E02;loudandlexis.com;https://www.loudandlexis.com/;Company website;4
+P5-E02-PER-1;Perplexity;E02;webnetz.de;https://www.webnetz.de/leistungen/online-marketing/geo-agentur;Company website;5
+P5-E02-PER-1;Perplexity;E02;einnews.com;https://www.einnews.com/pr_news/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;6
+P5-E02-PER-1;Perplexity;E02;lohud.com;https://www.lohud.com/press-release/story/257020/leadaio-launches-leadaio-2-0-a-managed-ai-visibility-platform-for-mid-market-and-enterprise-brands/;Press release portal;7
+P5-E02-PER-1;Perplexity;E02;morningstar.com;https://www.morningstar.com/news/accesswire/1253248msn/trizcom-pr-wins-fourth-prsa-dallas-best-of-show-award-founder-jo-trizila-receives-norm-teich-award;Press release portal;8
+P5-E02-PER-1;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/17/3404762/0/en/the-state-of-b2b-growth-marketing-as-2026-closes-what-the-data-signals-for-2027.html;Press release portal;9
+P5-E02-PER-1;Perplexity;E02;tennessean.com;https://www.tennessean.com/press-release/story/264784/pivotal-point-marketing-expands-geo-ai-search-optimization-services-to-help-businesses-get-discovered/;Press release portal;10
+P5-E02-PER-1;Perplexity;E02;knoxnews.com;https://www.knoxnews.com/press-release/story/264716/intellisea-launches-agentic-ai-marketing-platform-for-agencies-and-businesses/;Press release portal;11
+P5-E02-PER-1;Perplexity;E02;rankpivot.ai;https://rankpivot.ai/ai-visibility-agency/;Company website;12
+P5-E02-PER-1;Perplexity;E02;morningstar.com;https://www.morningstar.com/news/pr-newswire/20261116ph98299/best-chatgpt-visibility-agency-for-brand-mentions-nicely-network-recognised-by-consumer365;Press release portal;13
+P5-E02-PER-1;Perplexity;E02;pnj.com;https://www.pnj.com/press-release/story/149928/pivotal-point-marketing-expands-geo-ai-search-optimization-services-to-help-businesses-get-discovered/;Press release portal;14
+P5-E02-PER-1;Perplexity;E02;reddit.com;https://www.reddit.com/r/digital_marketing/comments/1rpmtmy/what_are_the_top_5_ai_visibility_agencies_in_2026/;Community/forum;15
+P5-E02-PER-1;Perplexity;E02;brandlight.ai;https://brandlight.ai/blog/best-ai-visibility-tools-for-agencies;Comparison list;16
+P5-E02-PER-1;Perplexity;E02;finance.yahoo.com;https://finance.yahoo.com/technology/ai/articles/best-ai-visibility-geo-agency-042700517.html;Press release portal;17
+P5-E02-PER-1;Perplexity;E02;visibilitylabs.com;https://visibilitylabs.com/;Company website;18
+P5-E02-PER-1;Perplexity;E02;getnews.info;https://www.getnews.info/story/2026/11/17/usa-marketing-pros-launches-free-ai-visibility-checker-tool-for-local-business-websites/;Press release portal;19
+P5-E02-PER-1;Perplexity;E02;prnewswire.com;https://www.prnewswire.com/news-releases/the-worldcom-public-relations-group-selects-brandi-ai-as-a-preferred-partner-for-ai-visibility-and-generative-engine-optimization-302936696.html;Press release portal;20
+P5-E02-PER-1;Perplexity;E02;beaivisible.ai;https://beaivisible.ai/;Company website;21
+P5-E02-PER-1;Perplexity;E02;geo-agentur-frankfurt-am-main.de;https://geo-agentur-frankfurt-am-main.de/;Company website;22
+P5-E02-PER-1;Perplexity;E02;suchhelden.de;https://www.suchhelden.de/geo-agentur-frankfurt.php;Company website;23
+P5-E02-PER-1;Perplexity;E02;omr.com;https://omr.com/de/reviews/service-category/geo-agenturen;Agency directory;24
+P5-E02-PER-1;Perplexity;E02;digital-leap.de;https://digital-leap.de/geo-optimierung/;Company website;25
+P5-E02-PER-1;Perplexity;E02;geo-agentur-frankfurt.net;https://geo-agentur-frankfurt.net/;Company website;26
+P5-E02-PER-1;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/18/3406106/0/en/ai-visibility-for-industrial-parts-mro-distributors-six-companies-exceed-35-visibility.html;Press release portal;27
+P5-E02-PER-1;Perplexity;E02;usatoday.com;https://www.usatoday.com/press-release/story/59223/usa-marketing-pros-launches-free-ai-visibility-checker-tool-for-local-business-websites/;Press release portal;28
+P5-E02-PER-1;Perplexity;E02;openpr.com;https://www.openpr.com/news/4693843/geo-agency-shows-the-office-that-fights-for-clients-in-ai-search;Press release portal;29
+P5-E02-PER-1;Perplexity;E02;lohud.com;https://www.lohud.com/press-release/story/258351/search-is-becoming-a-brand-channel-without-click-attribution-victorious-says/;Press release portal;30
+P5-E01-PER-1;Perplexity;E01;seoagents.de;https://www.seoagents.de/;Company website;1
+P5-E01-PER-1;Perplexity;E01;seo.com;https://www.seo.com/agency/llm-marketing/;Company website;2
+P5-E01-PER-1;Perplexity;E01;notablypr.com;https://notablypr.com/ai-visibility-agency.html;Company website;3
+P5-E01-PER-1;Perplexity;E01;formwandler-interactive.com;https://www.formwandler-interactive.com/geo-agentur-frankfurt-ki-seo/;Company website;4
+P5-E01-PER-1;Perplexity;E01;comexland.com;https://comexland.com/en/geo-how-to-get-your-company-recommended-by-chatgpt-gemini-and-other-ai-search-engines/;Company website;5
+P5-E01-PER-1;Perplexity;E01;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/12/3401798/0/en/more-than-170-geo-and-ai-seo-agencies-in-40-countries-now-partner-with-otterlyai.html;Press release portal;6
+P5-E01-PER-1;Perplexity;E01;pixelmojo.io;https://www.pixelmojo.io/best-ai-visibility-agencies;Comparison list;7
+P5-E01-PER-1;Perplexity;E01;geo-agentur-frankfurt-am-main.de;https://www.geo-agentur-frankfurt-am-main.de/;Company website;8
+P5-E01-PER-1;Perplexity;E01;geoagentur.de;https://geoagentur.de/;Company website;9
+P5-E01-PER-1;Perplexity;E01;seowerk.de;https://www.seowerk.de/;Company website;10
+P5-E01-PER-1;Perplexity;E01;onlinesolutionsgroup.de;https://www.onlinesolutionsgroup.de/geo-agentur/;Company website;11
+P5-E01-PER-1;Perplexity;E01;noahlutz.de;https://www.noahlutz.de/geo-agentur/;Company website;12
+P5-E01-PER-1;Perplexity;E01;triplesensereply.de;https://www.triplesensereply.de/ai-instructions;Company website;13
+P5-E01-PER-1;Perplexity;E01;mindmelt.de;https://www.mindmelt.de/webdesign-frankfurt/generative-engine-optimization/;Company website;14
+P5-E01-PER-1;Perplexity;E01;growsta.de;https://growsta.de/geo-agentur-frankfurt/;Company website;15
+P5-E01-PER-1;Perplexity;E01;freep.com;https://www.freep.com/press-release/story/274653/pivotal-point-marketing-expands-geo-ai-search-optimization-services-to-help-businesses-get-discovered/;Press release portal;16
+P5-E01-PER-1;Perplexity;E01;dispatch.com;https://www.dispatch.com/press-release/story/255888/the-ai-seo-agency-launches-ai-search-optimisation-services-for-chatgpt-google-ai-overviews-gemini-and-perplexity/;Press release portal;17
+P5-E01-PER-1;Perplexity;E01;linkedin.com;https://www.linkedin.com/pulse/top-6-aeo-agencies-consider-chatgpt-gemini-perplexity-caityln-clark-agode;Trade media;18
+P5-E01-PER-1;Perplexity;E01;reddit.com;https://www.reddit.com/r/DigitalMarketing/comments/1tn7zll/which_digital_marketing_agencies_are_best_at/;Community/forum;19
+P5-E01-PER-1;Perplexity;E01;rankmonster.ai;https://www.rankmonster.ai/feed/rankmonster.ai/10-best-ai-visibility-tools-for-agencies-in-2026-track-citations-across-chatgpt-claude-gemini;Comparison list;20
+P5-E05-CHA-1;ChatGPT;E05;taismo.de;;Comparison list;1
+P5-E05-CHA-1;ChatGPT;E05;in-sync.io;;Comparison list;2
+P5-E05-CHA-1;ChatGPT;E05;scaile.tech;;Comparison list;3
+P5-E05-CHA-1;ChatGPT;E05;thedigitalelevator.com;;Comparison list;4
+P5-E05-CHA-1;ChatGPT;E05;canlah.ai;;Comparison list;5
+P5-E05-CHA-1;ChatGPT;E05;firstpagesage.com;;Comparison list;6
+P5-E05-CHA-1;ChatGPT;E05;greenflagdigital.com;;Comparison list;7
+P5-E05-CHA-1;ChatGPT;E05;taismo.de;;Comparison list;8
+P5-E05-CHA-1;ChatGPT;E05;effizienzinstitut.de;;Comparison list;9
+P5-E05-CHA-1;ChatGPT;E05;rankshift.ai;;Comparison list;10
+P5-E05-CHA-1;ChatGPT;E05;relevance.com;;Comparison list;11
+P5-E05-CHA-1;ChatGPT;E05;shoptank.io;;Comparison list;12
+P5-E05-GEM-1;Gemini;E05;contently.com;;Company website;1
+P5-E05-GEM-1;Gemini;E05;tryprofound.com;;Company website;2
+P5-E05-PER-1;Perplexity;E05;claneo.com;https://www.claneo.com/de/geo-llmo-agentur/;Company website;1
+P5-E05-PER-1;Perplexity;E05;beomniscient.com;https://beomniscient.com/blog/the-9-best-llm-seo-agencies-for-b2b-brands-2027-guide/;Comparison list;2
+P5-E05-PER-1;Perplexity;E05;aimers.io;https://aimers.io/blog/top-10-llm-optimization-agencies;Comparison list;3
+P5-E05-PER-1;Perplexity;E05;ipullrank.com;https://ipullrank.com/services/relevance-engineering;Company website;4
+P5-E05-PER-1;Perplexity;E05;marketercoffee.com;https://marketercoffee.com/ranking/best-llmo-agencies/;Comparison list;5
+P5-E05-PER-1;Perplexity;E05;claneo.com;https://www.claneo.com/en/case-studies/;Company website;6
+P5-E05-PER-1;Perplexity;E05;claneo.com;https://www.claneo.com/de/branchen/b2b/;Company website;7
+P5-E05-PER-1;Perplexity;E05;ipullrank.com;https://ipullrank.com/ai-search-manual/relevance-engineering;Company website;8
+P5-E05-PER-1;Perplexity;E05;ipullrank.com;https://ipullrank.com/ai-search-strategy-program;Company website;9
+P5-E05-PER-1;Perplexity;E05;higoodie.com;https://higoodie.com/blog/llm-visibility-services/;Comparison list;10
+P5-E05-PER-1;Perplexity;E05;monsoon.agency;https://monsoon.agency/blog/geo-planning-showing-up-in-ai-search-results-for-german-queries/;Company website;11
+P5-E05-PER-1;Perplexity;E05;deloitte.com;https://www.deloitte.com/de/de/services/consulting/perspectives/ai-visibility.html;Company website;12
+P5-E05-PER-1;Perplexity;E05;finance.yahoo.com;https://finance.yahoo.com/technology/ai/articles/best-llm-visibility-agency-businesses-150000104.html;Press release portal;13
+P5-E05-PER-1;Perplexity;E05;reddit.com;https://www.reddit.com/r/b2bmarketing/comments/1tvf47s/9_best_geo_consultants_for_ai_visibility_aeo_and/;Community/forum;14
+P5-E05-PER-1;Perplexity;E05;businessplusai.com;https://www.businessplusai.com/blog/the-12-best-ai-pr-agencies-for-llm-visibility-geo;Comparison list;15
+P5-E05-PER-1;Perplexity;E05;gtm8020.com;https://www.gtm8020.com/blog/llm-visibility-agencies;Comparison list;16
+P5-E05-PER-1;Perplexity;E05;yotpo.com;https://www.yotpo.com/blog/llm-monitoring-tools-brand-visibility/;Comparison list;17
+P5-E05-PER-1;Perplexity;E05;linkedin.com;https://www.linkedin.com/pulse/i-spent-20k-testing-7-llm-visibility-agencies-one-robinson-meucci-e7ypc;Trade media;18
+P5-E05-PER-1;Perplexity;E05;lumar.io;https://www.lumar.io/case-studies/peak-ace-case-study/;Trade media;19
+P5-E05-PER-1;Perplexity;E05;ipullrank.com;https://ipullrank.com/case-studies;Company website;20
+P5-E05-PER-1;Perplexity;E05;peakace.agency;https://peakace.agency/de/case-studies/;Company website;21
+P5-E05-PER-1;Perplexity;E05;umbrex.com;https://umbrex.com/resources/generative-engine-optimization-resource-directory/ai-search-manual-ipullrank/;Agency directory;22
+P5-E05-PER-1;Perplexity;E05;bignewsnetwork.com;https://www.bignewsnetwork.com/news/279438132/best-geo-agencies-in-2026;Press release portal;23
+P5-E05-PER-1;Perplexity;E05;jaeckert-odaniel.com;https://www.jaeckert-odaniel.com/en/geo-case-study-46-7-ai-visibility-in-7-days/;Company website;24
+P5-E05-PER-1;Perplexity;E05;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;25
+P5-E14-CHA-1;ChatGPT;E14;onely.com;;Comparison list;1
+P5-E14-CHA-1;ChatGPT;E14;drewgarrett.org;;Comparison list;2
+P5-E14-CHA-1;ChatGPT;E14;canlah.ai;;Comparison list;3
+P5-E14-CHA-1;ChatGPT;E14;saaswelt.de;;Comparison list;4
+P5-E14-CHA-1;ChatGPT;E14;carrilagency.com;;Comparison list;5
+P5-E14-CHA-1;ChatGPT;E14;citeme.io;;Comparison list;6
+P5-E14-CHA-1;ChatGPT;E14;aiclicks.io;;Comparison list;7
+P5-E14-CHA-1;ChatGPT;E14;taismo.de;;Comparison list;8
+P5-E14-CHA-1;ChatGPT;E14;greenflagdigital.com;;Comparison list;9
+P5-E14-CHA-1;ChatGPT;E14;firstpagesage.com;;Comparison list;10
+P5-E14-CHA-1;ChatGPT;E14;thedigitalelevator.com;;Comparison list;11
+P5-E14-CHA-1;ChatGPT;E14;onely.com;;Comparison list;12
+P5-E14-CHA-1;ChatGPT;E14;taismo.de;;Comparison list;13
+P5-E14-CHA-1;ChatGPT;E14;growffic.com;;Comparison list;14
+P5-E14-CHA-1;ChatGPT;E14;drewgarrett.org;;Comparison list;15
+P5-E14-CHA-1;ChatGPT;E14;canlah.ai;;Comparison list;16
+P5-E14-CHA-1;ChatGPT;E14;saaswelt.de;;Comparison list;17
+P5-E14-CHA-1;ChatGPT;E14;scaile.tech;;Comparison list;18
+P5-E14-CHA-1;ChatGPT;E14;relevance.com;;Comparison list;19
+P5-E14-GEM-1;Gemini;E14;minuttia.com;;Company website;1
+P5-E14-GEM-1;Gemini;E14;pragma-code.de;;Company website;2
+P5-E14-GEM-1;Gemini;E14;stark.marketing;;Company website;3
+P5-E14-GEM-1;Gemini;E14;kkominc.com;;Company website;4
+P5-E14-PER-1;Perplexity;E14;claneo.com;https://www.claneo.com/en/geo-llmo-agency/;Company website;1
+P5-E14-PER-1;Perplexity;E14;greaterthanservices.com;https://greaterthanservices.com/blog/ai-search-study-marketing-agencies;Company website;2
+P5-E14-PER-1;Perplexity;E14;grovia-digital.com;https://www.grovia-digital.com/en/answers/brand-invisible-in-ai-chatbots/;Company website;3
+P5-E14-PER-1;Perplexity;E14;breakingb2b.com;https://www.breakingb2b.com/blog/aeo-agency-for-b2b-companies;Comparison list;4
+P5-E14-PER-1;Perplexity;E14;wildbos.com;https://wildbos.com/blog/en/how-to-pick-an-agency-for-ai-visibility;Company website;5
+P5-E14-PER-1;Perplexity;E14;canonry.ai;https://canonry.ai/blog/agency-for-chatgpt-visibility;Company website;6
+P5-E14-PER-1;Perplexity;E14;obapr.com;https://obapr.com/resources/why-isnt-my-company-showing-up-in-ai-search-results-a-complete-geo-guide-for-uae-brands/;Company website;7
+P5-E14-PER-1;Perplexity;E14;ayautomate.com;https://www.ayautomate.com/blog/best-ai-chatbot-agencies;Comparison list;8
+P5-E14-PER-1;Perplexity;E14;reddit.com;https://www.reddit.com/r/GrowthHacking/comments/1rri9ch/searching_for_10_ai_visibility_agency_brands_are/;Community/forum;9
+P5-E14-PER-1;Perplexity;E14;100signals.com;https://100signals.com/ai-visibility-for-software-development-companies/;Company website;10
+P5-E12-CHA-1;ChatGPT;E12;samura (Domain nicht angezeigt);;Comparison list;1
+P5-E12-CHA-1;ChatGPT;E12;growaxis (Domain nicht angezeigt);;Comparison list;2
+P5-E12-CHA-1;ChatGPT;E12;samura (Domain nicht angezeigt);;Company website;3
+P5-E12-CHA-1;ChatGPT;E12;aimenalabs (Domain nicht angezeigt);;Company website;4
+P5-E12-CHA-1;ChatGPT;E12;thegrowingai.com;;Comparison list;5
+P5-E12-CHA-1;ChatGPT;E12;grovia-digital.com;;Comparison list;6
+P5-E12-CHA-1;ChatGPT;E12;aeogeolabs.com;;Comparison list;7
+P5-E12-CHA-1;ChatGPT;E12;adjoltz.com;;Comparison list;8
+P5-E12-CHA-1;ChatGPT;E12;asad.ae;;Comparison list;9
+P5-E12-CHA-1;ChatGPT;E12;rightdoor.ae;;Company website;10
+P5-E12-CHA-1;ChatGPT;E12;rath.ae;;Company website;11
+P5-E12-CHA-1;ChatGPT;E12;lunasol.ae;;Company website;12
+P5-E12-PER-1;Perplexity;E12;vistabylara.com;https://www.vistabylara.com/services/aeo-geo;Company website;1
+P5-E12-PER-1;Perplexity;E12;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;2
+P5-E12-PER-1;Perplexity;E12;github.com;https://github.com/Grovia-Digital;Other;3
+P5-E12-PER-1;Perplexity;E12;absolute.digital;https://absolute.digital/ae/services/ai-visibility/;Company website;4
+P5-E12-PER-1;Perplexity;E12;vistabylara.com;https://www.vistabylara.com/;Company website;5
+P5-E12-PER-1;Perplexity;E12;absolute.digital;https://absolute.digital/ae/services/ai-visibility/startups/;Company website;6
+P5-E12-PER-1;Perplexity;E12;clutch.co;https://clutch.co/profile/brava-360-digital;Agency directory;7
+P5-E12-PER-1;Perplexity;E12;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;8
+P5-E12-PER-1;Perplexity;E12;huggingface.co;https://huggingface.co/Grovia-Digital;Other;9
+P5-E12-PER-1;Perplexity;E12;openpr.com;https://www.openpr.com/news/4682433/prdots-launches-in-dubai-as-a-next-generation-pr-and-ai;Press release portal;10
+P5-E12-PER-1;Perplexity;E12;iyaralabs.com;https://www.iyaralabs.com/;Company website;11
+P5-E16-PER-1;Perplexity;E16;adgrow.ae;https://adgrow.ae/ai-visibility/;Company website;1
+P5-E16-PER-1;Perplexity;E16;vistabylara.com;https://www.vistabylara.com/services/aeo-geo;Company website;2
+P5-E16-PER-1;Perplexity;E16;grovia-digital.com;https://www.grovia-digital.com/en/geo-agency-uae/;Company website;3
+P5-E16-PER-1;Perplexity;E16;flarefalcon.ai;https://flarefalcon.ai/;Company website;4
+P5-E16-PER-1;Perplexity;E16;metanestagency.com;https://metanestagency.com/ai-visibility/;Company website;5
+P5-E16-PER-1;Perplexity;E16;vistabylara.com;https://www.vistabylara.com/;Company website;6
+P5-E16-PER-1;Perplexity;E16;brava360.digital;https://brava360.digital/;Company website;7
+P5-E16-PER-1;Perplexity;E16;iyaralabs.com;https://www.iyaralabs.com/;Company website;8
+P5-E16-PER-1;Perplexity;E16;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;9
+P5-E16-PER-1;Perplexity;E16;einnews.com;https://www.einnews.com/pr_news/955491774/chilli-fruit-web-consulting-ranked-1-ai-visibility-agency-for-enterprise-brands;Press release portal;10
+P5-E16-PER-1;Perplexity;E16;absolute.digital;https://absolute.digital/ae/services/ai-visibility/;Company website;11
+P5-E17-CHA-1;ChatGPT;E17;growaxis (Domain nicht angezeigt);;Comparison list;1
+P5-E17-CHA-1;ChatGPT;E17;wearetenet.com;;Comparison list;2
+P5-E17-CHA-1;ChatGPT;E17;thegrowingai.com;;Comparison list;3
+P5-E17-CHA-1;ChatGPT;E17;redberries.ae;;Company website;4
+P5-E17-CHA-1;ChatGPT;E17;goodfirms.co;;Agency directory;5
+P5-E17-CHA-1;ChatGPT;E17;goodfirms.co;;Agency directory;6
+P5-E17-CHA-1;ChatGPT;E17;arfadia.com;;Trade media;7
+P5-E17-CHA-1;ChatGPT;E17;digitalagencynetwork.com;;Agency directory;8
+P5-E17-CHA-1;ChatGPT;E17;technoid.ae;;Company website;9
+P5-E17-CHA-1;ChatGPT;E17;trinityseo.ae;;Company website;10
+P5-E17-CHA-1;ChatGPT;E17;samuraconsulting.com;;Company website;11
+P5-E17-CHA-1;ChatGPT;E17;udjat.ae;;Company website;12
+P5-E17-PER-1;Perplexity;E17;chainreaction.ae;https://www.chainreaction.ae/seo-search-engine-optimization-agency/;Company website;1
+P5-E17-PER-1;Perplexity;E17;digitalgravity.ae;https://www.digitalgravity.ae/services/generative-engine-optimization-geo-agency/;Company website;2
+P5-E17-PER-1;Perplexity;E17;thegeoagency.ai;https://www.thegeoagency.ai/;Company website;3
+P5-E17-PER-1;Perplexity;E17;esoteric.agency;https://esoteric.agency/services/generative-engine-optimization;Company website;4
+P5-E17-PER-1;Perplexity;E17;globalmediainsight.com;https://www.globalmediainsight.com/generative-engine-optimization-services/;Company website;5
+P5-E17-PER-1;Perplexity;E17;zenerom.ae;https://zenerom.ae/seo-services/geo-services/;Company website;6
+P5-E17-PER-1;Perplexity;E17;octopusmarketing.agency;https://www.octopusmarketing.agency/digital-marketing/seo-services/ai-seo-services/generative-engine-optimization/;Company website;7
+P5-E17-PER-1;Perplexity;E17;synscribe.com;https://www.synscribe.com/service/generative-engine-optimization-dubai;Company website;8
+P5-E17-PER-1;Perplexity;E17;spiderworks.ae;https://www.spiderworks.ae/geo-services;Company website;9
+P5-E17-PER-1;Perplexity;E17;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;10
+P5-E20-CHA-1;ChatGPT;E20;growaxis (Domain nicht angezeigt);;Comparison list;1
+P5-E20-CHA-1;ChatGPT;E20;grovia-digital.com;;Comparison list;2
+P5-E20-CHA-1;ChatGPT;E20;adjoltz.com;;Comparison list;3
+P5-E20-CHA-1;ChatGPT;E20;lunasol.ae;;Company website;4
+P5-E20-CHA-1;ChatGPT;E20;nexiiom.com;;Trade media;5
+P5-E20-CHA-1;ChatGPT;E20;aimenalabs.com;;Company website;6
+P5-E20-CHA-1;ChatGPT;E20;bluebeetle.ae;;Company website;7
+P5-E20-CHA-1;ChatGPT;E20;beontop.ae;;Company website;8
+P5-E20-CHA-1;ChatGPT;E20;trinityseo.ae;;Company website;9
+P5-E20-CHA-1;ChatGPT;E20;tareeqalhareer.net;;Company website;10
+P5-E20-CHA-1;ChatGPT;E20;digitalarab.agency;;Company website;11
+P5-E20-CHA-1;ChatGPT;E20;samuraconsulting.com;;Company website;12
+P5-E20-CHA-1;ChatGPT;E20;hikmahaiagency.com;;Company website;13
+P5-E20-CHA-1;ChatGPT;E20;tracedgrowth.com;;Company website;14
+P5-E20-CHA-1;ChatGPT;E20;signalnestlabs.com;;Company website;15
+P5-E20-PER-1;Perplexity;E20;thrivefinity.uk;https://www.thrivefinity.uk/compare/ai-visibility-agencies-uae;Comparison list;1
+P5-E20-PER-1;Perplexity;E20;neuralake.ai;https://www.neuralake.ai/platform/seo-and-ai-visibility;Company website;2
+P5-E20-PER-1;Perplexity;E20;titandigitaluae.com;https://titandigitaluae.com/ai-visibility-audit-uae/;Company website;3
+P5-E20-PER-1;Perplexity;E20;grovia-digital.com;https://www.grovia-digital.com/en/answers/ai-visibility-cost-uae/;Company website;4
+P5-E20-PER-1;Perplexity;E20;humanswith.ai;https://humanswith.ai/blog/ai-visibility-tools-2026-10-platforms-compared-with-pricing/;Comparison list;5
+P5-E20-PER-1;Perplexity;E20;dvnc.ae;https://dvnc.ae/blog/ai-search-visibility-tools-uae;Trade media;6
+P5-E20-PER-1;Perplexity;E20;digitalarabia.ae;https://digitalarabia.ae/ai-search-visibility-dubai/;Company website;7
+P5-E20-PER-1;Perplexity;E20;eminentrankers.com;https://www.eminentrankers.com/ai-search-visibility-saudi-arabia-uae/;Company website;8
+P5-E20-PER-1;Perplexity;E20;vpatch.ae;https://vpatch.ae/services/seo-dubai/;Company website;9
+P5-E20-PER-1;Perplexity;E20;mazoonsoft.com;https://mazoonsoft.com/en/service/ai-search-optimization;Company website;10
+P5-D01-CHA-2;ChatGPT;D01;optinest.de;;Comparison list;1
+P5-D01-CHA-2;ChatGPT;D01;in-sync.io;;Comparison list;2
+P5-D01-CHA-2;ChatGPT;D01;approved-digital.de;;Company website;3
+P5-D01-CHA-2;ChatGPT;D01;open.de;;Company website;4
+P5-D01-CHA-2;ChatGPT;D01;tenolo.de;;Company website;5
+P5-D01-CHA-2;ChatGPT;D01;optinest.de;;Comparison list;6
+P5-D01-CHA-2;ChatGPT;D01;greenya.de;;Guide article;7
+P5-D01-CHA-2;ChatGPT;D01;in-sync.io;;Comparison list;8
+P5-D01-CHA-2;ChatGPT;D01;optis.digital;;Comparison list;9
+P5-D01-CHA-2;ChatGPT;D01;optinest.de;;Comparison list;10
+P5-D01-CHA-2;ChatGPT;D01;optinest.de;;Comparison list;11
+P5-D01-CHA-2;ChatGPT;D01;geoagenturen.de;;Agency directory;12
+P5-D01-CHA-2;ChatGPT;D01;approved-digital.de;;Company website;13
+P5-D01-CHA-2;ChatGPT;D01;geoagenturberlin.de;;Company website;14
+P5-D01-CHA-2;ChatGPT;D01;tenolo.de;;Company website;15
+P5-D01-CHA-2;ChatGPT;D01;rankingmax.de;;Company website;16
+P5-D01-CHA-2;ChatGPT;D01;open.de;;Company website;17
+P5-D01-CHA-2;ChatGPT;D01;die-ki-seo-agentur.de;;Company website;18
+P5-D01-CHA-2;ChatGPT;D01;diegeoagentur.de;;Company website;19
+P5-D01-PER-2;Perplexity;D01;seoagents.de;https://www.seoagents.de/geo-agentur/;Company website;1
+P5-D01-PER-2;Perplexity;D01;schaefer-online-marketing.de;https://schaefer-online-marketing.de/ki-optimierung-frankfurt;Company website;2
+P5-D01-PER-2;Perplexity;D01;geoagentur.de;https://geoagentur.de/;Company website;3
+P5-D01-PER-2;Perplexity;D01;seowerk.de;https://www.seowerk.de/;Company website;4
+P5-D01-PER-2;Perplexity;D01;taismo.de;https://taismo.de/geo/;Company website;5
+P5-D01-PER-2;Perplexity;D01;seowerk.de;https://www.seowerk.de/geo-consulting/;Company website;6
+P5-D01-PER-2;Perplexity;D01;taismo.de;https://taismo.de/;Company website;7
+P5-D01-PER-2;Perplexity;D01;deine-geo-agentur.de;https://deine-geo-agentur.de/leistungen/geo-betreuung/;Company website;8
+P5-D01-PER-2;Perplexity;D01;kiberatung.de;https://www.kiberatung.de/blog/beste-ki-agenturen-deutschland;Comparison list;9
+P5-D01-PER-2;Perplexity;D01;seo-retter.de;https://seo-retter.de/ki-agentur/;Company website;10
+P5-D01-PER-2;Perplexity;D01;seranking.com;https://seranking.com/de/blog/beste-ki-seo-agenturen/;Comparison list;11
+P5-D01-PER-2;Perplexity;D01;taismo.de;https://taismo.de/seo-magazin/beste-geo-agenturen-deutschland/;Comparison list;12
+P5-D01-PER-2;Perplexity;D01;ironshark.de;https://www.ironshark.de/ki-agentur/;Company website;13
+P5-D01-PER-2;Perplexity;D01;suchhelden.de;https://www.suchhelden.de/beste-geo-agenturen-deutschlands.php;Comparison list;14
+P5-D01-PER-2;Perplexity;D01;ki-helden.net;https://www.ki-helden.net/;Company website;15
+P5-D01-PER-2;Perplexity;D01;ai-train.de;https://ai-train.de/wissen/ki-agenten-anbieter-mittelstand;Guide article;16
+P5-D01-PER-2;Perplexity;D01;grovia-digital.com;https://www.grovia-digital.com/antworten/ki-assistenten-agentur-laufende-betreuung/;Company website;17
+P5-D01-PER-2;Perplexity;D01;maxjanson.de;https://maxjanson.de/geo-beratung/frankfurt/;Company website;18
+P5-D01-PER-2;Perplexity;D01;drweb.de;https://www.drweb.de/geo-agentur-frankfurt-vergleich/;Comparison list;19
+P5-D01-PER-2;Perplexity;D01;dreikon.de;https://www.dreikon.de/lp/geo-agentur-frankfurt-am-main/;Company website;20
+P5-D01-PER-2;Perplexity;D01;twentyone-brands.com;https://www.twentyone-brands.com/geo-agentur-frankfurt/;Company website;21
+P5-D01-PER-2;Perplexity;D01;agenturmarkt.de;https://www.agenturmarkt.de/agentur/taismo-gmbh-kirchheim-bei-muenchen;Agency directory;22
+P5-D01-PER-2;Perplexity;D01;formwandler-interactive.com;https://www.formwandler-interactive.com/geo-agentur-frankfurt-ki-seo/;Company website;23
+P5-D01-PER-2;Perplexity;D01;business-on.de;https://www.business-on.de/matching/seo-agenturen/frankfurt;Agency directory;24
+P5-D01-PER-2;Perplexity;D01;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;25
+P5-D02-GEM-2;Gemini;D02;kiticon.global;;Company website;1
+P5-D02-GEM-2;Gemini;D02;optimerch.de;;Company website;2
+P5-D02-GEM-2;Gemini;D02;smartlemon.de;;Company website;3
+P5-D02-GEM-2;Gemini;D02;lead-engine.com;;Company website;4
+P5-D02-GEM-2;Gemini;D02;suchhelden.de;;Company website;5
+P5-D02-GEM-2;Gemini;D02;sichtbarerwerden.de;;Company website;6
+P5-D02-PER-2;Perplexity;D02;loudandlexis.com;https://www.loudandlexis.com/;Company website;1
+P5-D02-PER-2;Perplexity;D02;loudandlexis.com;https://www.loudandlexis.com/ueber-uns;Company website;2
+P5-D02-PER-2;Perplexity;D02;rheinmaintech.com;https://rheinmaintech.com/geo-agentur-frankfurt/;Company website;3
+P5-D02-PER-2;Perplexity;D02;frankfurt-tipp.de;https://www.frankfurt-tipp.de/ffm-aktuell/s/ugc/geo-agentur-in-frankfurt-5-anbieter-im-ueberblick-2026.html;Comparison list;4
+P5-D02-PER-2;Perplexity;D02;pressnetwork.de;https://pressnetwork.de/pr-agentur-pr4you-ki-pr-und-geo-fuer-mehr-sichtbarkeit-in-chatgpt-gemini-und-perplexity/;Press release portal;5
+P5-D02-PER-2;Perplexity;D02;dreikon.de;https://www.dreikon.de/leistungen/seo-agentur/geo/;Company website;6
+P5-D02-PER-2;Perplexity;D02;open.de;https://open.de/geo-agentur/;Company website;7
+P5-D02-PER-2;Perplexity;D02;grovia-digital.com;https://www.grovia-digital.com/blog/agenturen-ki-sichtbarkeit-dach-vergleich/;Comparison list;8
+P5-D02-PER-2;Perplexity;D02;meinbezirk.at;https://www.meinbezirk.at/graz/c-regionauten-community/grazer-studie-chatgpt-und-gemini-empfehlen-pa-digital-als-geo-agentur-nummer-1-in-der-steiermark_a9020949;Press release portal;9
+P5-D02-PER-2;Perplexity;D02;duwerk.de;https://www.duwerk.de/;Company website;10
+P5-D02-PER-2;Perplexity;D02;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;11
+P5-D02-PER-2;Perplexity;D02;wuv.de;https://www.wuv.de/themen/agentur/wer-ki-kennzeichnet-verliert-die-wirkung;Trade media;12
+P5-D02-PER-2;Perplexity;D02;aufgesang.de;https://www.aufgesang.de/seo/digital-authority-management/;Company website;13
+P5-D02-PER-2;Perplexity;D02;geoagentur.de;https://geoagentur.de/;Company website;14
+P5-D02-PER-2;Perplexity;D02;auffindbar.ai;https://auffindbar.ai/;Company website;15
+P5-D02-PER-2;Perplexity;D02;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;16
+P5-D02-PER-2;Perplexity;D02;seo-kueche.de;https://www.seo-kueche.de/geo-agentur/;Company website;17
+P5-D02-PER-2;Perplexity;D02;eology.de;https://www.eology.de/ki-sichtbarkeit;Company website;18
+P5-D02-PER-2;Perplexity;D02;linkedin.com;https://www.linkedin.com/company/loud-lexis;Social media;19
+P5-D02-PER-2;Perplexity;D02;geo-agentur-frankfurt.net;https://geo-agentur-frankfurt.net/;Company website;20
+P5-D02-PER-2;Perplexity;D02;loudandlexis.com;https://www.loudandlexis.com/fakten/;Company website;21
+P5-D02-PER-2;Perplexity;D02;growsta.de;https://growsta.de/geo-agentur-frankfurt/;Company website;22
+P5-D02-PER-2;Perplexity;D02;suchhelden.de;https://www.suchhelden.de/geo-agentur-frankfurt.php;Company website;23
+P5-D02-PER-2;Perplexity;D02;drweb.de;https://www.drweb.de/geo-agentur-frankfurt-vergleich/;Comparison list;24
+P5-D07-CHA-2;ChatGPT;D07;taismo.de;;Comparison list;1
+P5-D07-CHA-2;ChatGPT;D07;Startuplove (Domain nicht angezeigt);;Comparison list;2
+P5-D07-CHA-2;ChatGPT;D07;CegTec Wissen (Domain nicht angezeigt);;Comparison list;3
+P5-D07-CHA-2;ChatGPT;D07;Engine Native Blog (Domain nicht angezeigt);;Comparison list;4
+P5-D07-CHA-2;ChatGPT;D07;onlinemarketing.de;;Trade media;5
+P5-D07-CHA-2;ChatGPT;D07;rivly.de;;Comparison list;6
+P5-D07-CHA-2;ChatGPT;D07;drweb.de;;Comparison list;7
+P5-D07-CHA-2;ChatGPT;D07;rankscale.ai;;Tool vendor;8
+P5-D07-CHA-2;ChatGPT;D07;nxdigital.de;;Comparison list;9
+P5-D07-CHA-2;ChatGPT;D07;content-engineer.ch;;Comparison list;10
+P5-D07-CHA-2;ChatGPT;D07;conplore.com;;Comparison list;11
+P5-D07-CHA-2;ChatGPT;D07;media-guides.de;;Comparison list;12
+P5-D07-CHA-2;ChatGPT;D07;slopelift.com;;Comparison list;13
+P5-D07-CHA-2;ChatGPT;D07;saaswelt.de;;Comparison list;14
+P5-D07-CHA-2;ChatGPT;D07;drweb.de;;Comparison list;15
+P5-D07-CHA-2;ChatGPT;D07;drweb.de;;Comparison list;16
+P5-D07-CHA-2;ChatGPT;D07;drweb.de;;Comparison list;17
+P5-D07-CHA-2;ChatGPT;D07;effizienzinstitut.de;;Comparison list;18
+P5-D07-CHA-2;ChatGPT;D07;marktforschung.de;;Trade media;19
+P5-D07-CHA-2;ChatGPT;D07;rivly.de;;Guide article;20
+P5-D07-CHA-2;ChatGPT;D07;effizienzinstitut.de;;Comparison list;21
+P5-D07-CHA-2;ChatGPT;D07;kiwerkzeuge.com;;Agency directory;22
+P5-D07-CHA-2;ChatGPT;D07;convertlyze.com;;Comparison list;23
+P5-D07-GEM-2;Gemini;D07;conplore.com;;Comparison list;1
+P5-D07-GEM-2;Gemini;D07;dreikon.de;;Company website;2
+P5-D07-GEM-2;Gemini;D07;stark.marketing;;Company website;3
+P5-D07-GEM-2;Gemini;D07;alexandrya.ai;;Tool vendor;4
+P5-D07-GEM-2;Gemini;D07;construktiv (Domain nicht angezeigt);;Company website;5
+P5-D07-PER-2;Perplexity;D07;scaile.tech;https://scaile.tech/de/blog/vendor-choice/alternatives/dept-alternativen;Comparison list;1
+P5-D07-PER-2;Perplexity;D07;seranking.com;https://seranking.com/de/blog/beste-ki-seo-agenturen/;Comparison list;2
+P5-D07-PER-2;Perplexity;D07;business-blogmagazin.de;https://business-blogmagazin.de/top-7-ai-visibility-berater-dach-2026/;Comparison list;3
+P5-D07-PER-2;Perplexity;D07;kiagentenberatung.de;https://www.kiagentenberatung.de/blog/agentur-fuer-ki-sichtbarkeit-vergleich;Comparison list;4
+P5-D07-PER-2;Perplexity;D07;rivly.de;https://rivly.de/blog/ki-sichtbarkeit-anbieter-tools/;Comparison list;5
+P5-D07-PER-2;Perplexity;D07;geotoolbox.ai;https://geotoolbox.ai/de/blog/semrush-alternativen;Comparison list;6
+P5-D07-PER-2;Perplexity;D07;seranking.com;https://seranking.com/de/blog/seo-ki-tools/;Comparison list;7
+P5-D07-PER-2;Perplexity;D07;redaktion.ai;https://redaktion.ai/blog/ki-content-workflow-anbieter-dach/;Comparison list;8
+P5-D07-PER-2;Perplexity;D07;scaile.tech;https://scaile.tech/de/blog/vendor-choice/alternatives;Comparison list;9
+P5-D07-PER-2;Perplexity;D07;dtile-marketing.de;https://dtile-marketing.de/seo-agentur-vergleich-2026/;Comparison list;10
+P5-D01-GEM-2;Gemini;D01;sem-deutschland.de;;Company website;1
+P5-D01-GEM-2;Gemini;D01;suchhelden.de;;Company website;2
+P5-D01-GEM-2;Gemini;D01;evergreen.media;;Company website;3
+P5-D01-GEM-2;Gemini;D01;experics.de;;Company website;4
+P5-D09-CHA-2;ChatGPT;D09;agenturtipp.de;;Agency directory;1
+P5-D09-CHA-2;ChatGPT;D09;nxdigital.de;;Comparison list;2
+P5-D09-CHA-2;ChatGPT;D09;diegeoagentur.de;;Company website;3
+P5-D09-CHA-2;ChatGPT;D09;vindbar.de;;Comparison list;4
+P5-D09-CHA-2;ChatGPT;D09;n-tv.de;;Press release portal;5
+P5-D09-CHA-2;ChatGPT;D09;greenya.de;;Comparison list;6
+P5-D09-CHA-2;ChatGPT;D09;saaswelt.de;;Comparison list;7
+P5-D09-CHA-2;ChatGPT;D09;onecommerce.de;;Comparison list;8
+P5-D09-CHA-2;ChatGPT;D09;dotwired.de;;Comparison list;9
+P5-D09-CHA-2;ChatGPT;D09;effizienzinstitut.de;;Comparison list;10
+P5-D09-CHA-2;ChatGPT;D09;geoagenturen.de;;Agency directory;11
+P5-D09-CHA-2;ChatGPT;D09;geoagenturen.de;;Agency directory;12
+P5-D09-GEM-2;Gemini;D09;conversionmedia.de;;Company website;1
+P5-D09-GEM-2;Gemini;D09;seowerk.de;;Company website;2
+P5-D09-GEM-2;Gemini;D09;qilano.de;;Company website;3
+P5-D09-GEM-2;Gemini;D09;suchhelden.de;;Company website;4
+P5-D09-GEM-2;Gemini;D09;claneo.com;;Company website;5
+P5-D09-PER-2;Perplexity;D09;geoagentur.de;https://geoagentur.de/;Company website;1
+P5-D09-PER-2;Perplexity;D09;claneo.com;https://www.claneo.com/de/geo-llmo-agentur/;Company website;2
+P5-D09-PER-2;Perplexity;D09;semtrix.de;https://www.semtrix.de/geo-agentur/;Company website;3
+P5-D09-PER-2;Perplexity;D09;omr.com;https://omr.com/de/reviews/service-category/geo-agenturen;Agency directory;4
+P5-D09-PER-2;Perplexity;D09;suchhelden.de;https://www.suchhelden.de/beste-geo-agenturen-deutschlands.php;Comparison list;5
+P5-D09-PER-2;Perplexity;D09;agenturtipp.de;https://www.agenturtipp.de/geo-agenturen/;Agency directory;6
+P5-D09-PER-2;Perplexity;D09;dreikon.de;https://www.dreikon.de/aktuell/online-marketing-wissen/die-besten-geo-agenturen/;Comparison list;7
+P5-D09-PER-2;Perplexity;D09;hechtinsgefecht.de;https://hechtinsgefecht.de/geo-agenturen-deutschland/;Comparison list;8
+P5-D09-PER-2;Perplexity;D09;seiten-werk.com;https://seiten-werk.com/geo-agentur/;Company website;9
+P5-D09-PER-2;Perplexity;D09;seowerk.de;https://www.seowerk.de/;Company website;10
+P5-D13-CHA-2;ChatGPT;D13;saaswelt.de;;Comparison list;1
+P5-D13-CHA-2;ChatGPT;D13;Gruender Nachrichten (Domain nicht angezeigt);;Comparison list;2
+P5-D13-CHA-2;ChatGPT;D13;media-guides.de;;Comparison list;3
+P5-D13-CHA-2;ChatGPT;D13;conplore.com;;Comparison list;4
+P5-D13-CHA-2;ChatGPT;D13;GEO Toolbox (Domain nicht angezeigt);;Comparison list;5
+P5-D13-CHA-2;ChatGPT;D13;cegtec.net;;Comparison list;6
+P5-D13-CHA-2;ChatGPT;D13;presseportal.de;;Press release portal;7
+P5-D13-CHA-2;ChatGPT;D13;in-sync.io;;Comparison list;8
+P5-D13-CHA-2;ChatGPT;D13;justinkeirath.com;;Comparison list;9
+P5-D13-CHA-2;ChatGPT;D13;geoagenturen.de;;Comparison list;10
+P5-D13-CHA-2;ChatGPT;D13;n-tv.de;;Press release portal;11
+P5-D13-CHA-2;ChatGPT;D13;drweb.de;;Comparison list;12
+P5-D13-CHA-2;ChatGPT;D13;drweb.de;;Comparison list;13
+P5-D13-CHA-2;ChatGPT;D13;getsichtbar.com;;Comparison list;14
+P5-D13-CHA-2;ChatGPT;D13;geo-verzeichnis.de;;Agency directory;15
+P5-D13-CHA-2;ChatGPT;D13;effizienzinstitut.de;;Comparison list;16
+P5-D13-CHA-2;ChatGPT;D13;silicon.de;;Trade media;17
+P5-D13-CHA-2;ChatGPT;D13;geoagenturen.de;;Agency directory;18
+P5-D13-CHA-2;ChatGPT;D13;geoagenturen.de;;Agency directory;19
+P5-D13-CHA-2;ChatGPT;D13;get-proof.de;;Company website;20
+P5-D13-CHA-2;ChatGPT;D13;stateinteractive.de;;Company website;21
+P5-D13-CHA-2;ChatGPT;D13;deine-geo-agentur.de;;Company website;22
+P5-D13-GEM-2;Gemini;D13;lilox.io;;Company website;1
+P5-D13-GEM-2;Gemini;D13;alexandrya.ai;;Tool vendor;2
+P5-D13-GEM-2;Gemini;D13;convertlyze.com;;Tool vendor;3
+P5-D13-GEM-2;Gemini;D13;suchhelden.de;;Comparison list;4
+P5-D13-GEM-2;Gemini;D13;conplore.com;;Comparison list;5
+P5-D13-GEM-2;Gemini;D13;geoagentur.de;;Comparison list;6
+P5-D13-GEM-2;Gemini;D13;onlinemarketing.de;;Trade media;7
+P5-D13-PER-2;Perplexity;D13;grovia-digital.com;https://www.grovia-digital.com/blog/agenturen-ki-sichtbarkeit-dach-vergleich/;Comparison list;1
+P5-D13-PER-2;Perplexity;D13;kiagentenberatung.de;https://www.kiagentenberatung.de/blog/agentur-fuer-ki-sichtbarkeit-vergleich;Comparison list;2
+P5-D13-PER-2;Perplexity;D13;rivly.de;https://rivly.de/blog/ki-sichtbarkeit-anbieter-tools/;Comparison list;3
+P5-D13-PER-2;Perplexity;D13;media-guides.de;https://media-guides.de/beste-geo-agenturen-dach-2026/;Comparison list;4
+P5-D13-PER-2;Perplexity;D13;rankprompt.de;https://rankprompt.de/blog/beste-geo-tools-2026;Comparison list;5
+P5-D13-PER-2;Perplexity;D13;alexandrya.ai;https://alexandrya.ai/de/blog/beste-ki-sichtbarkeits-tools;Comparison list;6
+P5-D13-PER-2;Perplexity;D13;dtile-marketing.de;https://dtile-marketing.de/seo-agentur-vergleich-2026/;Comparison list;7
+P5-D13-PER-2;Perplexity;D13;trusted-ai-partners.com;https://trusted-ai-partners.com/de/ki-anbieter-vergleich;Comparison list;8
+P5-D13-PER-2;Perplexity;D13;openpr.de;https://www.openpr.de/news/1330550/Empfohlen-von-ChatGPT-was-KI-Assistenten-ueber-ein-Unternehmen-wissen.html;Press release portal;9
+P5-D13-PER-2;Perplexity;D13;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;10
+P5-E01-CHA-2;ChatGPT;E01;in-sync.io;;Comparison list;1
+P5-E01-CHA-2;ChatGPT;E01;taismo.de;;Comparison list;2
+P5-E01-CHA-2;ChatGPT;E01;diegeoagentur.de;;Company website;3
+P5-E01-CHA-2;ChatGPT;E01;'fuer Unternehmen' (Domain nicht angezeigt);;Company website;4
+P5-E01-CHA-2;ChatGPT;E01;SUMAX (Domain nicht angezeigt);;Company website;5
+P5-E01-CHA-2;ChatGPT;E01;citeme.io;;Comparison list;6
+P5-E01-CHA-2;ChatGPT;E01;carrilagency.com;;Comparison list;7
+P5-E01-CHA-2;ChatGPT;E01;goodfirms.co;;Agency directory;8
+P5-E01-CHA-2;ChatGPT;E01;firstpagesage.com;;Comparison list;9
+P5-E01-CHA-2;ChatGPT;E01;thedigitalelevator.com;;Comparison list;10
+P5-E01-CHA-2;ChatGPT;E01;aeogeolabs.com;;Comparison list;11
+P5-E01-CHA-2;ChatGPT;E01;taismo.de;;Company website;12
+P5-E01-CHA-2;ChatGPT;E01;archipelmarketing.com;;Comparison list;13
+P5-E01-CHA-2;ChatGPT;E01;theagentoperators.com;;Comparison list;14
+P5-E01-CHA-2;ChatGPT;E01;growffic.com;;Comparison list;15
+P5-E01-CHA-2;ChatGPT;E01;canlah.ai;;Comparison list;16
+P5-E01-CHA-2;ChatGPT;E01;agenzy.lt;;Comparison list;17
+P5-E01-CHA-2;ChatGPT;E01;009.agency;;Company website;18
+P5-E01-CHA-2;ChatGPT;E01;mondis.de;;Company website;19
+P5-E01-CHA-2;ChatGPT;E01;geodigital.agency;;Company website;20
+P5-E01-CHA-2;ChatGPT;E01;ki-beratung-deutschland.de;;Company website;21
+P5-E01-CHA-2;ChatGPT;E01;hurra.com;;Company website;22
+P5-E01-CHA-2;ChatGPT;E01;topstuttgart.com;;Company website;23
+P5-E01-GEM-2;Gemini;E01;kopp-online-marketing.com;;Company website;1
+P5-E01-GEM-2;Gemini;E01;drewgarrett.org;;Company website;2
+P5-E01-GEM-2;Gemini;E01;geodigital.agency;;Company website;3
+P5-E01-GEM-2;Gemini;E01;mazenfriends.agency;;Company website;4
+P5-E01-GEM-2;Gemini;E01;paseo-marketing.de;;Company website;5
+P5-E01-PER-2;Perplexity;E01;claneo.com;https://www.claneo.com/en/geo-llmo-agency/;Company website;1
+P5-E01-PER-2;Perplexity;E01;concurate.com;https://concurate.com/best-generative-engine-optimization-companies-ai-visibility/;Comparison list;2
+P5-E01-PER-2;Perplexity;E01;seo.com;https://www.seo.com/agency/llm-marketing/;Company website;3
+P5-E01-PER-2;Perplexity;E01;gen3marketing.com;https://aivisibility.gen3marketing.com/;Company website;4
+P5-E01-PER-2;Perplexity;E01;builtin.com;https://builtin.com/articles/agencies-for-ai-search-visibility;Comparison list;5
+P5-E01-PER-2;Perplexity;E01;skale.so;https://skale.so/agencies/geo/;Agency directory;6
+P5-E01-PER-2;Perplexity;E01;tennessean.com;https://www.tennessean.com/press-release/story/264784/pivotal-point-marketing-expands-geo-ai-search-optimization-services-to-help-businesses-get-discovered/;Press release portal;7
+P5-E01-PER-2;Perplexity;E01;contensifyhq.com;https://contensifyhq.com/blog/best-ai-visibility-agencies-to-grow-your-brand/;Comparison list;8
+P5-E01-PER-2;Perplexity;E01;rankshift.ai;https://www.rankshift.ai/;Tool vendor;9
+P5-E01-PER-2;Perplexity;E01;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/12/3401798/0/en/more-than-170-geo-and-ai-seo-agencies-in-40-countries-now-partner-with-otterlyai.html;Press release portal;10
+P5-E02-CHA-2;ChatGPT;E02;similarweb.com;;Guide article;1
+P5-E02-CHA-2;ChatGPT;E02;about.ads.microsoft.com;;Guide article;2
+P5-E02-CHA-2;ChatGPT;E02;SearchIntel (Domain nicht angezeigt);;Guide article;3
+P5-E02-CHA-2;ChatGPT;E02;flyingcatmarketing.com;;Comparison list;4
+P5-E02-CHA-2;ChatGPT;E02;pixelmojo.io;;Comparison list;5
+P5-E02-CHA-2;ChatGPT;E02;5wpr.com;;Company website;6
+P5-E02-CHA-2;ChatGPT;E02;draviks.com;;Guide article;7
+P5-E02-CHA-2;ChatGPT;E02;r2studio.de;;Company website;8
+P5-E02-CHA-2;ChatGPT;E02;aimarketingconsensusindex.com;;Guide article;9
+P5-E02-CHA-2;ChatGPT;E02;cite.solutions;;Company website;10
+P5-E02-CHA-2;ChatGPT;E02;mentionchecker.com;;Tool vendor;11
+P5-E02-CHA-2;ChatGPT;E02;magnadijital.com.tr;;Company website;12
+P5-E02-CHA-2;ChatGPT;E02;bluemintservices.com;;Company website;13
+P5-E02-GEM-2;Gemini;E02;comms.thisisdefinition.com;;Company website;1
+P5-E02-GEM-2;Gemini;E02;de.wikipedia.org;;Knowledge base;2
+P5-E02-GEM-2;Gemini;E02;flow-agency.com;;Company website;3
+P5-E02-GEM-2;Gemini;E02;diemarketingarchitekten.de;;Company website;4
+P5-E02-PER-2;Perplexity;E02;gtm8020.com;https://www.gtm8020.com/blog/ai-visibility-agencies;Comparison list;1
+P5-E02-PER-2;Perplexity;E02;developers.google.com;https://developers.google.com/search/docs/fundamentals/ai-optimization-guide;Platform documentation;2
+P5-E02-PER-2;Perplexity;E02;loudandlexis.com;https://www.loudandlexis.com/;Company website;3
+P5-E02-PER-2;Perplexity;E02;frankfurt-ai.de;https://frankfurt-ai.de/geo-agentur-frankfurt/;Company website;4
+P5-E02-PER-2;Perplexity;E02;pulsmedia-group.com;https://pulsmedia-group.com/llmo-und-geo-agentur-frankfurt/;Company website;5
+P5-E02-PER-2;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/12/3401798/0/en/more-than-170-geo-and-ai-seo-agencies-in-40-countries-now-partner-with-otterlyai.html;Press release portal;6
+P5-E02-PER-2;Perplexity;E02;beaivisible.ai;https://beaivisible.ai/;Company website;7
+P5-E02-PER-2;Perplexity;E02;developers.google.com;https://developers.google.com/search/docs/appearance/ai-features;Platform documentation;8
+P5-E02-PER-2;Perplexity;E02;usatoday.com;https://www.usatoday.com/press-release/story/59223/usa-marketing-pros-launches-free-ai-visibility-checker-tool-for-local-business-websites/;Press release portal;9
+P5-E02-PER-2;Perplexity;E02;openpr.com;https://www.openpr.com/news/4693843/geo-agency-shows-the-office-that-fights-for-clients-in-ai-search;Press release portal;10
+P5-E02-PER-2;Perplexity;E02;desmoinesregister.com;https://www.desmoinesregister.com/press-release/story/155558/search-is-becoming-a-brand-channel-without-click-attribution-victorious-says/;Press release portal;11
+P5-E02-PER-2;Perplexity;E02;lohud.com;https://www.lohud.com/press-release/story/257020/leadaio-launches-leadaio-2-0-a-managed-ai-visibility-platform-for-mid-market-and-enterprise-brands/;Press release portal;12
+P5-E02-PER-2;Perplexity;E02;morningstar.com;https://www.morningstar.com/news/accesswire/1253248msn/trizcom-pr-wins-fourth-prsa-dallas-best-of-show-award-founder-jo-trizila-receives-norm-teich-award;Press release portal;13
+P5-E02-PER-2;Perplexity;E02;knoxnews.com;https://www.knoxnews.com/press-release/story/264716/intellisea-launches-agentic-ai-marketing-platform-for-agencies-and-businesses/;Press release portal;14
+P5-E02-PER-2;Perplexity;E02;knoxnews.com;https://www.knoxnews.com/press-release/story/265186/pivotal-point-marketing-expands-geo-ai-search-optimization-services-to-help-businesses-get-discovered/;Press release portal;15
+P5-E02-PER-2;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/18/3405989/0/en/new-patients-in-2027-12-of-26-chiropractic-clinics-were-never-named-when-chatgpt-was-asked-for-the-best-chiropractor-for-back-pain-in-their-city.html;Press release portal;16
+P5-E02-PER-2;Perplexity;E02;markets.businessinsider.com;https://markets.businessinsider.com/news/stocks/how-to-choose-a-web-design-company-in-new-york-city-as-search-moves-to-ai-1036779100;Press release portal;17
+P5-E02-PER-2;Perplexity;E02;rankpivot.ai;https://rankpivot.ai/ai-visibility-agency/;Company website;18
+P5-E02-PER-2;Perplexity;E02;morningstar.com;https://www.morningstar.com/news/pr-newswire/20261116ph98299/best-chatgpt-visibility-agency-for-brand-mentions-nicely-network-recognised-by-consumer365;Press release portal;19
+P5-E02-PER-2;Perplexity;E02;aipeople.agency;https://aipeople.agency/ai-visibility-platform/;Company website;20
+P5-E02-PER-2;Perplexity;E02;visibilitypro.ai;https://visibilitypro.ai/;Company website;21
+P5-E02-PER-2;Perplexity;E02;wboc.com;https://www.wboc.com/online_features/press_releases/usa-marketing-pros-launches-free-ai-visibility-checker-tool-for-local-business-websites/article_ccea86cd-1665-5a42-beed-125a436210bc.html;Press release portal;22
+P5-E02-PER-2;Perplexity;E02;thesmartagency.com;https://thesmartagency.com/ai-visibility/;Company website;23
+P5-E02-PER-2;Perplexity;E02;anchorclick.com;https://anchorclick.com/ai-automation-agency/;Company website;24
+P5-E02-PER-2;Perplexity;E02;support.google.com;https://support.google.com/websearch/answer/14901683?hl=en-GB;Platform documentation;25
+P5-E02-PER-2;Perplexity;E02;adgeo.de;https://adgeo.de/geo-frankfurt;Company website;26
+P5-E02-PER-2;Perplexity;E02;geoagentur.de;https://geoagentur.de/;Company website;27
+P5-E02-PER-2;Perplexity;E02;geo-agentur-frankfurt-am-main.de;https://www.geo-agentur-frankfurt-am-main.de/blog;Company website;28
+P5-E02-PER-2;Perplexity;E02;geo-agentur-frankfurt-am-main.de;https://www.geo-agentur-frankfurt-am-main.de/;Company website;29
+P5-E02-PER-2;Perplexity;E02;stackmatix.com;https://www.stackmatix.com/blog/google-search-central-ai-overviews-guidance;Guide article;30
+P5-E02-PER-2;Perplexity;E02;zeevron.com;https://www.zeevron.com/insights/how-to-appear-in-ai-overviews;Guide article;31
+P5-E02-PER-2;Perplexity;E02;umbrex.com;https://umbrex.com/resources/generative-engine-optimization-resource-directory/google-search-central-ai-optimization-guidance/;Guide article;32
+P5-E02-PER-2;Perplexity;E02;cxl.com;https://cxl.com/blog/google-ai-search-optimization-guide/;Guide article;33
+P5-E02-PER-2;Perplexity;E02;reddit.com;https://www.reddit.com/r/GoogleMyBusiness/comments/1x6iawj/google_says_ai_overviews_and_ai_mode_dont_need/;Community/forum;34
+P5-E02-PER-2;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/18/3406106/0/en/ai-visibility-for-industrial-parts-mro-distributors-six-companies-exceed-35-visibility.html;Press release portal;35
+P5-E05-CHA-2;ChatGPT;E05;thedigitalelevator.com;;Comparison list;1
+P5-E05-CHA-2;ChatGPT;E05;drewgarrett.org;;Comparison list;2
+P5-E05-CHA-2;ChatGPT;E05;greenflagdigital.com;;Comparison list;3
+P5-E05-CHA-2;ChatGPT;E05;firstpagesage.com;;Comparison list;4
+P5-E05-CHA-2;ChatGPT;E05;saaswelt.de;;Comparison list;5
+P5-E05-CHA-2;ChatGPT;E05;taismo.de;;Comparison list;6
+P5-E05-CHA-2;ChatGPT;E05;shoptank.io;;Comparison list;7
+P5-E05-CHA-2;ChatGPT;E05;canlah.ai;;Comparison list;8
+P5-E05-CHA-2;ChatGPT;E05;influencermarketinghub.com;;Comparison list;9
+P5-E05-CHA-2;ChatGPT;E05;taismo.de;;Comparison list;10
+P5-E05-CHA-2;ChatGPT;E05;greenflagdigital.com;;Comparison list;11
+P5-E05-CHA-2;ChatGPT;E05;firstpagesage.com;;Comparison list;12
+P5-E05-CHA-2;ChatGPT;E05;marketingforllms.com;;Comparison list;13
+P5-E05-CHA-2;ChatGPT;E05;thedigitalelevator.com;;Comparison list;14
+P5-E05-CHA-2;ChatGPT;E05;taismo.de;;Comparison list;15
+P5-E05-CHA-2;ChatGPT;E05;pepper.inc;;Comparison list;16
+P5-E05-CHA-2;ChatGPT;E05;growffic.com;;Comparison list;17
+P5-E05-CHA-2;ChatGPT;E05;drewgarrett.org;;Comparison list;18
+P5-E05-CHA-2;ChatGPT;E05;canlah.ai;;Comparison list;19
+P5-E05-CHA-2;ChatGPT;E05;saaswelt.de;;Comparison list;20
+P5-E05-CHA-2;ChatGPT;E05;masters-of-search.com;;Comparison list;21
+P5-E05-CHA-2;ChatGPT;E05;vitasoft.co;;Comparison list;22
+P5-E05-CHA-2;ChatGPT;E05;thedigitalmerchant.com;;Comparison list;23
+P5-E05-CHA-2;ChatGPT;E05;sianamarketing.com;;Comparison list;24
+P5-E05-CHA-2;ChatGPT;E05;relevance.com;;Comparison list;25
+P5-E05-CHA-2;ChatGPT;E05;shoptank.io;;Comparison list;26
+P5-E05-GEM-2;Gemini;E05;sistrix.de;;Tool vendor;1
+P5-E05-GEM-2;Gemini;E05;kopp-online-marketing.com;;Company website;2
+P5-E05-GEM-2;Gemini;E05;youtube.com;;Video;3
+P5-E05-GEM-2;Gemini;E05;tryprofound.com;;Tool vendor;4
+P5-E05-PER-2;Perplexity;E05;claneo.com;https://www.claneo.com/de/geo-llmo-agentur/;Company website;1
+P5-E05-PER-2;Perplexity;E05;claneo.com;https://www.claneo.com/en/industries/b2b/;Company website;2
+P5-E05-PER-2;Perplexity;E05;omnius.so;https://www.omnius.so/blog/omnius-ai-search-case-study;Company website;3
+P5-E05-PER-2;Perplexity;E05;ipullrank.com;https://ipullrank.com/ai-search-strategy-program;Company website;4
+P5-E05-PER-2;Perplexity;E05;gofishdigital.com;https://gofishdigital.com/blog/generative-engine-optimization-agencies/;Comparison list;5
+P5-E05-PER-2;Perplexity;E05;omnius.so;https://www.omnius.so/blog/best-answer-engine-optimization-agencies;Comparison list;6
+P5-E05-PER-2;Perplexity;E05;ipullrank.com;https://ipullrank.com/services/geo;Company website;7
+P5-E05-PER-2;Perplexity;E05;strategi.is;https://strategi.is/compare/best-ai-seo-agencies;Comparison list;8
+P5-E05-PER-2;Perplexity;E05;beomniscient.com;https://beomniscient.com/blog/the-9-best-llm-seo-agencies-for-b2b-brands-2027-guide/;Comparison list;9
+P5-E05-PER-2;Perplexity;E05;reddit.com;https://www.reddit.com/r/b2bmarketing/comments/1tvf47s/9_best_geo_consultants_for_ai_visibility_aeo_and/;Community/forum;10
+P5-E05-PER-2;Perplexity;E05;finance.yahoo.com;https://finance.yahoo.com/technology/ai/articles/best-llm-visibility-agency-businesses-150000104.html;Press release portal;11
+P5-E05-PER-2;Perplexity;E05;gtm8020.com;https://www.gtm8020.com/blog/llm-visibility-agencies;Comparison list;12
+P5-E05-PER-2;Perplexity;E05;getmarg.com;https://getmarg.com/best-ai-visibility-agencies/;Comparison list;13
+P5-E05-PER-2;Perplexity;E05;breakingb2b.com;https://www.breakingb2b.com/blog/best-llm-seo-agency;Comparison list;14
+P5-E05-PER-2;Perplexity;E05;businessplusai.com;https://www.businessplusai.com/blog/the-12-best-ai-pr-agencies-for-llm-visibility-geo;Comparison list;15
+P5-E05-PER-2;Perplexity;E05;yotpo.com;https://www.yotpo.com/blog/llm-monitoring-tools-brand-visibility/;Comparison list;16
+P5-E05-PER-2;Perplexity;E05;linkedin.com;https://www.linkedin.com/pulse/i-spent-20k-testing-7-llm-visibility-agencies-one-robinson-meucci-e7ypc;Social media;17
+P5-E05-PER-2;Perplexity;E05;marketercoffee.com;https://marketercoffee.com/ranking/best-llmo-agencies/;Comparison list;18
+P5-E05-PER-2;Perplexity;E05;ipullrank.com;https://ipullrank.com/case-studies;Company website;19
+P5-E05-PER-2;Perplexity;E05;claneo.com;https://www.claneo.com/de/case-studies/;Company website;20
+P5-E05-PER-2;Perplexity;E05;breakingb2b.com;https://www.breakingb2b.com/blog/best-geo-agencies;Comparison list;21
+P5-E05-PER-2;Perplexity;E05;anchorial.io;https://www.anchorial.io/blog/best-aeo-agencies;Comparison list;22
+P5-E05-PER-2;Perplexity;E05;topsearchagency.com;https://topsearchagency.com/best-geo-agencies/;Comparison list;23
+P5-E05-PER-2;Perplexity;E05;bignewsnetwork.com;https://www.bignewsnetwork.com/news/279438132/best-geo-agencies-in-2026;Press release portal;24
+P5-E05-PER-2;Perplexity;E05;loopexdigital.com;https://www.loopexdigital.com/blog/best-enterprise-seo-agencies;Comparison list;25
+P5-E14-CHA-2;ChatGPT;E14;claneo.com;;Company website;1
+P5-E14-CHA-2;ChatGPT;E14;omnius.so;;Company website;2
+P5-E14-CHA-2;ChatGPT;E14;rebootonline.com;;Company website;3
+P5-E14-CHA-2;ChatGPT;E14;omnius.so;;Comparison list;4
+P5-E14-CHA-2;ChatGPT;E14;drewgarrett.org;;Comparison list;5
+P5-E14-CHA-2;ChatGPT;E14;helppage.ai;;Comparison list;6
+P5-E14-CHA-2;ChatGPT;E14;citeme.io;;Comparison list;7
+P5-E14-CHA-2;ChatGPT;E14;aiclicks.io;;Comparison list;8
+P5-E14-CHA-2;ChatGPT;E14;greenflagdigital.com;;Comparison list;9
+P5-E14-CHA-2;ChatGPT;E14;openlens.com;;Comparison list;10
+P5-E14-CHA-2;ChatGPT;E14;firstpagesage.com;;Comparison list;11
+P5-E14-CHA-2;ChatGPT;E14;thedigitalelevator.com;;Comparison list;12
+P5-E14-CHA-2;ChatGPT;E14;taismo.de;;Comparison list;13
+P5-E14-CHA-2;ChatGPT;E14;growffic.com;;Comparison list;14
+P5-E14-CHA-2;ChatGPT;E14;drewgarrett.org;;Comparison list;15
+P5-E14-CHA-2;ChatGPT;E14;canlah.ai;;Comparison list;16
+P5-E14-CHA-2;ChatGPT;E14;saaswelt.de;;Comparison list;17
+P5-E14-CHA-2;ChatGPT;E14;009.agency;;Company website;18
+P5-E14-CHA-2;ChatGPT;E14;newshub.medianet.com.au;;Press release portal;19
+P5-E14-CHA-2;ChatGPT;E14;scaile.tech;;Comparison list;20
+P5-E14-CHA-2;ChatGPT;E14;relevance.com;;Comparison list;21
+P5-E14-CHA-2;ChatGPT;E14;omnius.so;;Comparison list;22
+P5-E14-CHA-2;ChatGPT;E14;rebootonline.com;;Company website;23
+P5-E14-CHA-2;ChatGPT;E14;rebootonline.com;;Company website;24
+P5-E14-CHA-2;ChatGPT;E14;rebootonline.com;;Company website;25
+P5-E14-CHA-2;ChatGPT;E14;omnius.so;;Company website;26
+P5-E14-CHA-2;ChatGPT;E14;omnius.so;;Company website;27
+P5-E14-CHA-2;ChatGPT;E14;eskimoz.com;;Company website;28
+P5-E14-CHA-2;ChatGPT;E14;claneo.com;;Company website;29
+P5-E14-CHA-2;ChatGPT;E14;claneo.com;;Company website;30
+P5-E14-GEM-2;Gemini;E14;omnius.so;;Company website;1
+P5-E14-GEM-2;Gemini;E14;minuttia.com;;Company website;2
+P5-E14-GEM-2;Gemini;E14;thriveagency.com;;Company website;3
+P5-E14-GEM-2;Gemini;E14;rankpivot.ai;;Company website;4
+P5-E14-PER-2;Perplexity;E14;claneo.com;https://www.claneo.com/en/geo-llmo-agency/;Company website;1
+P5-E14-PER-2;Perplexity;E14;grovia-digital.com;https://www.grovia-digital.com/en/answers/brand-invisible-in-ai-chatbots/;Company website;2
+P5-E14-PER-2;Perplexity;E14;breakingb2b.com;https://www.breakingb2b.com/blog/aeo-agency-for-b2b-companies;Company website;3
+P5-E14-PER-2;Perplexity;E14;emarketed.com;https://emarketed.com/aeo/hiring-ai-visibility-agency-what-the-work-involves-and-what-to-ask/;Guide article;4
+P5-E14-PER-2;Perplexity;E14;greaterthanservices.com;https://greaterthanservices.com/blog/ai-search-study-marketing-agencies;Guide article;5
+P5-E14-PER-2;Perplexity;E14;wildbos.com;https://wildbos.com/blog/en/how-to-pick-an-agency-for-ai-visibility;Guide article;6
+P5-E14-PER-2;Perplexity;E14;devcommx.com;https://www.devcommx.com/ai-visibility/how-to-hire;Guide article;7
+P5-E14-PER-2;Perplexity;E14;ayautomate.com;https://www.ayautomate.com/blog/best-ai-chatbot-agencies;Comparison list;8
+P5-E14-PER-2;Perplexity;E14;nixal.ai;https://nixal.ai/blog/build-ai-visibility-in-house-or-hire-outside-help/;Guide article;9
+P5-E14-PER-2;Perplexity;E14;reddit.com;https://www.reddit.com/r/GrowthHacking/comments/1rri9ch/searching_for_10_ai_visibility_agency_brands_are/;Community/forum;10
+P5-D12-CHA-2;ChatGPT;D12;diegeoagentur.de;;Company website;1
+P5-D12-CHA-2;ChatGPT;D12;vindbar.de;;Comparison list;2
+P5-D12-CHA-2;ChatGPT;D12;reachx.de;;Company website;3
+P5-D12-CHA-2;ChatGPT;D12;drweb.de;;Comparison list;4
+P5-D12-CHA-2;ChatGPT;D12;vindbar.de;;Comparison list;5
+P5-D12-CHA-2;ChatGPT;D12;drweb.de;;Comparison list;6
+P5-D12-CHA-2;ChatGPT;D12;dotwired.de;;Comparison list;7
+P5-D12-CHA-2;ChatGPT;D12;diegeoagentur.de;;Company website;8
+P5-D12-CHA-2;ChatGPT;D12;mediatouch.digital;;Company website;9
+P5-D12-CHA-2;ChatGPT;D12;stateinteractive.de;;Company website;10
+P5-D12-CHA-2;ChatGPT;D12;agenturtipp.de;;Agency directory;11
+P5-D12-CHA-2;ChatGPT;D12;geoagenturen.de;;Agency directory;12
+P5-D12-CHA-2;ChatGPT;D12;eom.de;;Company website;13
+P5-D12-CHA-2;ChatGPT;D12;reachx.de;;Company website;14
+P5-D12-CHA-2;ChatGPT;D12;open.de;;Company website;15
+P5-D12-CHA-2;ChatGPT;D12;sagemedia.de;;Company website;16
+P5-D12-GEM-2;Gemini;D12;rising-linkjuice.de;;Company website;1
+P5-D12-GEM-2;Gemini;D12;performanceliebe.de;;Company website;2
+P5-D12-GEM-2;Gemini;D12;4eck-media.de;;Company website;3
+P5-D12-GEM-2;Gemini;D12;boostit.de;;Company website;4
+P5-D12-PER-2;Perplexity;D12;qilano.de;https://www.qilano.de/geo-agentur/;Company website;1
+P5-D12-PER-2;Perplexity;D12;hechtinsgefecht.de;https://hechtinsgefecht.de/geo-agentur/;Company website;2
+P5-D12-PER-2;Perplexity;D12;grovia-digital.com;https://www.grovia-digital.com/antworten/agentur-marke-nicht-in-ki-assistenten/;Company website;3
+P5-D12-PER-2;Perplexity;D12;caesar-harrison.de;https://www.caesar-harrison.de/post/geo-aeo-agentur-auswaehlen-b2b-leitfaden;Guide article;4
+P5-D12-PER-2;Perplexity;D12;sichtbarerwerden.de;https://sichtbarerwerden.de/geo-agentur/;Company website;5
+P5-D12-PER-2;Perplexity;D12;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;6
+P5-D12-PER-2;Perplexity;D12;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;7
+P5-D12-PER-2;Perplexity;D12;grovia-digital.com;https://www.grovia-digital.com/antworten/;Company website;8
+P5-D12-PER-2;Perplexity;D12;conplore.com;https://conplore.com/geo-agenturen-in-der-dach-region-2026-wer-hilft-marken-in-der-ki-suche-sichtbar-zu-werden/;Comparison list;9
+P5-D12-PER-2;Perplexity;D12;seo-retter.de;https://seo-retter.de/ki-agentur/;Company website;10
+P5-E12-CHA-2;ChatGPT;E12;GrowAxis (Domain nicht angezeigt);;Comparison list;1
+P5-E12-CHA-2;ChatGPT;E12;samuraconsulting.com;;Comparison list;2
+P5-E12-CHA-2;ChatGPT;E12;High Street (Domain nicht angezeigt);;Company website;3
+P5-E12-CHA-2;ChatGPT;E12;GrowingAI (Domain nicht angezeigt);;Comparison list;4
+P5-E12-CHA-2;ChatGPT;E12;grovia-digital.com;;Comparison list;5
+P5-E12-CHA-2;ChatGPT;E12;aeogeolabs.com;;Comparison list;6
+P5-E12-CHA-2;ChatGPT;E12;adjoltz.com;;Comparison list;7
+P5-E12-CHA-2;ChatGPT;E12;wearetenet.com;;Comparison list;8
+P5-E12-CHA-2;ChatGPT;E12;samuraconsulting.com;;Company website;9
+P5-E12-CHA-2;ChatGPT;E12;onekindagency.com;;Company website;10
+P5-E12-CHA-2;ChatGPT;E12;aimenalabs.com;;Company website;11
+P5-E12-CHA-2;ChatGPT;E12;absolute.digital;;Company website;12
+P5-E12-PER-2;Perplexity;E12;adgrow.ae;https://adgrow.ae/ai-visibility/;Company website;1
+P5-E12-PER-2;Perplexity;E12;flarefalcon.ai;https://flarefalcon.ai/;Company website;2
+P5-E12-PER-2;Perplexity;E12;vistabylara.com;https://www.vistabylara.com/services/aeo-geo;Company website;3
+P5-E12-PER-2;Perplexity;E12;brava360.digital;https://brava360.digital/;Company website;4
+P5-E12-PER-2;Perplexity;E12;vistabylara.com;https://www.vistabylara.com/;Company website;5
+P5-E12-PER-2;Perplexity;E12;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;6
+P5-E12-PER-2;Perplexity;E12;huggingface.co;https://huggingface.co/Grovia-Digital;Dataset platform;7
+P5-E12-PER-2;Perplexity;E12;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;8
+P5-E12-PER-2;Perplexity;E12;absolute.digital;https://absolute.digital/ae/services/ai-visibility/;Company website;9
+P5-E12-PER-2;Perplexity;E12;metanestagency.com;https://metanestagency.com/ai-visibility/;Company website;10
+P5-E12-PER-2;Perplexity;E12;probans.ae;https://probans.ae/;Company website;11
+P5-E16-CHA-2;ChatGPT;E16;grovia-digital.com;;Comparison list;1
+P5-E16-CHA-2;ChatGPT;E16;GrowAxis (Domain nicht angezeigt);;Comparison list;2
+P5-E16-CHA-2;ChatGPT;E16;flarefalcon.ai;;Company website;3
+P5-E16-CHA-2;ChatGPT;E16;aimenalabs.com;;Company website;4
+P5-E16-CHA-2;ChatGPT;E16;udjat.ae;;Company website;5
+P5-E16-CHA-2;ChatGPT;E16;thegrowingai.com;;Comparison list;6
+P5-E16-CHA-2;ChatGPT;E16;adgrow.ae;;Comparison list;7
+P5-E16-CHA-2;ChatGPT;E16;009.agency;;Comparison list;8
+P5-E16-CHA-2;ChatGPT;E16;onekindagency.com;;Company website;9
+P5-E16-CHA-2;ChatGPT;E16;samuraconsulting.com;;Company website;10
+P5-E16-CHA-2;ChatGPT;E16;highstreetagency.com;;Company website;11
+P5-E16-CHA-2;ChatGPT;E16;absolute.digital;;Company website;12
+P5-E16-PER-2;Perplexity;E16;adgrow.ae;https://adgrow.ae/ai-visibility/;Company website;1
+P5-E16-PER-2;Perplexity;E16;vistabylara.com;https://www.vistabylara.com/services/aeo-geo;Company website;2
+P5-E16-PER-2;Perplexity;E16;grovia-digital.com;https://www.grovia-digital.com/en/geo-agency-uae/;Company website;3
+P5-E16-PER-2;Perplexity;E16;metanestagency.com;https://metanestagency.com/ai-visibility/;Company website;4
+P5-E16-PER-2;Perplexity;E16;flarefalcon.ai;https://flarefalcon.ai/;Company website;5
+P5-E16-PER-2;Perplexity;E16;vistabylara.com;https://www.vistabylara.com/;Company website;6
+P5-E16-PER-2;Perplexity;E16;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;7
+P5-E16-PER-2;Perplexity;E16;iyaralabs.com;https://www.iyaralabs.com/;Company website;8
+P5-E16-PER-2;Perplexity;E16;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;9
+P5-E16-PER-2;Perplexity;E16;absolute.digital;https://absolute.digital/ae/services/ai-visibility/;Company website;10
+P5-E16-PER-2;Perplexity;E16;brava360.digital;https://brava360.digital/;Company website;11
+P5-E17-PER-2;Perplexity;E17;chainreaction.ae;https://www.chainreaction.ae/seo-search-engine-optimization-agency/;Company website;1
+P5-E17-PER-2;Perplexity;E17;trinityseo.ae;https://trinityseo.ae/services/generative-engine-optimization-dubai/;Company website;2
+P5-E17-PER-2;Perplexity;E17;digitalgravity.ae;https://www.digitalgravity.ae/services/generative-engine-optimization-geo-agency/;Company website;3
+P5-E17-PER-2;Perplexity;E17;globalmediainsight.com;https://www.globalmediainsight.com/generative-engine-optimization-services/;Company website;4
+P5-E17-PER-2;Perplexity;E17;zoomdigital.ae;https://zoomdigital.ae/services/search-engine-optimization/generative-engine-optimization/;Company website;5
+P5-E17-PER-2;Perplexity;E17;synscribe.com;https://www.synscribe.com/service/generative-engine-optimization-dubai;Company website;6
+P5-E17-PER-2;Perplexity;E17;octopusmarketing.agency;https://www.octopusmarketing.agency/digital-marketing/seo-services/ai-seo-services/generative-engine-optimization/;Company website;7
+P5-E17-PER-2;Perplexity;E17;goodfirms.co;https://www.goodfirms.co/generative-engine-optimization/dubai;Agency directory;8
+P5-E17-PER-2;Perplexity;E17;brandstory.ae;https://www.brandstory.ae/generative-engine-optimisation-agency-in-dubai-uae/;Company website;9
+P5-E17-PER-2;Perplexity;E17;spiderworks.ae;https://www.spiderworks.ae/geo-services;Company website;10
+P5-E20-CHA-2;ChatGPT;E20;GrowAxis (Domain nicht angezeigt);;Comparison list;1
+P5-E20-CHA-2;ChatGPT;E20;samuraconsulting.com;;Company website;2
+P5-E20-CHA-2;ChatGPT;E20;adjoltz.com;;Guide article;3
+P5-E20-CHA-2;ChatGPT;E20;grovia-digital.com;;Comparison list;4
+P5-E20-CHA-2;ChatGPT;E20;aimenalabs.com;;Company website;5
+P5-E20-CHA-2;ChatGPT;E20;fathom.ae;;Company website;6
+P5-E20-CHA-2;ChatGPT;E20;bluebeetle.ae;;Company website;7
+P5-E20-CHA-2;ChatGPT;E20;hikmahaiagency.com;;Company website;8
+P5-E20-CHA-2;ChatGPT;E20;beontop.ae;;Company website;9
+P5-E20-CHA-2;ChatGPT;E20;vistabylara.com;;Company website;10
+P5-E20-CHA-2;ChatGPT;E20;digitalarab.agency;;Company website;11
+P5-E20-PER-2;Perplexity;E20;highstreetagency.com;https://highstreetagency.com/insights/geo-pricing-uae/;Guide article;1
+P5-E20-PER-2;Perplexity;E20;softwarestem.com;https://softwarestem.com/blog/ai-development-cost-dubai.html;Company website;2
+P5-E20-PER-2;Perplexity;E20;curiousmindlabs.com;https://curiousmindlabs.com/guides/how-much-does-ai-visibility-cost-in-the-uae;Company website;3
+P5-E20-PER-2;Perplexity;E20;grovia-digital.com;https://www.grovia-digital.com/en/answers/ai-visibility-cost-uae/;Company website;4
+P5-E20-PER-2;Perplexity;E20;try28labs.com;https://try28labs.com/ai-visibility-audit-cost-dubai/;Company website;5
+P5-E20-PER-2;Perplexity;E20;humanswith.ai;https://humanswith.ai/blog/best-geo-ai-visibility-agencies-dubai-uae-2026/;Comparison list;6
+P5-E20-PER-2;Perplexity;E20;thrivefinity.uk;https://www.thrivefinity.uk/compare/ai-visibility-agencies-uae;Comparison list;7
+P5-E20-PER-2;Perplexity;E20;miraireach.marketing;https://miraireach.marketing/geo-pricing-dubai;Guide article;8
+P5-E20-PER-2;Perplexity;E20;miraireach.ae;https://miraireach.ae/geo-pricing-dubai;Guide article;9
+P5-E20-PER-2;Perplexity;E20;emtech.ae;https://emtech.ae/ai-implementation-cost-uae/;Guide article;10
+P5-D01-CHA-3;ChatGPT;D01;optinest.de;;Comparison list;1
+P5-D01-CHA-3;ChatGPT;D01;in-sync.io;;Comparison list;2
+P5-D01-CHA-3;ChatGPT;D01;open.de;;Company website;3
+P5-D01-CHA-3;ChatGPT;D01;geoagenturen.de;;Agency directory;4
+P5-D01-CHA-3;ChatGPT;D01;geoagenturberlin.de;;Company website;5
+P5-D01-CHA-3;ChatGPT;D01;geoagenturen.de;;Agency directory;6
+P5-D01-CHA-3;ChatGPT;D01;stateinteractive.de;;Company website;7
+P5-D01-CHA-3;ChatGPT;D01;diegeoagentur.de;;Company website;8
+P5-D01-CHA-3;ChatGPT;D01;neovendo.de;;Company website;9
+P5-D01-CHA-3;ChatGPT;D01;tenolo.de;;Company website;10
+P5-D01-CHA-3;ChatGPT;D01;ki-ranking-agentur.de;;Company website;11
+P5-D01-CHA-3;ChatGPT;D01;sichtlabs.de;;Company website;12
+P5-D01-GEM-3;Gemini;D01;qilano.de;;Company website;1
+P5-D01-GEM-3;Gemini;D01;conplore.com;;Comparison list;2
+P5-D01-GEM-3;Gemini;D01;smartlemon.de;;Company website;3
+P5-D01-GEM-3;Gemini;D01;deloitte.com;;Consultancy;4
+P5-D01-GEM-3;Gemini;D01;evergreen.media;;Company website;5
+P5-D01-GEM-3;Gemini;D01;suchhelden.de;;Company website;6
+P5-D01-PER-3;Perplexity;D01;geoagentur.de;https://geoagentur.de/;Company website;1
+P5-D01-PER-3;Perplexity;D01;tryseo.de;https://www.tryseo.de/ai-overview-beratung-betreuung/;Company website;2
+P5-D01-PER-3;Perplexity;D01;imi-digital.de;https://www.imi-digital.de/geo-agentur;Company website;3
+P5-D01-PER-3;Perplexity;D01;ventas-webdesign.de;https://www.ventas-webdesign.de/geo-agentur;Company website;4
+P5-D01-PER-3;Perplexity;D01;netgrade.de;https://netgrade.de/leistungen/geo-agentur/;Company website;5
+P5-D01-PER-3;Perplexity;D01;sichtbarerwerden.de;https://sichtbarerwerden.de/geo-agentur/;Company website;6
+P5-D01-PER-3;Perplexity;D01;ithelps-digital.com;https://www.ithelps-digital.com/de-de/leistungen/geo-agentur-ki-suche;Company website;7
+P5-D01-PER-3;Perplexity;D01;digitalagentur-ecommerce.de;https://www.digitalagentur-ecommerce.de/ki-agentur/geo-agentur/;Company website;8
+P5-D01-PER-3;Perplexity;D01;conplore.com;https://conplore.com/geo-agenturen-in-der-dach-region-2026-wer-hilft-marken-in-der-ki-suche-sichtbar-zu-werden/;Comparison list;9
+P5-D01-PER-3;Perplexity;D01;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;10
+P5-D01-PER-3;Perplexity;D01;suchhelden.de;https://www.suchhelden.de/beste-geo-agenturen-deutschlands.php;Comparison list;11
+P5-D01-PER-3;Perplexity;D01;vergleichdoch.de;https://vergleichdoch.de/ki-agenturen/;Comparison list;12
+P5-D01-PER-3;Perplexity;D01;potesmedia.de;https://potesmedia.de/leistungen/geo-agentur/;Company website;13
+P5-D01-PER-3;Perplexity;D01;agentur-emilian.de;https://www.agentur-emilian.de/geo-agentur/;Company website;14
+P5-D01-PER-3;Perplexity;D01;ki-helden.net;https://www.ki-helden.net/;Company website;15
+P5-D01-PER-3;Perplexity;D01;grovia-digital.com;https://www.grovia-digital.com/antworten/ki-assistenten-agentur-laufende-betreuung/;Company website;16
+P5-D01-PER-3;Perplexity;D01;evergreen.media;https://www.evergreen.media/generative-engine-optimization/;Company website;17
+P5-D01-PER-3;Perplexity;D01;formwandler-interactive.com;https://www.formwandler-interactive.com/geo-agentur-frankfurt-ki-seo/;Company website;18
+P5-D01-PER-3;Perplexity;D01;geoagentur.de;https://geoagentur.de/ratgeber/beste-geo-agentur/;Comparison list;19
+P5-D01-PER-3;Perplexity;D01;geo-agentur-frankfurt-am-main.de;https://geo-agentur-frankfurt-am-main.de/;Company website;20
+P5-D01-PER-3;Perplexity;D01;geoagenturen.de;https://www.geoagenturen.de/agency/external-geo-agentur-frankfurt-am-main-de;Agency directory;21
+P5-D01-PER-3;Perplexity;D01;seoagentur.de;https://www.seoagentur.de/geo-agentur/;Company website;22
+P5-D01-PER-3;Perplexity;D01;scaile.tech;https://scaile.tech/de/blog/vendor-choice/cost/geo-abrechnung;Guide article;23
+P5-D02-CHA-3;ChatGPT;D02;reachx.de;;Company website;1
+P5-D02-CHA-3;ChatGPT;D02;eology.de;;Company website;2
+P5-D02-CHA-3;ChatGPT;D02;optinest.de;;Comparison list;3
+P5-D02-CHA-3;ChatGPT;D02;startuplove.de;;Comparison list;4
+P5-D02-CHA-3;ChatGPT;D02;vindbar.de;;Comparison list;5
+P5-D02-CHA-3;ChatGPT;D02;geotoolbox.ai;;Comparison list;6
+P5-D02-CHA-3;ChatGPT;D02;presseportal.de;;Press release portal;7
+P5-D02-CHA-3;ChatGPT;D02;in-sync.io;;Comparison list;8
+P5-D02-CHA-3;ChatGPT;D02;startuplove.de;;Comparison list;9
+P5-D02-CHA-3;ChatGPT;D02;optinest.de;;Comparison list;10
+P5-D02-CHA-3;ChatGPT;D02;drweb.de;;Comparison list;11
+P5-D02-CHA-3;ChatGPT;D02;taismo.de;;Comparison list;12
+P5-D02-CHA-3;ChatGPT;D02;onecommerce.de;;Comparison list;13
+P5-D02-CHA-3;ChatGPT;D02;dotwired.de;;Comparison list;14
+P5-D02-CHA-3;ChatGPT;D02;eology.de;;Company website;15
+P5-D02-CHA-3;ChatGPT;D02;reachx.de;;Company website;16
+P5-D02-GEM-3;Gemini;D02;njoy-online-marketing.de;;Company website;1
+P5-D02-GEM-3;Gemini;D02;park-sieben.com;;Company website;2
+P5-D02-GEM-3;Gemini;D02;optimerch.de;;Company website;3
+P5-D02-GEM-3;Gemini;D02;kiticon.global;;Company website;4
+P5-D02-GEM-3;Gemini;D02;sichtbarerwerden.de;;Company website;5
+P5-D02-PER-3;Perplexity;D02;evergreen.media;https://www.evergreen.media/generative-engine-optimization/;Company website;1
+P5-D02-PER-3;Perplexity;D02;suchhelden.de;https://www.suchhelden.de/ki-seo-agentur.php;Company website;2
+P5-D02-PER-3;Perplexity;D02;open.de;https://open.de/geo-agentur/;Company website;3
+P5-D02-PER-3;Perplexity;D02;sichtbarkeitswerk.com;https://sichtbarkeitswerk.com/;Company website;4
+P5-D02-PER-3;Perplexity;D02;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;5
+P5-D02-PER-3;Perplexity;D02;optimerch.de;https://www.optimerch.de/geo/;Company website;6
+P5-D02-PER-3;Perplexity;D02;nordfabrik.ch;https://www.nordfabrik.ch/llmo-ki-seo;Company website;7
+P5-D02-PER-3;Perplexity;D02;njoy-online-marketing.de;https://www.njoy-online-marketing.de/leistungen/seo-agentur/geo-agentur-ki-seo/;Company website;8
+P5-D02-PER-3;Perplexity;D02;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;9
+P5-D02-PER-3;Perplexity;D02;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/chat-gpt-ads.html;Press release portal;10
+P5-D02-PER-3;Perplexity;D02;duwerk.de;https://www.duwerk.de/geo-agentur;Company website;11
+P5-D02-PER-3;Perplexity;D02;onlinemarketing.at;https://www.onlinemarketing.at/ki-agentur/;Company website;12
+P5-D07-CHA-3;ChatGPT;D07;conplore.com;;Comparison list;1
+P5-D07-CHA-3;ChatGPT;D07;taismo.de;;Comparison list;2
+P5-D07-CHA-3;ChatGPT;D07;vitasoft.co;;Comparison list;3
+P5-D07-CHA-3;ChatGPT;D07;saaswelt.de;;Comparison list;4
+P5-D07-CHA-3;ChatGPT;D07;startuplove.de;;Comparison list;5
+P5-D07-CHA-3;ChatGPT;D07;marktforschung.de;;Trade media;6
+P5-D07-CHA-3;ChatGPT;D07;rivly.de;;Comparison list;7
+P5-D07-CHA-3;ChatGPT;D07;nxdigital.de;;Comparison list;8
+P5-D07-CHA-3;ChatGPT;D07;cegtec.net;;Comparison list;9
+P5-D07-CHA-3;ChatGPT;D07;conplore.com;;Comparison list;10
+P5-D07-CHA-3;ChatGPT;D07;startuplove.de;;Comparison list;11
+P5-D07-CHA-3;ChatGPT;D07;rivly.de;;Comparison list;12
+P5-D07-CHA-3;ChatGPT;D07;saaswelt.de;;Comparison list;13
+P5-D07-CHA-3;ChatGPT;D07;drweb.de;;Comparison list;14
+P5-D07-CHA-3;ChatGPT;D07;taismo.de;;Comparison list;15
+P5-D07-CHA-3;ChatGPT;D07;effizienzinstitut.de;;Comparison list;16
+P5-D07-CHA-3;ChatGPT;D07;marktforschung.de;;Trade media;17
+P5-D07-CHA-3;ChatGPT;D07;effizienzinstitut.de;;Comparison list;18
+P5-D07-CHA-3;ChatGPT;D07;vitasoft.co;;Comparison list;19
+P5-D07-GEM-3;Gemini;D07;conplore.com;;Comparison list;1
+P5-D07-GEM-3;Gemini;D07;distart.de;;Company website;2
+P5-D07-GEM-3;Gemini;D07;blog.hubspot.de;;Guide article;3
+P5-D07-GEM-3;Gemini;D07;convertlyze.com;;Tool vendor;4
+P5-D07-GEM-3;Gemini;D07;contentbird.io;;Tool vendor;5
+P5-D07-GEM-3;Gemini;D07;omr.com;;Trade media;6
+P5-D07-GEM-3;Gemini;D07;evergreen.media;;Company website;7
+P5-D07-PER-3;Perplexity;D07;claneo.com;https://www.claneo.com/de/;Company website;1
+P5-D07-PER-3;Perplexity;D07;evergreen.media;https://www.evergreen.media/online-pr-agentur/;Company website;2
+P5-D07-PER-3;Perplexity;D07;seokratie.de;https://www.seokratie.de/geo/;Company website;3
+P5-D07-PER-3;Perplexity;D07;branchenbuch.portal.muenchen.de;https://branchenbuch.portal.muenchen.de/mhp/1349315/;Agency directory;4
+P5-D07-PER-3;Perplexity;D07;claneo.com;https://www.claneo.com/de/loesungen/;Company website;5
+P5-D07-PER-3;Perplexity;D07;evergreen.media;https://www.evergreen.media/expansion-nach-deutschland/;Company website;6
+P5-D07-PER-3;Perplexity;D07;conplore.com;https://conplore.com/geo-agenturen-in-der-dach-region-2026-wer-hilft-marken-in-der-ki-suche-sichtbar-zu-werden/;Comparison list;7
+P5-D07-PER-3;Perplexity;D07;scaile.tech;https://scaile.tech/de/blog/vendor-choice/alternatives/dept-alternativen;Comparison list;8
+P5-D07-PER-3;Perplexity;D07;alexandrya.ai;https://alexandrya.ai/de/blog/beste-ki-sichtbarkeits-tools;Comparison list;9
+P5-D07-PER-3;Perplexity;D07;dageno.ai;https://www.dageno.ai/de/blog/leading-ai-visibility-optimization-tool;Comparison list;10
+P5-D07-PER-3;Perplexity;D07;convertlyze.com;https://www.convertlyze.com/content-hub/ki-sichtbarkeit-tools-vergleich;Comparison list;11
+P5-D07-PER-3;Perplexity;D07;seranking.com;https://seranking.com/de/blog/seo-ki-tools/;Comparison list;12
+P5-D07-PER-3;Perplexity;D07;rankmio.de;https://rankmio.de/insights/seo-tools-vergleich;Comparison list;13
+P5-D07-PER-3;Perplexity;D07;tryprefer.com;https://tryprefer.com/de/best/ai-seo-tools/;Comparison list;14
+P5-D07-PER-3;Perplexity;D07;amicited.com;https://www.amicited.com/de/reviews/top-10-ai-visibility-monitoring-tools-compared/;Comparison list;15
+P5-D07-PER-3;Perplexity;D07;scaile.tech;https://scaile.tech/de/blog/vendor-choice/alternatives;Comparison list;16
+P5-D07-PER-3;Perplexity;D07;evergreen.media;https://www.evergreen.media/;Company website;17
+P5-D07-PER-3;Perplexity;D07;claneo.com;https://www.claneo.com/de/digital-pr/;Company website;18
+P5-D07-PER-3;Perplexity;D07;seokratie.de;https://www.seokratie.de/;Company website;19
+P5-D07-PER-3;Perplexity;D07;linkedin.com;https://www.linkedin.com/company/evergreen-media-ar-gmbh;Social media;20
+P5-D07-PER-3;Perplexity;D07;linkedin.com;https://www.linkedin.com/company/claneo;Social media;21
+P5-D07-PER-3;Perplexity;D07;business-on.de;https://www.business-on.de/anbieter/seokratie;Agency directory;22
+P5-D07-PER-3;Perplexity;D07;growthpartnerindex.com;https://growthpartnerindex.com/agencies/evergreen-media;Agency directory;23
+P5-D07-PER-3;Perplexity;D07;seo-kueche.de;https://www.seo-kueche.de/die-10-besten-seo-und-geo-agenturen-2026/;Comparison list;24
+P5-D07-PER-3;Perplexity;D07;business-on.de;https://www.business-on.de/anbieter/claneo;Agency directory;25
+P5-D09-CHA-3;ChatGPT;D09;geoagentur.de;;Company website;1
+P5-D09-CHA-3;ChatGPT;D09;diegeoagentur.de;;Company website;2
+P5-D09-CHA-3;ChatGPT;D09;agenturtipp.de;;Agency directory;3
+P5-D09-CHA-3;ChatGPT;D09;nxdigital.de;;Comparison list;4
+P5-D09-CHA-3;ChatGPT;D09;vindbar.de;;Comparison list;5
+P5-D09-CHA-3;ChatGPT;D09;geotoolbox.ai;;Comparison list;6
+P5-D09-CHA-3;ChatGPT;D09;onecommerce.de;;Comparison list;7
+P5-D09-CHA-3;ChatGPT;D09;dotwired.de;;Comparison list;8
+P5-D09-CHA-3;ChatGPT;D09;geoagenturberlin.de;;Company website;9
+P5-D09-CHA-3;ChatGPT;D09;open.de;;Company website;10
+P5-D09-CHA-3;ChatGPT;D09;geoagenturen.de;;Agency directory;11
+P5-D09-CHA-3;ChatGPT;D09;geoagenturen.de;;Agency directory;12
+P5-D09-GEM-3;Gemini;D09;seowerk.de;;Company website;1
+P5-D09-GEM-3;Gemini;D09;qilano.de;;Company website;2
+P5-D09-GEM-3;Gemini;D09;geoagentur.de;;Company website;3
+P5-D09-GEM-3;Gemini;D09;claneo.com;;Company website;4
+P5-D09-GEM-3;Gemini;D09;suchhelden.de;;Company website;5
+P5-D09-GEM-3;Gemini;D09;evergreen.media;;Company website;6
+P5-D09-GEM-3;Gemini;D09;omr.com;;Agency directory;7
+P5-D09-PER-3;Perplexity;D09;geoagentur.de;https://geoagentur.de/;Company website;1
+P5-D09-PER-3;Perplexity;D09;claneo.com;https://www.claneo.com/de/geo-llmo-agentur/;Company website;2
+P5-D09-PER-3;Perplexity;D09;geo-spezialisten.de;https://geo-spezialisten.de/;Company website;3
+P5-D09-PER-3;Perplexity;D09;geo-agentur.eu;https://geo-agentur.eu/;Company website;4
+P5-D09-PER-3;Perplexity;D09;geoagentur.de;https://geoagentur.de/ratgeber/beste-geo-agentur/;Comparison list;5
+P5-D09-PER-3;Perplexity;D09;claneo.com;https://www.claneo.com/de/branchen/b2b/;Company website;6
+P5-D09-PER-3;Perplexity;D09;claneo.com;https://www.claneo.com/en/geo-llmo-agency/;Company website;7
+P5-D09-PER-3;Perplexity;D09;suchhelden.de;https://www.suchhelden.de/beste-geo-agenturen-deutschlands.php;Comparison list;8
+P5-D09-PER-3;Perplexity;D09;adgeo.de;https://adgeo.de/;Company website;9
+P5-D09-PER-3;Perplexity;D09;geoagenturen.de;https://www.geoagenturen.de/;Agency directory;10
+P5-D12-CHA-3;ChatGPT;D12;vindbar.de;;Comparison list;1
+P5-D12-CHA-3;ChatGPT;D12;drweb.de;;Comparison list;2
+P5-D12-CHA-3;ChatGPT;D12;diegeoagentur.de;;Company website;3
+P5-D12-CHA-3;ChatGPT;D12;optinest.de;;Comparison list;4
+P5-D12-CHA-3;ChatGPT;D12;nxdigital.de;;Guide article;5
+P5-D12-CHA-3;ChatGPT;D12;nxdigital.de;;Guide article;6
+P5-D12-CHA-3;ChatGPT;D12;nxdigital.de;;Company website;7
+P5-D12-CHA-3;ChatGPT;D12;vindbar.de;;Comparison list;8
+P5-D12-CHA-3;ChatGPT;D12;optinest.de;;Comparison list;9
+P5-D12-CHA-3;ChatGPT;D12;multigama-marketing.de;;Comparison list;10
+P5-D12-CHA-3;ChatGPT;D12;unternehmen.n-tv.de;;Press release portal;11
+P5-D12-CHA-3;ChatGPT;D12;drweb.de;;Comparison list;12
+P5-D12-CHA-3;ChatGPT;D12;diegeoagentur.de;;Company website;13
+P5-D12-CHA-3;ChatGPT;D12;geoagenturen.de;;Agency directory;14
+P5-D12-CHA-3;ChatGPT;D12;geoagenturen.de;;Agency directory;15
+P5-D12-CHA-3;ChatGPT;D12;mediatouch.digital;;Company website;16
+P5-D12-GEM-3;Gemini;D12;performanceliebe.de;;Company website;1
+P5-D12-GEM-3;Gemini;D12;onecommerce.de;;Comparison list;2
+P5-D12-GEM-3;Gemini;D12;woxow.com;;Company website;3
+P5-D12-GEM-3;Gemini;D12;suchhelden.de;;Company website;4
+P5-D12-GEM-3;Gemini;D12;claneo.com;;Company website;5
+P5-D12-PER-3;Perplexity;D12;kostimedia.de;https://www.kostimedia.de/geo-agentur-in-frankfurt/;Company website;1
+P5-D12-PER-3;Perplexity;D12;herold.at;https://www.herold.at/ratgeber/ki-sichtbarkeit/agentur-fuer-sichtbarkeit-in-ki/;Guide article;2
+P5-D12-PER-3;Perplexity;D12;taismo.de;https://taismo.de/ki-seo-agentur/;Company website;3
+P5-D12-PER-3;Perplexity;D12;frankfurter-werbeagentur.de;https://www.frankfurter-werbeagentur.de/leistungen/ki-sichtbarkeit-frankfurt;Company website;4
+P5-D12-PER-3;Perplexity;D12;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/llmo-agentur.html;Press release portal;5
+P5-D12-PER-3;Perplexity;D12;developers.google.com;https://developers.google.com/search/docs/appearance/ai-features?hl=de;Platform documentation;6
+P5-D12-PER-3;Perplexity;D12;schild-roth.com;https://schild-roth.com/geo-agentur/;Company website;7
+P5-D12-PER-3;Perplexity;D12;advertisery.at;https://advertisery.at/ki-sichtbarkeit/;Company website;8
+P5-D12-PER-3;Perplexity;D12;grovia-digital.com;https://www.grovia-digital.com/antworten/agentur-marke-nicht-in-ki-assistenten/;Company website;9
+P5-D12-PER-3;Perplexity;D12;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/ki-marketing-agentur.html;Press release portal;10
+P5-D12-PER-3;Perplexity;D12;derprozessmeister.de;https://www.derprozessmeister.de/blog/ki-agentur-die-richtige-agentur-finden;Guide article;11
+P5-D12-PER-3;Perplexity;D12;martin-maack.de;https://www.martin-maack.de/leistungen/seo/ai-seo-strategie;Company website;12
+P5-D12-PER-3;Perplexity;D12;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;13
+P5-D12-PER-3;Perplexity;D12;searchenginejournal.com;https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/;Trade media;14
+P5-D12-PER-3;Perplexity;D12;geoagentur.de;https://geoagentur.de/;Company website;15
+P5-D12-PER-3;Perplexity;D12;imasters.com.br;https://imasters.com.br/seo/ai-overviews-do-google-o-que-a-documentacao-oficial-exige-e-o-que-nao-exige-da-s;Trade media;16
+P5-D12-PER-3;Perplexity;D12;geo-agentur-frankfurt.net;https://geo-agentur-frankfurt.net/;Company website;17
+P5-D12-PER-3;Perplexity;D12;ki-seo-geo.de;https://ki-seo-geo.de/geo-agentur/frankfurt/;Company website;18
+P5-D12-PER-3;Perplexity;D12;geo-agentur-frankfurt-am-main.de;https://www.geo-agentur-frankfurt-am-main.de/geo-agentur-rhein-main;Company website;19
+P5-D12-PER-3;Perplexity;D12;blueventures.online;https://www.blueventures.online/geo/;Company website;20
+P5-D12-PER-3;Perplexity;D12;geo-agentur-frankfurt-am-main.de;https://www.geo-agentur-frankfurt-am-main.de/ich-suche-im-rhein-main-gebiet-eine-agentur-fuer-sichtbarkeit-in-ki-systemen-wie-chatgpt-frankfurt;Company website;21
+P5-D12-PER-3;Perplexity;D12;stackmatix.com;https://www.stackmatix.com/blog/google-search-central-ai-overviews-guidance;Guide article;22
+P5-D12-PER-3;Perplexity;D12;searchenginegeeks.com;https://searchenginegeeks.com/blog/google-ai-optimisation-guide-what-it-means.html;Guide article;23
+P5-D12-PER-3;Perplexity;D12;rheinmaintech.com;https://rheinmaintech.com/geo-agentur-frankfurt/;Company website;24
+P5-D12-PER-3;Perplexity;D12;dkd.de;https://www.dkd.de/de/seo-beratung-in-frankfurt/;Company website;25
+P5-D13-CHA-3;ChatGPT;D13;Gruender Nachrichten (Domain nicht angezeigt);;Comparison list;1
+P5-D13-CHA-3;ChatGPT;D13;saaswelt.de;;Comparison list;2
+P5-D13-CHA-3;ChatGPT;D13;geotoolbox.ai;;Comparison list;3
+P5-D13-CHA-3;ChatGPT;D13;taismo.de;;Comparison list;4
+P5-D13-CHA-3;ChatGPT;D13;in-sync.io;;Comparison list;5
+P5-D13-CHA-3;ChatGPT;D13;netkin (Domain nicht angezeigt);;Comparison list;6
+P5-D13-CHA-3;ChatGPT;D13;rivly.de;;Comparison list;7
+P5-D13-CHA-3;ChatGPT;D13;anewera (Domain nicht angezeigt);;Comparison list;8
+P5-D13-CHA-3;ChatGPT;D13;Evolix Media (Domain nicht angezeigt);;Comparison list;9
+P5-D13-CHA-3;ChatGPT;D13;soeners.digital;;Comparison list;10
+P5-D13-CHA-3;ChatGPT;D13;suchhelden.de;;Guide article;11
+P5-D13-CHA-3;ChatGPT;D13;justinkeirath.com;;Comparison list;12
+P5-D13-CHA-3;ChatGPT;D13;content-engineer.ch;;Comparison list;13
+P5-D13-CHA-3;ChatGPT;D13;saaswelt.de;;Comparison list;14
+P5-D13-CHA-3;ChatGPT;D13;conplore.com;;Comparison list;15
+P5-D13-CHA-3;ChatGPT;D13;ki-gefunden-werden.de;;Comparison list;16
+P5-D13-CHA-3;ChatGPT;D13;agentready.ch;;Comparison list;17
+P5-D13-CHA-3;ChatGPT;D13;optinest.de;;Comparison list;18
+P5-D13-CHA-3;ChatGPT;D13;n-tv.de;;Press release portal;19
+P5-D13-CHA-3;ChatGPT;D13;auracite.de;;Comparison list;20
+P5-D13-CHA-3;ChatGPT;D13;drweb.de;;Comparison list;21
+P5-D13-CHA-3;ChatGPT;D13;getsichtbar.com;;Comparison list;22
+P5-D13-CHA-3;ChatGPT;D13;effizienzinstitut.de;;Comparison list;23
+P5-D13-CHA-3;ChatGPT;D13;silicon.de;;Trade media;24
+P5-D13-GEM-3;Gemini;D13;lilox.io;;Company website;1
+P5-D13-GEM-3;Gemini;D13;alexandrya.ai;;Tool vendor;2
+P5-D13-GEM-3;Gemini;D13;omr.com;;Agency directory;3
+P5-D13-GEM-3;Gemini;D13;youtube.com;;Video;4
+P5-D13-PER-3;Perplexity;D13;claneo.com;https://www.claneo.com/de/marketing-efficiency/;Company website;1
+P5-D13-PER-3;Perplexity;D13;horizont.net;https://www.horizont.net/agenturen/nachrichten/magdalena-mues-im-interview-so-sieht-die-zwischenbilanz-beim-boom-thema-geo-aus-233380;Trade media;2
+P5-D13-PER-3;Perplexity;D13;peec.ai;https://peec.ai/pricing;Tool vendor;3
+P5-D13-PER-3;Perplexity;D13;alexandrya.ai;https://alexandrya.ai/en/blog/best-ai-visibility-tools;Comparison list;4
+P5-D13-PER-3;Perplexity;D13;justinkeirath.com;https://www.justinkeirath.com/en/geo-tools/;Comparison list;5
+P5-D13-PER-3;Perplexity;D13;music.amazon.de;https://music.amazon.de/podcasts/d2c8288a-f7c4-4e23-bc3b-224cf3a8d8df/claneo-podcast-geo-know-how-what-the-click;Podcast;6
+P5-D13-PER-3;Perplexity;D13;scaile.tech;https://scaile.tech/de;Company website;7
+P5-D13-PER-3;Perplexity;D13;cenovio.com;https://cenovio.com/geo-agentur/;Company website;8
+P5-D13-PER-3;Perplexity;D13;industrycontents.com;https://industrycontents.com/ai-visibility-tool-pricing/;Comparison list;9
+P5-D13-PER-3;Perplexity;D13;ctseo.de;https://ctseo.de/en/blog-ai-visibility-tools;Comparison list;10
+P5-D13-PER-3;Perplexity;D13;openpr.de;https://www.openpr.de/news/1330672/Studie-KI-Assistenten-nennen-203-verschiedene-Anbieter-fuer-Sichtbarkeit-in-KI-Antworten.html;Press release portal;11
+P5-D13-PER-3;Perplexity;D13;handelsblatt.com;https://www.handelsblatt.com/adv/firmen/chat-gpt-ads.html;Press release portal;12
+P5-D13-PER-3;Perplexity;D13;feedbax.de;https://feedbax.de/digital-transformation/dach;Agency directory;13
+P5-D13-PER-3;Perplexity;D13;reddit.com;https://www.reddit.com/r/SaaS/comments/1mqq86w/what_are_the_best_ai_search_visibility_tracking/;Community/forum;14
+P5-D13-PER-3;Perplexity;D13;feedbax.de;https://feedbax.de/cloud-services/dach;Agency directory;15
+P5-D13-PER-3;Perplexity;D13;reddit.com;https://www.reddit.com/r/SaaS/comments/1whtu73/what_are_actually_the_best_ai_visibility_tools/;Community/forum;16
+P5-D13-PER-3;Perplexity;D13;openpr.de;https://www.openpr.de/news/1330550/Empfohlen-von-ChatGPT-was-KI-Assistenten-ueber-ein-Unternehmen-wissen.html;Press release portal;17
+P5-D13-PER-3;Perplexity;D13;openpr.de;https://www.openpr.de/news/1331012/Paceways-startet-neuen-Website-Editor-und-automatisierten-Datenschutz-mit-PrivacyBee.html;Press release portal;18
+P5-D13-PER-3;Perplexity;D13;openpr.de;https://www.openpr.de/news/1330959/Design030-WordPress-und-WooCommerce-Migration-zu-Shopify-mit-SEO-und-Webdesign.html;Press release portal;19
+P5-D13-PER-3;Perplexity;D13;morgenpost.de;https://www.morgenpost.de/podcast/article411907741/von-seo-zu-geo-so-rettest-du-deine-sichtbarkeit-in-der-ki-suche.html;Trade media;20
+P5-D13-PER-3;Perplexity;D13;firstpagesage.com;https://firstpagesage.com/seo-blog/ai-brand-sentiment-benchmarks/;Guide article;21
+P5-D13-PER-3;Perplexity;D13;humanswith.ai;https://humanswith.ai/blog/ai-visibility-tools-2026-10-platforms-compared-with-pricing/;Comparison list;22
+P5-D13-PER-3;Perplexity;D13;shoptank.io;https://shoptank.io/blog/ai-visibility-tool-cost-per-query;Guide article;23
+P5-D13-PER-3;Perplexity;D13;entropyand.co;https://entropyand.co/blog/ai-visibility-tools-pricing-comparison;Comparison list;24
+P5-D13-PER-3;Perplexity;D13;growth-pilots.de;https://growth-pilots.de/leistungen/geo;Company website;25
+P5-E01-CHA-3;ChatGPT;E01;in-sync.io;;Comparison list;1
+P5-E01-CHA-3;ChatGPT;E01;taismo.de;;Comparison list;2
+P5-E01-CHA-3;ChatGPT;E01;taismo.de;;Comparison list;3
+P5-E01-CHA-3;ChatGPT;E01;citeme.io;;Comparison list;4
+P5-E01-CHA-3;ChatGPT;E01;taismo.de;;Comparison list;5
+P5-E01-CHA-3;ChatGPT;E01;thedigitalelevator.com;;Comparison list;6
+P5-E01-CHA-3;ChatGPT;E01;aeogeolabs.com;;Comparison list;7
+P5-E01-CHA-3;ChatGPT;E01;in-sync.io;;Comparison list;8
+P5-E01-CHA-3;ChatGPT;E01;rankshift.ai;;Tool vendor;9
+P5-E01-CHA-3;ChatGPT;E01;archipelmarketing.com;;Comparison list;10
+P5-E01-CHA-3;ChatGPT;E01;theagentoperators.com;;Comparison list;11
+P5-E01-CHA-3;ChatGPT;E01;taismo.de;;Comparison list;12
+P5-E01-CHA-3;ChatGPT;E01;growffic.com;;Comparison list;13
+P5-E01-CHA-3;ChatGPT;E01;canlah.ai;;Comparison list;14
+P5-E01-CHA-3;ChatGPT;E01;009.agency;;Company website;15
+P5-E01-CHA-3;ChatGPT;E01;masters-of-search.com;;Comparison list;16
+P5-E01-CHA-3;ChatGPT;E01;geostrategypro.com;;Company website;17
+P5-E01-CHA-3;ChatGPT;E01;rankshift.ai;;Comparison list;18
+P5-E01-CHA-3;ChatGPT;E01;mckinsey.com;;Consultancy;19
+P5-E01-CHA-3;ChatGPT;E01;shoptank.io;;Comparison list;20
+P5-E01-CHA-3;ChatGPT;E01;rocketgeo.ai;;Company website;21
+P5-E01-GEM-3;Gemini;E01;gtmengage.com;;Company website;1
+P5-E01-GEM-3;Gemini;E01;omnius.so;;Company website;2
+P5-E01-GEM-3;Gemini;E01;web-labels.de;;Company website;3
+P5-E01-GEM-3;Gemini;E01;evergreen.media;;Company website;4
+P5-E01-PER-3;Perplexity;E01;seoagents.de;https://www.seoagents.de/geo-agentur/;Company website;1
+P5-E01-PER-3;Perplexity;E01;frankfurt-ai.de;https://frankfurt-ai.de/en/geo-agency-frankfurt/;Company website;2
+P5-E01-PER-3;Perplexity;E01;notablypr.com;https://notablypr.com/ai-visibility-agency.html;Company website;3
+P5-E01-PER-3;Perplexity;E01;seo.com;https://www.seo.com/agency/llm-marketing/;Company website;4
+P5-E01-PER-3;Perplexity;E01;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/12/3401798/0/en/more-than-170-geo-and-ai-seo-agencies-in-40-countries-now-partner-with-otterlyai.html;Press release portal;5
+P5-E01-PER-3;Perplexity;E01;richwebs.com;https://richwebs.com/top-agencies-to-rank-on-ai-tools-chatgpt-gemini-claude-perplexity/;Comparison list;6
+P5-E01-PER-3;Perplexity;E01;comexland.com;https://comexland.com/en/geo-how-to-get-your-company-recommended-by-chatgpt-gemini-and-other-ai-search-engines/;Guide article;7
+P5-E01-PER-3;Perplexity;E01;gtmlab.ai;https://www.gtmlab.ai/blog/best-agencies-for-chatgpt-visibility;Comparison list;8
+P5-E01-PER-3;Perplexity;E01;claneo.com;https://www.claneo.com/en/case-studies/;Company website;9
+P5-E01-PER-3;Perplexity;E01;onlinemarketing-consultant.de;https://www.onlinemarketing-consultant.de/en/services/geo-consulting/;Company website;10
+P5-E01-PER-3;Perplexity;E01;frankfurt-ai.de;https://frankfurt-ai.de/geo-agentur-frankfurt/;Company website;11
+P5-E01-PER-3;Perplexity;E01;educaseo.com.br;https://educaseo.com.br/blog/seo/estrategia-geo-multiplataforma-chatgpt-gemini-claude-perplexity/;Guide article;12
+P5-E01-PER-3;Perplexity;E01;geo-agentur-frankfurt-am-main.de;https://www.geo-agentur-frankfurt-am-main.de/geo-agentur-frankfurt-optimierung-fur-unternehmen-im-rhein-main-gebiet;Company website;13
+P5-E01-PER-3;Perplexity;E01;openpr.de;https://www.openpr.de/news/1292265/GEO-Agentur-geoagentur-de-macht-Marken-in-ChatGPT-Co-sichtbar.html;Press release portal;14
+P5-E01-PER-3;Perplexity;E01;growsta.de;https://growsta.de/geo-agentur-frankfurt/;Company website;15
+P5-E01-PER-3;Perplexity;E01;suchhelden.de;https://www.suchhelden.de/beste-geo-agenturen-frankfurt.php;Comparison list;16
+P5-E01-PER-3;Perplexity;E01;lohud.com;https://www.lohud.com/press-release/story/258410/pivotal-point-marketing-expands-geo-ai-search-optimization-services-to-help-businesses-get-discovered/;Press release portal;17
+P5-E01-PER-3;Perplexity;E01;dispatch.com;https://www.dispatch.com/press-release/story/255888/the-ai-seo-agency-launches-ai-search-optimisation-services-for-chatgpt-google-ai-overviews-gemini-and-perplexity/;Press release portal;18
+P5-E01-PER-3;Perplexity;E01;linkedin.com;https://www.linkedin.com/pulse/top-6-aeo-agencies-consider-chatgpt-gemini-perplexity-caityln-clark-agode;Social media;19
+P5-E01-PER-3;Perplexity;E01;reddit.com;https://www.reddit.com/r/DigitalMarketing/comments/1tn7zll/which_digital_marketing_agencies_are_best_at/;Community/forum;20
+P5-E02-GEM-3;Gemini;E02;amadora.ai;;Company website;1
+P5-E02-GEM-3;Gemini;E02;medium.com;;Platform;2
+P5-E02-GEM-3;Gemini;E02;enterprise.semrush.com;;Tool vendor;3
+P5-E02-GEM-3;Gemini;E02;forbes.com;;Trade media;4
+P5-E02-PER-3;Perplexity;E02;prnewswire.com;https://www.prnewswire.com/news-releases/the-worldcom-public-relations-group-selects-brandi-ai-as-a-preferred-partner-for-ai-visibility-and-generative-engine-optimization-302936696.html;Press release portal;1
+P5-E02-PER-3;Perplexity;E02;seotrust.de;https://www.seotrust.de/;Company website;2
+P5-E02-PER-3;Perplexity;E02;onlinemarketing-consultant.de;https://www.onlinemarketing-consultant.de/leistungen/geo-consulting/;Company website;3
+P5-E02-PER-3;Perplexity;E02;jha-marketing.de;https://jha-marketing.de/geo-agentur/;Company website;4
+P5-E02-PER-3;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/12/3401798/0/en/more-than-170-geo-and-ai-seo-agencies-in-40-countries-now-partner-with-otterlyai.html;Press release portal;5
+P5-E02-PER-3;Perplexity;E02;formwandler-interactive.com;https://www.formwandler-interactive.com/geo-agentur-frankfurt-ki-seo/;Company website;6
+P5-E02-PER-3;Perplexity;E02;einnews.com;https://www.einnews.com/pr_news/957316547/intellisea-launches-agentic-ai-marketing-platform-for-agencies-and-businesses;Press release portal;7
+P5-E02-PER-3;Perplexity;E02;lohud.com;https://www.lohud.com/press-release/story/258351/search-is-becoming-a-brand-channel-without-click-attribution-victorious-says/;Press release portal;8
+P5-E02-PER-3;Perplexity;E02;einnews.com;https://www.einnews.com/pr_news/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;9
+P5-E02-PER-3;Perplexity;E02;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;10
+P5-E02-PER-3;Perplexity;E02;einnews.com;https://www.einnews.com/pr_news/956139380/leadaio-launches-leadaio-2-0-a-managed-ai-visibility-platform-for-mid-market-and-enterprise-brands;Press release portal;11
+P5-E02-PER-3;Perplexity;E02;morningstar.com;https://www.morningstar.com/news/accesswire/1253248msn/trizcom-pr-wins-fourth-prsa-dallas-best-of-show-award-founder-jo-trizila-receives-norm-teich-award;Press release portal;12
+P5-E02-PER-3;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/17/3404762/0/en/the-state-of-b2b-growth-marketing-as-2026-closes-what-the-data-signals-for-2027.html;Press release portal;13
+P5-E02-PER-3;Perplexity;E02;rankpivot.ai;https://rankpivot.ai/ai-visibility-agency/;Company website;14
+P5-E02-PER-3;Perplexity;E02;morningstar.com;https://www.morningstar.com/news/pr-newswire/20261116ph98299/best-chatgpt-visibility-agency-for-brand-mentions-nicely-network-recognised-by-consumer365;Press release portal;15
+P5-E02-PER-3;Perplexity;E02;reddit.com;https://www.reddit.com/r/digital_marketing/comments/1rpmtmy/what_are_the_top_5_ai_visibility_agencies_in_2026/;Community/forum;16
+P5-E02-PER-3;Perplexity;E02;brandlight.ai;https://brandlight.ai/blog/best-ai-visibility-tools-for-agencies;Comparison list;17
+P5-E02-PER-3;Perplexity;E02;finance.yahoo.com;https://finance.yahoo.com/technology/ai/articles/best-ai-visibility-geo-agency-042700517.html;Press release portal;18
+P5-E02-PER-3;Perplexity;E02;visibilitylabs.com;https://visibilitylabs.com/;Company website;19
+P5-E02-PER-3;Perplexity;E02;getnews.info;https://www.getnews.info/story/2026/11/17/usa-marketing-pros-launches-free-ai-visibility-checker-tool-for-local-business-websites/;Press release portal;20
+P5-E02-PER-3;Perplexity;E02;beaivisible.ai;https://beaivisible.ai/;Company website;21
+P5-E02-PER-3;Perplexity;E02;geo-agentur-frankfurt-am-main.de;https://geo-agentur-frankfurt-am-main.de/;Company website;22
+P5-E02-PER-3;Perplexity;E02;dreikon.de;https://www.dreikon.de/leistungen/seo-agentur/geo/;Company website;23
+P5-E02-PER-3;Perplexity;E02;geoagenturen.de;https://www.geoagenturen.de/frankfurt;Agency directory;24
+P5-E02-PER-3;Perplexity;E02;pulsmedia-group.com;https://pulsmedia-group.com/llmo-und-geo-agentur-frankfurt/;Company website;25
+P5-E02-PER-3;Perplexity;E02;rheinmaintech.com;https://rheinmaintech.com/geo-agentur-frankfurt/;Company website;26
+P5-E02-PER-3;Perplexity;E02;geo-agentur-frankfurt.net;https://geo-agentur-frankfurt.net/;Company website;27
+P5-E02-PER-3;Perplexity;E02;globenewswire.com;https://www.globenewswire.com/news-release/2026/11/18/3406106/0/en/ai-visibility-for-industrial-parts-mro-distributors-six-companies-exceed-35-visibility.html;Press release portal;28
+P5-E02-PER-3;Perplexity;E02;usatoday.com;https://www.usatoday.com/press-release/story/59223/usa-marketing-pros-launches-free-ai-visibility-checker-tool-for-local-business-websites/;Press release portal;29
+P5-E02-PER-3;Perplexity;E02;openpr.com;https://www.openpr.com/news/4693843/geo-agency-shows-the-office-that-fights-for-clients-in-ai-search;Press release portal;30
+P5-E05-CHA-3;ChatGPT;E05;taismo.de;;Comparison list;1
+P5-E05-CHA-3;ChatGPT;E05;in-sync.io;;Comparison list;2
+P5-E05-CHA-3;ChatGPT;E05;archipelmarketing.com;;Comparison list;3
+P5-E05-CHA-3;ChatGPT;E05;firstpagesage.com;;Comparison list;4
+P5-E05-CHA-3;ChatGPT;E05;canlah.ai;;Comparison list;5
+P5-E05-CHA-3;ChatGPT;E05;taismo.de;;Comparison list;6
+P5-E05-CHA-3;ChatGPT;E05;firstpagesage.com;;Comparison list;7
+P5-E05-CHA-3;ChatGPT;E05;thedigitalelevator.com;;Comparison list;8
+P5-E05-CHA-3;ChatGPT;E05;aeogeolabs.com;;Comparison list;9
+P5-E05-CHA-3;ChatGPT;E05;in-sync.io;;Comparison list;10
+P5-E05-CHA-3;ChatGPT;E05;archipelmarketing.com;;Comparison list;11
+P5-E05-CHA-3;ChatGPT;E05;theagentoperators.com;;Comparison list;12
+P5-E05-CHA-3;ChatGPT;E05;pepper.inc;;Comparison list;13
+P5-E05-CHA-3;ChatGPT;E05;drewgarrett.org;;Comparison list;14
+P5-E05-CHA-3;ChatGPT;E05;velivohr.com;;Comparison list;15
+P5-E05-CHA-3;ChatGPT;E05;canlah.ai;;Comparison list;16
+P5-E05-CHA-3;ChatGPT;E05;llmauthorityindex.com;;Comparison list;17
+P5-E05-CHA-3;ChatGPT;E05;scaile.tech;;Comparison list;18
+P5-E05-CHA-3;ChatGPT;E05;breakingb2b.com;;Comparison list;19
+P5-E05-CHA-3;ChatGPT;E05;relevance.com;;Comparison list;20
+P5-E05-GEM-3;Gemini;E05;think11.de;;Company website;1
+P5-E05-GEM-3;Gemini;E05;reddit.com;;Community/forum;2
+P5-E05-GEM-3;Gemini;E05;aipeekaboo.com;;Tool vendor;3
+P5-E05-PER-3;Perplexity;E05;claneo.com;https://www.claneo.com/de/geo-llmo-agentur/;Company website;1
+P5-E05-PER-3;Perplexity;E05;beomniscient.com;https://beomniscient.com/case-studies/;Company website;2
+P5-E05-PER-3;Perplexity;E05;ipullrank.com;https://ipullrank.com/;Company website;3
+P5-E05-PER-3;Perplexity;E05;umbrex.com;https://umbrex.com/resources/generative-engine-optimization-resource-directory/go-fish-digital/;Agency directory;4
+P5-E05-PER-3;Perplexity;E05;gofishdigital.com;https://gofishdigital.com/blog/generative-engine-optimization-geo-case-study-driving-leads/;Company website;5
+P5-E05-PER-3;Perplexity;E05;moments.top;https://moments.top/en/library/go-fish-digital-geo;Guide article;6
+P5-E05-PER-3;Perplexity;E05;frankfurt-ai.de;https://frankfurt-ai.de/geo-agentur-frankfurt/;Company website;7
+P5-E05-PER-3;Perplexity;E05;frankfurter-werbeagentur.de;https://www.frankfurter-werbeagentur.de/leistungen/ki-sichtbarkeit-frankfurt;Company website;8
+P5-E05-PER-3;Perplexity;E05;yotpo.com;https://www.yotpo.com/blog/llm-monitoring-tools-brand-visibility/;Comparison list;9
+P5-E05-PER-3;Perplexity;E05;businessplusai.com;https://www.businessplusai.com/blog/the-12-best-ai-pr-agencies-for-llm-visibility-geo;Comparison list;10
+P5-E05-PER-3;Perplexity;E05;higoodie.com;https://higoodie.com/blog/llm-visibility-services/;Guide article;11
+P5-E05-PER-3;Perplexity;E05;beomniscient.com;https://beomniscient.com/blog/the-9-best-llm-seo-agencies-for-b2b-brands-2027-guide/;Comparison list;12
+P5-E05-PER-3;Perplexity;E05;aimers.io;https://aimers.io/blog/top-10-llm-optimization-agencies;Comparison list;13
+P5-E05-PER-3;Perplexity;E05;getmarg.com;https://getmarg.com/best-ai-visibility-agencies/;Comparison list;14
+P5-E05-PER-3;Perplexity;E05;rankability.com;https://www.rankability.com/blog/best-llm-seo-rank-trackers/;Comparison list;15
+P5-E05-PER-3;Perplexity;E05;linkedin.com;https://www.linkedin.com/pulse/9-best-llm-visibility-tools-brands-agencies-sanjay-singh-zxrme;Social media;16
+P5-E05-PER-3;Perplexity;E05;marketercoffee.com;https://marketercoffee.com/ranking/best-llmo-agencies/;Comparison list;17
+P5-E05-PER-3;Perplexity;E05;leadingsearchlist.com;https://leadingsearchlist.com/compare/ipullrank-vs-omniscient-digital;Comparison list;18
+P5-E05-PER-3;Perplexity;E05;gofishdigital.com;https://gofishdigital.com/blog/generative-engine-optimization-strategies/;Guide article;19
+P5-E05-PER-3;Perplexity;E05;maximuslabs.ai;https://www.maximuslabs.ai/generative-engine-optimization/geo-case-studies-success-stories;Guide article;20
+P5-E05-PER-3;Perplexity;E05;contenu.us;https://contenu.us/best-generative-engine-optimization-agencies-top-digital-marketing-agency-contenu/;Comparison list;21
+P5-E05-PER-3;Perplexity;E05;lifewood.com;https://lifewood.com/blogs/lifewood-vs-go-fish-digital/;Comparison list;22
+P5-E05-PER-3;Perplexity;E05;bignewsnetwork.com;https://www.bignewsnetwork.com/news/279438132/best-geo-agencies-in-2026;Press release portal;23
+P5-E05-PER-3;Perplexity;E05;citeworksstudio.com;https://citeworksstudio.com/case-studies/ai-company-market-strategy-reports/enterprise-seo-agencies/ipullrank;Guide article;24
+P5-E05-PER-3;Perplexity;E05;finance.yahoo.com;https://finance.yahoo.com/technology/ai/articles/best-llm-visibility-agency-businesses-150000104.html;Press release portal;25
+P5-E14-CHA-3;ChatGPT;E14;thedigitalelevator.com;;Comparison list;1
+P5-E14-CHA-3;ChatGPT;E14;relevance.com;;Comparison list;2
+P5-E14-CHA-3;ChatGPT;E14;taismo.de;;Comparison list;3
+P5-E14-CHA-3;ChatGPT;E14;taismo.de;;Comparison list;4
+P5-E14-CHA-3;ChatGPT;E14;helppage.ai;;Comparison list;5
+P5-E14-CHA-3;ChatGPT;E14;aiclicks.io;;Comparison list;6
+P5-E14-CHA-3;ChatGPT;E14;taismo.de;;Comparison list;7
+P5-E14-CHA-3;ChatGPT;E14;klickbee.com;;Comparison list;8
+P5-E14-CHA-3;ChatGPT;E14;firstpagesage.com;;Comparison list;9
+P5-E14-CHA-3;ChatGPT;E14;thedigitalelevator.com;;Comparison list;10
+P5-E14-CHA-3;ChatGPT;E14;taismo.de;;Comparison list;11
+P5-E14-CHA-3;ChatGPT;E14;growffic.com;;Comparison list;12
+P5-E14-CHA-3;ChatGPT;E14;drewgarrett.org;;Comparison list;13
+P5-E14-CHA-3;ChatGPT;E14;canlah.ai;;Comparison list;14
+P5-E14-CHA-3;ChatGPT;E14;jeenaminfotech.com;;Comparison list;15
+P5-E14-CHA-3;ChatGPT;E14;newshub.medianet.com.au;;Press release portal;16
+P5-E14-CHA-3;ChatGPT;E14;scaile.tech;;Comparison list;17
+P5-E14-CHA-3;ChatGPT;E14;relevance.com;;Comparison list;18
+P5-E14-GEM-3;Gemini;E14;suxeedo.de;;Company website;1
+P5-E14-GEM-3;Gemini;E14;pixelmojo.io;;Comparison list;2
+P5-E14-GEM-3;Gemini;E14;digitalagencynetwork.com;;Agency directory;3
+P5-E14-GEM-3;Gemini;E14;a16z.com;;Trade media;4
+P5-E14-GEM-3;Gemini;E14;digitalagenten.com;;Company website;5
+P5-E14-PER-3;Perplexity;E14;claneo.com;https://www.claneo.com/en/geo-llmo-agency/;Company website;1
+P5-E14-PER-3;Perplexity;E14;delante.co;https://delante.co/who-should-companies-hire-for-ai-visibility-and-brand-mentions/;Guide article;2
+P5-E14-PER-3;Perplexity;E14;grovia-digital.com;https://www.grovia-digital.com/en/answers/brand-invisible-in-ai-chatbots/;Company website;3
+P5-E14-PER-3;Perplexity;E14;builtin.com;https://builtin.com/articles/agencies-for-ai-search-visibility;Comparison list;4
+P5-E14-PER-3;Perplexity;E14;rosssimmonds.com;https://rosssimmonds.com/blog/ai-visibility-agency/;Guide article;5
+P5-E14-PER-3;Perplexity;E14;canonry.ai;https://canonry.ai/blog/agency-for-chatgpt-visibility;Guide article;6
+P5-E14-PER-3;Perplexity;E14;gtm8020.com;https://www.gtm8020.com/blog/ai-visibility-agencies;Comparison list;7
+P5-E14-PER-3;Perplexity;E14;hamstergarage.com;https://www.hamstergarage.com/article/ai-visibility-agency-guide;Guide article;8
+P5-E14-PER-3;Perplexity;E14;contensifyhq.com;https://contensifyhq.com/blog/best-ai-visibility-agencies-to-grow-your-brand/;Comparison list;9
+P5-E14-PER-3;Perplexity;E14;troymedia.com;https://troymedia.com/joint-venture/12-best-ai-visibility-agencies/;Comparison list;10
+P5-E12-PER-3;Perplexity;E12;adgrow.ae;https://adgrow.ae/ai-visibility/;Company website;1
+P5-E12-PER-3;Perplexity;E12;vistabylara.com;https://www.vistabylara.com/services/aeo-geo;Company website;2
+P5-E12-PER-3;Perplexity;E12;grovia-digital.com;https://www.grovia-digital.com/en/geo-agency-uae/;Company website;3
+P5-E12-PER-3;Perplexity;E12;flarefalcon.ai;https://flarefalcon.ai/;Company website;4
+P5-E12-PER-3;Perplexity;E12;vistabylara.com;https://www.vistabylara.com/;Company website;5
+P5-E12-PER-3;Perplexity;E12;metanestagency.com;https://metanestagency.com/ai-visibility/;Company website;6
+P5-E12-PER-3;Perplexity;E12;probans.ae;https://probans.ae/;Company website;7
+P5-E12-PER-3;Perplexity;E12;huggingface.co;https://huggingface.co/Grovia-Digital;Dataset platform;8
+P5-E12-PER-3;Perplexity;E12;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;9
+P5-E12-PER-3;Perplexity;E12;openpr.com;https://www.openpr.com/news/4694264/google-ai-and-chatgpt-disagree-on-the-no-1-saas-brand-in-54;Press release portal;10
+P5-E12-PER-3;Perplexity;E12;absolute.digital;https://absolute.digital/ae/services/ai-visibility/;Company website;11
+P5-E12-PER-3;Perplexity;E12;brava360.digital;https://brava360.digital/;Company website;12
+P5-E16-CHA-3;ChatGPT;E16;thegrowingai.com;;Comparison list;1
+P5-E16-CHA-3;ChatGPT;E16;grovia-digital.com;;Comparison list;2
+P5-E16-CHA-3;ChatGPT;E16;samuraconsulting.com;;Comparison list;3
+P5-E16-CHA-3;ChatGPT;E16;growaxis.net;;Comparison list;4
+P5-E16-CHA-3;ChatGPT;E16;flarefalcon.ai;;Company website;5
+P5-E16-CHA-3;ChatGPT;E16;samuraconsulting.com;;Company website;6
+P5-E16-CHA-3;ChatGPT;E16;onekindagency.com;;Company website;7
+P5-E16-CHA-3;ChatGPT;E16;moujsolutions.com;;Company website;8
+P5-E16-CHA-3;ChatGPT;E16;udjat.ae;;Company website;9
+P5-E16-CHA-3;ChatGPT;E16;aimenalabs.com;;Company website;10
+P5-E16-CHA-3;ChatGPT;E16;redberries.ae;;Company website;11
+P5-E16-CHA-3;ChatGPT;E16;sequencecommerce.com;;Company website;12
+P5-E16-PER-3;Perplexity;E16;openpr.com;https://www.openpr.com/news/4694264/google-ai-and-chatgpt-disagree-on-the-no-1-saas-brand-in-54;Press release portal;1
+P5-E16-PER-3;Perplexity;E16;agencies.semrush.com;https://agencies.semrush.com/list/ai-optimization/united-arab-emirates/;Agency directory;2
+P5-E16-PER-3;Perplexity;E16;decipher.agency;https://www.decipher.agency/ai-search-optimisation-agency-uae;Company website;3
+P5-E16-PER-3;Perplexity;E16;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;4
+P5-E16-PER-3;Perplexity;E16;cmea.ae;https://cmea.ae/ai-search-visibility/;Company website;5
+P5-E16-PER-3;Perplexity;E16;vistabylara.com;https://www.vistabylara.com/;Company website;6
+P5-E16-PER-3;Perplexity;E16;absolute.digital;https://absolute.digital/ae/services/ai-visibility/;Company website;7
+P5-E16-PER-3;Perplexity;E16;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;8
+P5-E16-PER-3;Perplexity;E16;megvidigital.com;https://megvidigital.com/evaluate-ai-visibility-agency-uae/;Guide article;9
+P5-E16-PER-3;Perplexity;E16;einnews.com;https://www.einnews.com/pr_news/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;10
+P5-E17-CHA-3;ChatGPT;E17;thegrowingai.com;;Comparison list;1
+P5-E17-CHA-3;ChatGPT;E17;wearetenet.com;;Comparison list;2
+P5-E17-CHA-3;ChatGPT;E17;goodfirms.co;;Agency directory;3
+P5-E17-CHA-3;ChatGPT;E17;goodfirms.co;;Agency directory;4
+P5-E17-CHA-3;ChatGPT;E17;rightdoor.ae;;Company website;5
+P5-E17-CHA-3;ChatGPT;E17;rightdoor.ae;;Company website;6
+P5-E17-CHA-3;ChatGPT;E17;samuraconsulting.com;;Company website;7
+P5-E17-CHA-3;ChatGPT;E17;digitalhouse.ae;;Company website;8
+P5-E17-CHA-3;ChatGPT;E17;udjat.ae;;Company website;9
+P5-E17-CHA-3;ChatGPT;E17;technoid.ae;;Company website;10
+P5-E17-CHA-3;ChatGPT;E17;rath.ae;;Company website;11
+P5-E17-CHA-3;ChatGPT;E17;trinityseo.ae;;Company website;12
+P5-E17-PER-3;Perplexity;E17;chainreaction.ae;https://www.chainreaction.ae/seo-search-engine-optimization-agency/;Company website;1
+P5-E17-PER-3;Perplexity;E17;nexusoneagency.com;https://www.nexusoneagency.com/services/ai-search-optimization/;Company website;2
+P5-E17-PER-3;Perplexity;E17;globalmediainsight.com;https://www.globalmediainsight.com/generative-engine-optimization-services/;Company website;3
+P5-E17-PER-3;Perplexity;E17;aiims.group;https://aiims.group/services/ai-marketing-services/ai-seo-services-dubai/;Company website;4
+P5-E17-PER-3;Perplexity;E17;einpresswire.com;https://www.einpresswire.com/article/957470479/ai-growth-technologies-stakes-its-claim-as-the-best-llmo-agency-for-the-ai-search-era;Press release portal;5
+P5-E17-PER-3;Perplexity;E17;sciwizdigital.com;https://sciwizdigital.com/generative-engine-optimisation/;Company website;6
+P5-E17-PER-3;Perplexity;E17;agencies.semrush.com;https://agencies.semrush.com/list/ai-optimization/united-arab-emirates/;Agency directory;7
+P5-E17-PER-3;Perplexity;E17;pixzent.com;https://pixzent.com/service/comprehensive-seo-aeo-geo-services/;Company website;8
+P5-E17-PER-3;Perplexity;E17;3rdscreendigital.com;https://www.3rdscreendigital.com/seo-geo-services;Company website;9
+P5-E17-PER-3;Perplexity;E17;einpresswire.com;https://www.einpresswire.com/article/956497282/reddlix-brings-the-first-native-ai-visibility-and-geo-agency-to-help-uae-brands-rank-in-chatgpt-and-ai-search;Press release portal;10
+P5-E20-CHA-3;ChatGPT;E20;growaxis.net;;Comparison list;1
+P5-E20-CHA-3;ChatGPT;E20;adjoltz.com;;Guide article;2
+P5-E20-CHA-3;ChatGPT;E20;grovia-digital.com;;Comparison list;3
+P5-E20-CHA-3;ChatGPT;E20;bluebeetle.ae;;Company website;4
+P5-E20-CHA-3;ChatGPT;E20;grovia-digital.com;;Comparison list;5
+P5-E20-CHA-3;ChatGPT;E20;growaxis.net;;Comparison list;6
+P5-E20-CHA-3;ChatGPT;E20;adjoltz.com;;Guide article;7
+P5-E20-CHA-3;ChatGPT;E20;bluebeetle.ae;;Company website;8
+P5-E20-PER-3;Perplexity;E20;grovia-digital.com;https://www.grovia-digital.com/en/answers/ai-visibility-cost-uae/;Company website;1
+P5-E20-PER-3;Perplexity;E20;highstreetagency.com;https://highstreetagency.com/insights/geo-pricing-uae/;Guide article;2
+P5-E20-PER-3;Perplexity;E20;softwarestem.com;https://softwarestem.com/blog/ai-development-cost-dubai.html;Company website;3
+P5-E20-PER-3;Perplexity;E20;try28labs.com;https://try28labs.com/ai-visibility-audit-cost-dubai/;Company website;4
+P5-E20-PER-3;Perplexity;E20;humanswith.ai;https://humanswith.ai/blog/best-geo-ai-visibility-agencies-dubai-uae-2026/;Comparison list;5
+P5-E20-PER-3;Perplexity;E20;thrivefinity.uk;https://www.thrivefinity.uk/compare/ai-visibility-agencies-uae;Comparison list;6
+P5-E20-PER-3;Perplexity;E20;miraireach.marketing;https://miraireach.marketing/geo-pricing-dubai;Guide article;7
+P5-E20-PER-3;Perplexity;E20;miraireach.ae;https://miraireach.ae/geo-pricing-dubai;Guide article;8
+P5-E20-PER-3;Perplexity;E20;curiousmindlabs.com;https://curiousmindlabs.com/guides/how-much-does-ai-visibility-cost-in-the-uae;Company website;9
+P5-E20-PER-3;Perplexity;E20;emtech.ae;https://emtech.ae/ai-implementation-cost-uae/;Guide article;10

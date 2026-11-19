@@ -1,5 +1,43 @@
 # Changelog
 
+## 2026-11-19 · Pulse P5 (19 Nov)
+
+- Blocks A and B: 10 prompts on ChatGPT, Perplexity and Gemini plus 4 GCC prompts on ChatGPT
+  and Perplexity, 3 runs, 114 measurements. Same conditions and counting rules as P1 to P4.
+  Runs block A: 06:15–06:33, 09:24–09:40, 12:26–12:40 CET; block B directly after each run.
+- Grovia Digital named in 12 of 114 measurements: 4 of 90 in block A, 8 of 24 in block B.
+  Perplexity accounts for 11 mentions, ChatGPT for 1. Block A: E14 on Perplexity in 3 of 3 runs
+  (rank 2), D12 on Perplexity in run 2 (rank 3). Block B on Perplexity: E20 in 3 of 3 runs
+  (ranks 4, 4, 2), E12 in runs 1 and 3 (rank 3), E16 in runs 1 and 2 (rank 3). ChatGPT: E20 in
+  run 1 (rank 5). Gemini: 0 mentions.
+- Cited as a source in 27 measurements: Perplexity 12 in block A and 8 in block B, ChatGPT 7 in
+  block B. 25 of them cite grovia-digital.com; 2 cite only a Grovia profile (GitHub in
+  P5-E12-PER-1, Hugging Face in P5-E12-PER-2).
+- 587 provider mentions from 194 providers (block A 493 from 154, block B 94 from 40). Most
+  named in block A: Claneo (49), Evergreen Media (29), Aufgesang (23). Block B: Digital Gravity
+  (10), SEO Sherpa (9), FlareFalcon (8).
+- New column `sources_status` in the measurements file: `shown`, `none shown` or `not captured`.
+  ChatGPT: 34 shown, 8 not captured. Gemini: 29 shown, 1 none shown. Perplexity: 42 shown.
+- Sources file covers all three platforms for the first time: 1,418 rows (Perplexity 670,
+  ChatGPT 608, Gemini 140). ChatGPT's source panel and Gemini's source chips show domain and
+  title without a URL, so `url` is empty in 748 rows. For Gemini only the chips were recorded.
+  New source types: Guide article, Dataset platform, Consultancy, Video, Podcast.
+- README: new section "Source coverage" with answers, captured sources and source mix per
+  platform and language for the baseline and P5. Pooled source shares mostly describe
+  Perplexity (80 % of baseline source rows).
+- Column `model`: not recorded in P5. Column `paid_placement`: yes in 5 ChatGPT measurements of
+  run 1, `not recorded` in 10 measurements where the text copy does not show whether an ad
+  appeared.
+- Limitation: with the VPN exit in Frankfurt, Perplexity added Frankfurt or the Rhine-Main
+  region to its answer without being asked in at least 18 of 30 block A measurements (count
+  from measurement notes). ChatGPT showed a usage-limit notice from D09 in run 3; web search and
+  sources worked as before. The text copy of P5-E12-CHA-3 ends mid-sentence.
+- Spelling variants merged in P5: "GEOAgentur.de" as "geoagentur.de", "Radyant Digital" as
+  "Radyant", "OMNIUS" as "Omnius", "hurra.com" as "Hurra Communications", "Kopp Online Marketing
+  Consulting" as "Kopp Online Marketing", "Famefact" as "famefact", "Schaefer Online Marketing"
+  as "Schäfer Online Marketing", "VENTAS" as "Ventas", "SEOTRUST" as "seotrust", "PULSMEDIA
+  Group" as "Pulsmedia Group". P1 to P4 files are unchanged.
+
 ## 2026-11-05 · Pulse P4 (5 Nov)
 
 - Block A only (10 prompts on ChatGPT, Perplexity and Gemini), 3 runs, 90 measurements. Same
